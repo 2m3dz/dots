@@ -1,0 +1,143 @@
+# ##############################################################################
+# #                                   KEYBINDS                                 #
+# ##############################################################################
+
+# NOTE: This is directly ported from my i3wim config.
+
+#Spwn Brave
+super + w
+    custom-brave
+
+
+# Focus next/prev window
+super + {_,shift + }f
+    bspc node -f {next,prev}.local.!hidden.window
+
+# Fullscreen window with gaps
+alt + {_,shift + }f
+    sh $HOME/.local/bin/tglbar {hide,show}
+
+#################################################
+
+# Move the focused window
+#super + {h,j,k,l}
+#	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# Send the window to another edge of the screen
+super + {_,shift + }{Left,Down,Up,Right}
+        bspc node -{f,s} {west,south,north,east}
+
+# Reload Keybindings
+super + Escape
+        pkill -USR1 -x sxhkd
+
+# Expanding windows
+super + control + {Left,Right,Up,Down}
+        bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20}
+
+## Shrinking windows
+super + alt + {Left,Right,Up,Down}
+        bspc node -z {left 20 0,right -20 0,top 0 20,bottom 0 -20}
+
+# Hide/Unhide Window
+super + shift + i
+        winmask
+
+# Termina again
+super + Return
+    termite
+
+# Fullscreen or Monocle
+super + o
+        bspc desktop -l next
+
+# News
+super + n
+        termite --hold -e /bin/newsboat
+
+# Htop
+super + h
+        termite --hold -e htop
+# Edge
+
+super + e
+        microsoft-edge-dev
+
+# Cryp
+################################################
+
+# Kill the focused window
+super + q
+    bspc node -c
+
+# Move to or send window to workspace #
+super + {_,shift + }{1-7}
+	bspc {desktop -f,node -d} '^{1-7}'
+
+# Resize window
+super + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# Set window state
+super + {alt + t,shift + t,space,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# Add focused window to a tabbed instance
+super + t; {h,j,k,l}
+    tabc $(bspc query -N -n {west,south,north,east}) add $(bspc query -N -n focused)
+# Remove the focused window from a tabbed instance
+super + t; r
+    tabbed=$(bspc query -N -n focused); \
+    child=$(tabc list $tabbed | head -n1); \
+    tabc $tabbed remove $child
+
+# Set new window orientation
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# Cancel the new window orientation
+super + ctrl + space
+	bspc node -p cancel
+
+# Start Terminal
+super + x
+    termite
+
+# Open application menu
+super + d
+    sh $HOME/.local/bin/appmnu
+
+# Toggle eww dashboard
+super + {_,shift + }p
+    sh $HOME/.local/bin/dshbrd {open,close}
+
+# Screenshot
+# Save to local storage
+super + Print
+    DATE=$(date '+%b%d-%H-%M.png'); \
+    maim --select "$HOME/Pictures/Screenshots/$DATE"; \
+    sh ~/.local/bin/viewscr ~/Pictures/Screenshots/$DATE | xclip -selection clipboard -t image/png
+
+# Upload to CDN
+#super + Print
+#    DATE=$(date '+%b%d-%H-%M.png'); \
+#    maim --select "$HOME/Pictures/Screenshots/$DATE"; \
+#    sh ~/.local/bin/upldscr $HOME/Pictures/Screenshots/$DATE
+
+# Manage volume
+XF86Audio{Raise,Lower}Volume
+    amixer -q set Master 5%{+,-}
+
+XF86AudioMute
+    amixer set Master toggle
+
+# Manage brightness
+XF86MonBrightness{Up,Down}
+    brightnessctl set 5%{+,-}
+   
+# Quit and restart bspwm
+super + alt + {q,shift + }r
+    bspc {quit,wm -r}

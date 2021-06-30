@@ -1,0 +1,5220 @@
+: 1619680034:0;vim ~/.zshrc
+: 1619680216:0;xmonad --recompile
+: 1619680265:0;vim bin/powermenu.sh
+: 1619680478:0;vim .zprofile
+: 1619680510:0;vim .xinitrc
+: 1619680618:0;exit
+: 1619680810:0;pacman -S gtk2
+: 1619680818:0;sudo pacman -S gtk2
+: 1619680841:0;exit
+: 1619681363:0;ls
+: 1619681367:0;ls -a
+: 1619681372:0;cd .config
+: 1619681373:0;ls
+: 1619681471:0;cd
+: 1619681521:0;picom -b
+: 1619681575:0;nmmcli
+: 1619681581:0;nmcli
+: 1619681592:0;sudo wifi-menu wlp0s29f7u1
+: 1619682470:0;tint2conf
+: 1619682751:0;ls -a
+: 1619682776:0;cd .xmonad
+: 1619682776:0;ls
+: 1619682794:0;vim xmonad.hs
+: 1619682899:0;xmonad --recompile
+: 1619682913:0;vim xmonad.hs
+: 1619683056:0;nnnvim
+: 1619683058:0;nvim
+: 1619683103:0;setsid picom
+: 1619683123:0;ka picom
+: 1619683128:0;killall picom
+: 1619683146:0;killall xcompmgr
+: 1619683150:0;picom -b
+: 1619683175:0;cd .config/
+: 1619683176:0;ls
+: 1619683182:0;vim picom.conf
+: 1619683339:0;picom
+: 1619683513:0;picom --experimental-backends
+: 1619683764:0;cd
+: 1619683773:0;su 
+: 1619683980:0;clear
+: 1619683983:0;cd .config
+: 1619683985:0;ls
+: 1619683997:0;mv picom.conf picom.old
+: 1619683998:0;ls
+: 1619684002:0;cd
+: 1619684073:0;cp /etc/xdg/picom.conf.example ~/.config/picom.conf
+: 1619684076:0;cd .config
+: 1619684076:0;ls
+: 1619684080:0;picom
+: 1619684094:0;cd
+: 1619684118:0;sudo pacman -R picom-jonaburg-git
+: 1619684200:0;sudo pacman -S picom
+: 1619684209:0;picom
+: 1619684237:0;clear
+: 1619684239:0;cd .config
+: 1619684240:0;ls
+: 1619684249:0;rm -rf picom.conf
+: 1619684261:0;mv picom.old picom.conf
+: 1619684264:0;picom
+: 1619684283:0;killall picom
+: 1619684290:0;picom -b
+: 1619684311:0;vim picom.conf
+: 1619684360:0;killall picom
+: 1619684363:0;picom -b
+: 1619684439:0;yay -S picom-ibhagwan-git
+: 1619684700:0;killall picom
+: 1619684707:0;picom -b
+: 1619684769:0;killall picom
+: 1619684770:0;picom -b
+: 1619684788:0;clear
+: 1619684791:0;su 
+: 1619684838:0;cf
+: 1619684840:0;cd .config
+: 1619684841:0;ls
+: 1619684846:0;vim picom.conf
+: 1619684904:0;picom -b
+: 1619685016:0;killall picom
+: 1619685025:0;sudo killall picom
+: 1619685032:0;picom -b
+: 1619685065:0;cd .config
+: 1619685065:0;ls
+: 1619685080:0;mv picom.conf picom.old
+: 1619685103:0;cp /etc/xdg/picom.conf.example ~/.config/picom.conf
+: 1619685109:0;killall picom
+: 1619685112:0;picom -b
+: 1619685176:0;ls
+: 1619685181:0;rm -rf picom.conf
+: 1619685195:0;nano picom.conf
+: 1619685234:0;killall picom
+: 1619685237:0;picom -b
+: 1619685278:0;vim picom.conf
+: 1619685338:0;killall picom
+: 1619685341:0;picom -b
+: 1619685377:0;cd
+: 1619685391:0;yay -S picom-git
+: 1619685682:0;killall picom
+: 1619685686:0;picom -b
+: 1619685830:0;st
+: 1619685862:0;vim .config/picom.conf
+: 1619686044:0;killall picom
+: 1619686055:0;picom -b
+: 1619686275:0;killall picom
+: 1619686277:0;picom -b
+: 1619686352:0;killall picom
+: 1619686353:0;picom -b
+: 1619686627:0;lf
+: 1619686665:0;setbg
+: 1619686690:0;wal -i Downloads/wallhaven-6olw9x_1280x800.png
+: 1619686951:0;htop
+: 1619686972:0;vim .config/picom.conf
+: 1619687051:0;killall picom
+: 1619687055:0;picom -b
+: 1619687117:0;st
+: 1619687139:0;wal -i wallpapers/yosemite-lowpoly.jpg
+: 1619687165:0;wal -i Downloads/wallhaven-6olw9x_1280x800.png
+: 1619687171:0;vim .config/picom.conf
+: 1619687639:0;amixer
+: 1619687649:0;pavucontrol
+: 1619687760:0;cd .config
+: 1619687767:0;vim picom.conf
+: 1619687879:0;killall picom
+: 1619687882:0;picom -b
+: 1619687901:0;killall picom
+: 1619687902:0;picom -b
+: 1619687958:0;killall picom
+: 1619687959:0;picom -b
+: 1619687975:0;clear
+: 1619688187:0;tint2conf
+: 1619690141:0;cd .xmonad
+: 1619690162:0;vim xmonad.hs
+: 1619690201:0;cd
+: 1619690229:0;su 
+: 1619690316:0;cd .config
+: 1619690317:0;ls
+: 1619690326:0;mkdir termite
+: 1619690332:0;mv config termite
+: 1619690401:0;su 
+: 1619690458:0;wal -i wallpapers/bp2.png
+: 1619690540:0;vim .xmonad/xmonad.hs
+: 1619691466:0;xmonad --recompile
+: 1619691519:0;pkill x
+: 1619691526:0;a
+: 1619691549:0;alqcrcea
+: 1619691563:0;crcaexitxq
+: 1619691805:0;vim .xmonad/xmonad.hs
+: 1619691883:0;xmonad --recompile
+: 1619691966:0;pkill x
+: 1619691972:0;startx
+: 1619692005:0;vim .xmonad/xmonad.hs
+: 1619692045:0;xmonad --recompile
+: 1619692054:0;pkill x
+: 1619692057:0;startx
+: 1619692096:0;vim .xmonad/xmonad.hs
+: 1619692202:0;xmonad --recompile
+: 1619692210:0;pkill x
+: 1619692213:0;startx
+: 1619692301:0;vim .xmonad/xmonad.hs
+: 1619692334:0;xmonad --recompile
+: 1619692343:0;pkill x
+: 1619692346:0;startx
+: 1619692454:0;htop
+: 1619692674:0;sudo wifi-menu wlp0s29f7u1
+: 1619696179:0;time termite
+: 1619696473:0;surf youtube.com
+: 1619696729:0;picom -f
+: 1619696736:0;picom -f -b
+: 1619696831:0;wal -i Downloads/wallhaven-6olw9x_1280x800.png
+: 1619696875:0;ls
+: 1619696883:0;sudo gparted
+: 1619697281:0;wal -i wallpapers/bp2.png
+: 1619697342:0;vim .xmonad/xmonad.hs
+: 1619697396:0;cp Downloads/wallhaven-6olw9x_1280x800.png wallpapers/bp1.png
+: 1619697402:0;cd wallpapers
+: 1619697402:0;ls
+: 1619697446:0;cd
+: 1619697455:0;feh --bg-scale wallpapers/bp1.png
+: 1619697767:0;betterlockscreen
+: 1619697782:0;yay -S betterlockscreen
+: 1619698160:0;pavucontrol
+: 1619698826:0;xmonad --recompile
+: 1619698848:0;xmonad restart
+: 1619698869:0;xmonad --restart
+: 1619698958:0;vim .xmonad/xmonad.hs
+: 1619699213:0;xmonad --recompile
+: 1619699225:0;xmonad --restart
+: 1619699556:0;top
+: 1619699810:0;vim .config/termite/config
+: 1619699882:0;sudo vim .config/termite/config
+: 1619699904:0;nano .config/termite/config
+: 1619699918:0;cd .config/termite
+: 1619699918:0;ls
+: 1619699924:0;nano config
+: 1619699940:0;cd
+: 1619699948:0;su
+: 1619700039:0;cd .config/termite
+: 1619700042:0;nano config
+: 1619700065:0;ls
+: 1619700071:0;ls -a
+: 1619700080:0;vim Note.txt
+: 1619700113:0;p10k configure
+: 1619700564:0;ls
+: 1619700572:0;cd d
+: 1619700577:0;cd dotfiles-2.0
+: 1619700581:0;ls
+: 1619700595:0;cd startpage
+: 1619700596:0;ls
+: 1619700642:0;ccd
+: 1619700645:0;cd
+: 1619700651:0;vim Note.txt
+: 1619701323:0;cp Downloads/MuseoSansCondensed-300.ttf ~/.local/share/fonts
+: 1619701339:0;fc-cache -f
+: 1619701365:0;fc-match mono
+: 1619701371:0;fc-match condensed
+: 1619701546:0;cd dotfiles-2.0
+: 1619701548:0;ls
+: 1619701558:0;cd fonts
+: 1619701558:0;ls
+: 1619701601:0;fc-list | grep museo
+: 1619701606:0;fc-list | grep Museo
+: 1619701661:0;cd
+: 1619701669:0;cd .local/share/fonts
+: 1619701686:0;mv MuseoSansCondensed-300.ttf MuseoSans-300.ttf
+: 1619701693:0;fc-cache -f
+: 1619701733:0;ls
+: 1619701746:0;cd .config
+: 1619701747:0;ls
+: 1619701761:0;cd
+: 1619701763:0;alacritty
+: 1619701780:0;cd
+: 1619701840:0;clear
+: 1619702180:0;cp -R dotfiles-2.0/startpage ~/.mozilla/firefox/PROFILE
+: 1619702234:0;cd .mozilla/firefox/PROFILE/
+: 1619702235:0;ls
+: 1619702238:0;ls -a
+: 1619702263:0;cd
+: 1619702266:0;cd .mozilla/firefox/PROFILE/
+: 1619702268:0;cd ..
+: 1619702269:0;ls
+: 1619702349:0;mv -R PROFILE/startpage ~/.mozilla/firefox/6j9jh2fp.default-release
+: 1619702363:0;mv -r PROFILE/startpage ~/.mozilla/firefox/6j9jh2fp.default-release
+: 1619702370:0;mv PROFILE/startpage ~/.mozilla/firefox/6j9jh2fp.default-release
+: 1619702380:0;ls
+: 1619702384:0;cd 6j9jh2fp.default-release/
+: 1619702384:0;ls
+: 1619702391:0;cd startpage
+: 1619702392:0;ls
+: 1619702420:0;firefox index.html
+: 1619702584:0;cd ..
+: 1619702592:0;ls
+: 1619702606:0;cd ..
+: 1619702607:0;ls
+: 1619702738:0;cd
+: 1619702747:0;cd dotfiles-2.0
+: 1619702748:0;ls
+: 1619702764:0;mkdir firefoxrice
+: 1619702766:0;cd firefoxrice
+: 1619702773:0;git clone https://github.com/dbuxy218/Prismatic-Night
+: 1619702816:0;cd ..
+: 1619702818:0;ls
+: 1619702834:0;rm -rf firefoxrice
+: 1619702971:0;cd .mozilla/firefox/6j9jh2fp.default-release/startpage/
+: 1619702977:0;firefox index.html
+: 1619703480:0;pkill x
+: 1619703487:0;startx
+: 1619703502:0;fc-match
+: 1619703524:0;fc-match sans
+: 1619703532:0;cd .config/
+: 1619703533:0;ls
+: 1619703550:0;cd dconf
+: 1619703550:0;ls
+: 1619703557:0;vim user
+: 1619703605:0;cd
+: 1619703625:0;su 
+: 1619703723:0;cd .config
+: 1619703763:0;mkdir fontconfig
+: 1619703777:0;mv fonts.conf fontconfig
+: 1619703795:0;ls
+: 1619703803:0;ls -a
+: 1619703831:0;notepadqq .config/fontconfig/fonts.conf
+: 1619703856:0;fc-list | grep Museo
+: 1619703918:0;sudo notepadqq .config/fontconfig/fonts.conf
+: 1619704011:0;sudo notepadqq --allow-root .config/fontconfig/fonts.conf
+: 1619704033:0;ls
+: 1619704036:0;ls -a
+: 1619704063:0;ls
+: 1619704066:0;ls -a
+: 1619704133:0;ls
+: 1619704136:0;ls -a
+: 1619704200:0;ls 
+: 1619704202:0;ls -a
+: 1619704234:0;cd .config
+: 1619704236:0;ls -a
+: 1619704249:0;rm -rf picom.old
+: 1619704255:0;cd eww
+: 1619704256:0;ls
+: 1619704260:0;cd scripts
+: 1619704260:0;ls
+: 1619704285:0;cd
+: 1619704287:0;ls -a
+: 1619704298:0;lock.sh
+: 1619704332:0;vim .zshrc
+: 1619704365:0;killall picom
+: 1619704373:0;xcompmgr&
+: 1619704396:0;setsid xcompmgr&
+: 1619704429:0;killall xcompmgr
+: 1619704437:0;picom -f
+: 1619704445:0;setsid picom -f
+: 1619704477:0;ls
+: 1619704744:0;cd .config/eww
+: 1619704747:0;vim eww.xml
+: 1619704875:0;sudo protonvpn -c -f
+: 1619704887:0;sudo protonvpn c -f
+: 1619704959:0;ls
+: 1619704966:0;vim eww.scss
+: 1619704980:0;cd ..
+: 1619704980:0;ls
+: 1619705086:0;cd tint2
+: 1619705086:0;ls
+: 1619705099:0;vim panellauncher.tint2rc
+: 1619705451:0;pkill x
+: 1619705454:0;startx
+: 1619705513:0;cd .config/tint2/
+: 1619705514:0;ls
+: 1619705517:0;cd scripts
+: 1619705517:0;ls
+: 1619705529:0;vim networkmanager.sh
+: 1619705605:0;cd ..
+: 1619705606:0;ls
+: 1619705625:0;vim panellauncher.tint2rc
+: 1619706184:0;ls
+: 1619706199:0;ls -a
+: 1619706203:0;cd scripts
+: 1619706204:0;ls
+: 1619706208:0;cd ..
+: 1619706209:0;ls
+: 1619706297:0;cd
+: 1619706302:0;tint2conf
+: 1619706699:0;pkill x
+: 1619706713:0;startx
+: 1619706800:0;htop
+: 1619706816:0;vim .xmonad/xmonad
+: 1619706824:0;vim .xmonad/xmonad.hs
+: 1619706948:0;xmonad --recompile
+: 1619706970:0;xmonad --restart
+: 1619706978:0;pkill x
+: 1619706981:0;startx
+: 1619707031:0;tint2
+: 1619707041:0;tint2conf
+: 1619707377:0;htop
+: 1619707546:0;cd .config/tint2/scripts
+: 1619707546:0;ls
+: 1619707551:0;vim battery.sh
+: 1619707581:0;vim networkclick.sh
+: 1619708316:0;su 
+: 1619708357:0;vim /bin/custom-brave
+: 1619708407:0;sudo nano /bin/custom-brave
+: 1619708488:0;htop
+: 1619709587:0;ls -a
+: 1619709616:0;vim .bashrc
+: 1619709694:0;wal -i wallpapers/bp2.png
+: 1619709739:0;vim .xmonad/xmonad.hs
+: 1619709796:0;xmonad --recompile
+: 1619709820:0;xmonad --restart
+: 1619709828:0;exit
+: 1619709862:0;htop
+: 1619709873:0;pkill x
+: 1619709876:0;clear
+: 1619709884:0;startx
+: 1619709900:0;tint2conf
+: 1619709933:0;pkill x
+: 1619709936:0;startx
+: 1619710029:0;vim .xmonad/xmonad
+: 1619710035:0;vim .xmonad/xmonad.hs
+: 1619710621:0;cd /bin
+: 1619710622:0;ls
+: 1619710701:0;xmonad --recompile
+: 1619710769:0;vim .xmonad/xmonad.hs
+: 1619711036:0;xmonad --recompile
+: 1619711137:0;xmonad --restart
+: 1619711182:0;pkill x
+: 1619711184:0;startx
+: 1619711234:0;wal -i Downloads/wallhaven-6olw9x_1280x800.png
+: 1619711255:0;ls 
+: 1619711262:0;htop
+: 1619711326:0;vim .xmonad/xmonad.hs
+: 1619711397:0;custom-brave.sh
+: 1619711403:0;vim .xmonad/xmonad.hs
+: 1619712194:0;sudo wifi-menu wlp0s29f7u1
+: 1619712405:0;htop
+: 1619713129:0;slock
+: 1619719402:0;vim .xmonad/xmonad.hs
+: 1619719818:0;sudo wondershaper 
+: 1619719840:0;iplink
+: 1619719847:0;ip kink
+: 1619719852:0;ip link
+: 1619719933:0;sudo wondershaper -a wlp0s29f7u1 -d 900 - 200
+: 1619719954:0;sudo nethogs
+: 1619724334:0;sudo wifi-menu wlp0s29f7u1
+: 1619745820:0;iwconfig
+: 1619745857:0;sudo wifi-menu wlp0s29f7u1
+: 1619745863:0;iwconfig
+: 1619745878:0;sudo wifi-menu wlp0s29f7u1
+: 1619745984:0;iwconfig
+: 1619746073:0;sudo wifi-menu wlp0s29f7u1
+: 1619746080:0;iwconfig
+: 1619748012:0;sudo wifi-menu wlp0s29f7u1
+: 1619748046:0;iwconfig
+: 1619748151:0;sudo wifi-menu wlp0s29f7u1
+: 1619749530:0;iwconfig
+: 1619749533:0;sudo wifi-menu wlp0s29f7u1
+: 1619749547:0;iwconfig
+: 1619752340:0;sudo wifi-menu wlp0s29f7u1
+: 1619752604:0;iwconfig
+: 1619753161:0;su 
+: 1619755623:0;iwconfig
+: 1619755866:0;iwc
+: 1619755868:0;iwconfig
+: 1619755889:0;watch -n0.5 iwconfig
+: 1619755972:0;sudo wifi-menu wlp0s29f7u1
+: 1619756153:0;watch -n0.5 iwconfig
+: 1619756944:0;sudo nethogs
+: 1619756971:0;ntf
+: 1619756983:0;sudo wondershaper -ca
+: 1619756997:0;ip link
+: 1619757008:0;sudo wondershaper -ca wlp0s29f7u1
+: 1619757117:0;watch -n0.5 iwconfig
+: 1619757519:0;htop
+: 1619757774:0;sudo wifi-menu wlp0s29f7u1
+: 1619757792:0;watch -n0.5 iwconfig
+: 1619757919:0;sudo nethogs
+: 1619758072:0;sudo wifi-menu wlp0s29f7u1
+: 1619758121:0;watch -n0.5 iwconfig
+: 1619758161:0;sudo wifi-menu wlp0s29f7u1
+: 1619758478:0;sudo nethogs
+: 1619758787:0;sudo wifi-menu wlp0s29f7u1
+: 1619758957:0;sudo nethogs
+: 1619761069:0;sudo wifi-menu wlp0s29f7u1
+: 1619761623:0;sudo nethogs
+: 1619762128:0;sudo wifi-menu wlp0s29f7u1
+: 1619762300:0;sudo nethogs
+: 1619763755:0;sudo wifi-menu wlp0s29f7u1
+: 1619771224:0;sudo wondershaper -a wlp0s29f7u1 -d 900 - 200
+: 1619771241:0;sudo nethogs
+: 1619775686:0;sudo wifi-menu wlp0s29f7u1
+: 1619794479:0;youtube-dl -F https://www.youtube.com/playlist\?list\=PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794528:0;youtube-dl -F PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794557:0;youtube-dl -F --yes-playlist PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794584:0;youtube-dl -F PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794694:0;youtube-dl -f audio PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794740:0;youtube-dl -f 50 PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794818:0;youtube-dl -f 50k PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619794936:0;youtube-dl --help
+: 1619794966:0;youtube-dl -x PL0vF_vgyAcGl4CNV8NgkNGq90hab_of8j
+: 1619795192:0;cd Downloads
+: 1619795192:0;ls
+: 1619795197:0;cd ..
+: 1619795201:0;cd Videos
+: 1619795202:0;ls
+: 1619795206:0;cd
+: 1619795206:0;ls
+: 1619795274:0;youtube-dl -x https://www.youtube.com/watch\?v\=Yz0ft0YhNHU\&pp\=qAMBugMGCgJmchAB
+: 1619795342:0;youtube-dl -x https://www.youtube.com/watch\?v\=F9PCCZwKHE4 
+: 1619795449:0;clear
+: 1619795450:0;ls
+: 1619795523:0;udisksctl --help
+: 1619795534:0;udisksctl help
+: 1619795573:0;sudo gparted
+: 1619795613:0;su - root23
+: 1619795778:0;clear
+: 1619795798:0;udisksctl mount -b /dev/sdb1
+: 1619795883:0;ls
+: 1619795902:0;mv Clockstoppers\ -\ Cumtown\ Episode\ 257\ -\ 4_28_2021-lHzdiiVqwYo.m4a /run/media/xroot/C8DC0236DC021F76
+: 1619795908:0;ls
+: 1619795923:0;mv Basketball\ -\ Cumtown\ Episode\ 249\ -\ 3_3_2021-gPa1tmmSmpo.m4a /run/media/xroot/C8DC0236DC021F76
+: 1619795928:0;ls
+: 1619795954:0;mv Cumtown\ Premium\ Ep.\ 228\ \(3-21-2021\)\ carl\ language-GmWBfv6GTKQ.m4a /run/media/xroot/C8DC0236DC021F76
+: 1619795970:0;mv Cumtown\ Premium\ Ep.\ 229\ \(3-28-2021\)\ a\ tale\ as\ old\ as\ time-5Pnz9Xj5czw.m4a /run/media/xroot/C8DC0236DC021F76
+: 1619795976:0;ls
+: 1619795988:0;mv INCEST\ MURDERS\ -\ The\ Most\ HORRIFIC\ Story\ You\'ve\ EVER\ Heard\ _\ True\ Crime\ \&\ Murder\ Documentary-Yz0ft0YhNHU.opus /run/media/xroot/C8DC0236DC021F76
+: 1619796003:0;mv Springtime\ for\ Hitler\ -\ Cumtown\ Episode\ 255\ -\ 4_14_2021-NiV7Ste8Hxs.m4a /run/media/xroot/C8DC0236DC021F76
+: 1619796019:0;mv The\ Tube\ Sock\ Killer-F9PCCZwKHE4.opus /run/media/xroot/C8DC0236DC021F76
+: 1619796024:0;clear
+: 1619796025:0;ls
+: 1619796033:0;cd Downloads
+: 1619796034:0;ls
+: 1619796050:0;mv 2Girl\ Who\ Played\ With\ Fire\ audiobook\ by\ Stieg\ Larsson\ \[EarReaders\].mp3 /run/media/xroot/C8DC0236DC021F76
+: 1619796151:0;cd /run/media/xroot/C8DC0236DC021F76
+: 1619796154:0;du -h
+: 1619796157:0;ls
+: 1619796173:0;udisksctl unmount -b /dev/sdb1 
+: 1619796175:0;cd
+: 1619796181:0;udisksctl unmount -b /dev/sdb1 
+: 1619796226:0;clear
+: 1620121626:0;iwconfig
+: 1620121642:0;sudo wifi-menu
+: 1620121648:0;sudo wifi-menu wlp0s29f7u1
+: 1620121691:0;iwconfig
+: 1620121734:0;sudo wondershaper -a wlp0s29f7u1 -d 900 -u 200
+: 1620121753:0;sudo nethogs
+: 1620122392:0;sudo systemctl enable vpn-unlimited-daemon.service
+: 1620122406:0;sudo systemctl start vpn-unlimited-daemon.service
+: 1620122518:0;iwconfig
+: 1620122541:0;sudo wondershaper -ca wlp0s29f7u1 
+: 1620122588:0;sudo wondershaper -a wlp0s29f7u1 -d 900 -u 200
+: 1620122608:0;sudo nethogs
+: 1620122972:0;curl rate.sx/dgb
+: 1620124784:0;sudo wifi-menu wlp0s29f7u1 
+: 1620166258:0;sudo wondershaper -ca wlp0s29f7u1 
+: 1620166277:0;sudo wondershaper -a wlp0s29f7u1 -d 900 -u 200
+: 1620170749:0;sudo wifi-menu wlp0s29f7u1 
+: 1620171151:0;sudo nethogs
+: 1620171811:0;sudo wifi-menu wlp0s29f7u1 
+: 1620171847:0;sudo wondershaper -ca wlp0s29f7u1 
+: 1620171852:0;sudo wondershaper -a wlp0s29f7u1 -d 900 -u 200
+: 1620174003:0;sudo wifi-menu wlp0s29f7u1 
+: 1620174838:0;iwconfig
+: 1620174849:0;watch -n0.5 iwconfig
+: 1620175007:0;sudo wondershaper -ca wlp0s29f7u1 
+: 1620175018:0;watch -n0.5 iwconfig
+: 1620177209:0;sudo wifi-menu wlp0s29f7u1 
+: 1620177266:0;watch -n0.5 iwconfig
+: 1620177636:0;sudo wifi-menu wlp0s29f7u1 
+: 1620177803:0;watch -n0.5 iwconfig
+: 1620178858:0;pkill x
+: 1620178865:0;clear
+: 1620178869:0;sway
+: 1620178948:0;htop
+: 1620179199:0;ls -a 
+: 1620179220:0;vim .zshrc
+: 1620179246:0;vim .bashrc
+: 1620179270:0;vim .zprofile
+: 1620179296:0;reboot
+: 1620179396:0;htop
+: 1620179461:0;sudo systemctl stop vpn-unlimited-daemon.service
+: 1620179464:0;htop
+: 1620180130:0;sudo wifi-menu wlp0s29f7u1
+: 1620180255:0;watch -no.5 iwconfig
+: 1620180263:0;watch -n0.5 iwconfig
+: 1620180498:0;pkill sway
+: 1620180502:0;clear
+: 1620180504:0;logout
+: 1620200511:0;pkill sway
+: 1620200514:0;clear
+: 1620200517:0;startx
+: 1620200626:0;cd .config/
+: 1620200627:0;ls
+: 1620200638:0;mv picom.conf picom.old
+: 1620200646:0;vim picom.conf
+: 1620200662:0;picom -b
+: 1620200668:0;picom -f
+: 1620200677:0;vim picom.conf
+: 1620200753:0;picom -f
+: 1620200765:0;picom -b
+: 1620200841:0;pkill x
+: 1620200844:0;logout
+: 1620836738:0;cf
+: 1620836743:0;cd .config
+: 1620836743:0;ls
+: 1620836770:0;cd
+: 1620836792:0;pkill sway
+: 1620836796:0;clear
+: 1620836809:0;logout
+: 1621165680:0;clear
+: 1621165684:0;ls -a
+: 1621165693:0;vim .zshrc
+: 1621166560:0;clear
+: 1621166563:0;ls
+: 1621166566:0;ls -a 
+: 1621166574:0;cd .oh-my-zsh
+: 1621166577:0;ls
+: 1621166613:0;cd .. 
+: 1621166615:0;ls -a 
+: 1621166626:0;vim .zprofile
+: 1621166654:0;clear
+: 1621166658:0;ls -a 
+: 1621166662:0;vim .zprofile
+: 1621166673:0;su
+: 1621168088:0;nano .zprofile
+: 1621168101:0;logout
+: 1621168114:0;nano .zprofile
+: 1621168124:0;logout
+: 1621168140:0;xmoand
+: 1621168168:0;xmonad
+: 1621168189:0;man xmonad ad
+: 1621168238:0;nano .zprofile
+: 1621168248:0;logout
+: 1621168368:0;exec xmonad --recompile
+: 1621509571:0;ls -a 
+: 1621509578:0;nano .zprofile
+: 1621509588:0;exit
+: 1621510502:0;pkill x
+: 1621510508:0;clear
+: 1621510516:0;cd .config
+: 1621510516:0;ls
+: 1621510530:0;cd eww
+: 1621510532:0;ls
+: 1621510535:0;cd scripts
+: 1621510535:0;ls
+: 1621510542:0;cd
+: 1621510543:0;ls
+: 1621510547:0;ls -a
+: 1621510553:0;nano .xmonad
+: 1621510561:0;cd .xmonad
+: 1621510562:0;ls
+: 1621510584:0;vim xmonad.hs
+: 1621510704:0;clear
+: 1621510715:0;xmonad --recompile
+: 1621510736:0;cd
+: 1621510737:0;startx
+: 1621510775:0;vim .xmonad/xmonad.hs
+: 1621511010:0;xmonad --recompile
+: 1621511022:0;xmonad --restart
+: 1621511102:0;pkill x
+: 1621511105:0;clear
+: 1621511114:0;startx
+: 1621511239:0;tint2
+: 1621511311:0;tint2conf
+: 1621511345:0;eww
+: 1621511360:0;eww daemon
+: 1621511400:0;vim .xmonad/xmonad.hs
+: 1621511437:0;xmonad --recompile -- restart
+: 1621511449:0;xmonad --recompile --restart
+: 1621511471:0;xmonad --recompile && xmonad --restart
+: 1621511526:0;pkill x
+: 1621511530:0;startx
+: 1621511542:0;tint2conf
+: 1621511724:0;
+: 1621511724:0;
+: 1621511721:0;pkill x
+: 1621511724:0;logout
+: 1622236732:0;clear
+: 1622236733:0;ls -a
+: 1622236738:0;nano .zprofile
+: 1622236821:0;yay -S polybar
+: 1622238675:0;clear
+: 1622238684:0;git clone https://github.com/archcraft-os/archcraft-style-bspwm.git
+: 1622238919:0;ls -a 
+: 1622238924:0;nano .xinitrc
+: 1622239005:0;cd archcraft-style-bspwm
+: 1622239006:0;ls
+: 1622239022:0;cd
+: 1622239038:0;cp -r archcraft-style-bspwm/bspwm .config
+: 1622239041:0;cf
+: 1622239044:0;cd .config
+: 1622239045:0;ls
+: 1622239048:0;cd
+: 1622239051:0;clear
+: 1622239053:0;ls
+: 1622239058:0;cd archcraft-style-bspwm
+: 1622239059:0;ls -a
+: 1622239096:0;cp .Xresources /home/xroot
+: 1622239110:0;cp .Xresources.d /home/xroot
+: 1622239116:0;cp -r .Xresources.d /home/xroot
+: 1622239127:0;cp -r .xsettingsd /home/xroot
+: 1622239142:0;cp -r sxhkd /home/xroot
+: 1622239153:0;cp -r pcmanfm /home/xroot
+: 1622239165:0;cp -r libfm /home/xroot
+: 1622239176:0;cp .fehbg /home/xroot
+: 1622239179:0;cd
+: 1622239185:0;ls -a
+: 1622239203:0;startx
+: 1622239408:0;nano .zprofile
+: 1622239435:0;nano .xinitrc
+: 1622239501:0;startx
+: 1622239522:0;cd .config
+: 1622239523:0;ls
+: 1622239526:0;cd bspwm
+: 1622239527:0;ls
+: 1622239571:0;yay -S compton-tryone-git
+: 1622239772:0;cd ..
+: 1622239775:0;cd
+: 1622239782:0;git clone https://github.com/archcraft-os/archcraft-skeleton.git
+: 1622239828:0;cp archcraft-skeleton/* .config
+: 1622239833:0;cp -r archcraft-skeleton/* .config
+: 1622239837:0;clear
+: 1622239843:0;cd .config
+: 1622239844:0;ls
+: 1622239850:0;ls -a
+: 1622239866:0;cd bspwm
+: 1622239867:0;ls
+: 1622239869:0;ls -a
+: 1622239880:0;nano bspwmrc
+: 1622239912:0;cd rofi
+: 1622239913:0;ls
+: 1622239918:0;cd
+: 1622239984:0;startx
+: 1622240025:0;cd sxhkd
+: 1622240026:0;ls
+: 1622240029:0;nano sxhkdrc
+: 1622240226:0;exit
+: 1622240330:0;clear
+: 1622240333:0;cd .config
+: 1622240334:0;ls
+: 1622240337:0;cd bspwm
+: 1622240338:0;;s
+: 1622240339:0;ls
+: 1622240352:0;cd
+: 1622240370:0;cp -r sxhkd .config
+: 1622240436:0;install -Dm755 ~/.config/bspwm/bspwmrc
+: 1622240510:0;clear
+: 1622240551:0;cd .config/bspwm
+: 1622240551:0;ls
+: 1622240560:0;chmod +x bspwmrc
+: 1622240627:0;startx
+: 1622240664:0;install -Dm755 /usr/share/doc/bspwm/examples/bspwmrc ~/.config/bspwm/bspwmrc
+: 1622240679:0;install -Dm644 /usr/share/doc/bspwm/examples/sxhkdrc ~/.config/sxhkd/sxhkdrc
+: 1622240702:0;startx
+: 1622240834:0;geany bspwmrc
+: 1622240839:0;nano bspwmrc
+: 1622240871:0;cd ..
+: 1622240876:0;cd sxhkd
+: 1622240881:0;nano sxhkdrc
+: 1622241087:0;exit
+: 1622241358:0;startx
+: 1622242949:0;cd .config
+: 1622242950:0;ls
+: 1622242953:0;cd bspwm
+: 1622242954:0;ls
+: 1622242975:0;sudo chmod +x bspwmrc
+: 1622243001:0;sudo chmod +x rofi/bin/launcher
+: 1622243010:0;sudo chmod +x rofi/bin/mpd
+: 1622243015:0;sudo chmod +x rofi/bin/confirm
+: 1622243020:0;sudo chmod +x rofi/bin/asroot
+: 1622243025:0;sudo chmod +x rofi/bin/network
+: 1622243030:0;sudo chmod +x rofi/bin/powermenu
+: 1622243035:0;sudo chmod +x rofi/bin/screenshot
+: 1622243040:0;sudo chmod +x rofi/bin/themes
+: 1622243044:0;sudo chmod +x rofi/bin/windows
+: 1622243094:0;sudo chmod +x bin/apps_as_root
+: 1622243098:0;sudo chmod +x bin/askpass
+: 1622243102:0;sudo chmod +x bin/bspbar
+: 1622243106:0;sudo chmod +x bin/bspcolors
+: 1622243111:0;sudo chmod +x bin/bspcomp
+: 1622243115:0;sudo chmod +x bin/bspfloat
+: 1622243119:0;sudo chmod +x bin/bsplock
+: 1622243124:0;sudo chmod +x bin/bspterm
+: 1622243128:0;sudo chmod +x bin/winmask
+: 1622243165:0;cd ..
+: 1622243167:0;ls
+: 1622243171:0;cd sxhkd
+: 1622243172:0;ls
+: 1622243182:0;sudo chmod +x sxhkdrc
+: 1622243185:0;cd
+: 1622243187:0;ls -a
+: 1622243195:0;cd sxhkd
+: 1622243195:0;ls
+: 1622243202:0;sudo chmod +x sxhkdrc
+: 1622243221:0;clear
+: 1622243222:0;cd
+: 1622243224:0;startx
+: 1622243336:0;ls -a 
+: 1622243346:0;cd .Xresources.d
+: 1622243348:0;ls
+: 1622243361:0;cd
+: 1622243363:0;cd .config
+: 1622243366:0;cd bspwm
+: 1622243367:0;ls
+: 1622243375:0;nano bspwmrc
+: 1622243489:0;cd
+: 1622243491:0;ls 
+: 1622243505:0;ls -a
+: 1622243516:0;nano .xsettingsd
+: 1622243534:0;startx
+: 1622244050:0;sudo pacman -S sxhkd
+: 1622244466:0;nano .config/sxhkd/sxhkdrc
+: 1622244511:0;cd
+: 1622244556:0;startx
+: 1622244616:0;htop
+: 1622244689:0;nano .config/sxhkd/sxhkdrc
+: 1622244713:0;pkill x
+: 1622244831:0;startx
+: 1622244842:0;htop
+: 1622244956:0;cd .config
+: 1622244963:0;ls
+: 1622244987:0;cd bspwm
+: 1622244987:0;ls
+: 1622244989:0;cd bin
+: 1622244990:0;ls
+: 1622245018:0;cd ..
+: 1622245023:0;cd polybar
+: 1622245024:0;ls
+: 1622245028:0;cd ..
+: 1622245032:0;cd rofi
+: 1622245033:0;ls
+: 1622245035:0;cd bin
+: 1622245035:0;ls
+: 1622245046:0;nano mpd
+: 1622245059:0;nano network
+: 1622245164:0;nmcli | grep -i interface | awk '/interface/ {print $2}'
+: 1622245184:0;systemctl start NetworkManager
+: 1622245191:0;nmcli | grep -i interface | awk '/interface/ {print $2}'
+: 1622245200:0;nmcli | grep -i interface
+: 1622245205:0;nmcli 
+: 1622245250:0;htpo
+: 1622245252:0;htop
+: 1622245388:0;killall dhcpcd
+: 1622245396:0;sudo killall dhcpcd
+: 1622245411:0;sudo killall wpa_supplicant
+: 1622245417:0;nmcli
+: 1622245486:0;nmcli dev wifi connect TP-LINK_632C40 password omar0606381620m
+: 1622245538:0;n
+: 1622245541:0;exit
+: 1622245620:0;pkill x
+: 1622245660:0;nano .config/bspwm/polybar/config
+: 1622245873:0;startx
+: 1622245914:0;nano .config/sxhkd/sxhkdrc
+: 1622246043:0;pkill x
+: 1622246046:0;clear
+: 1622246052:0;startx
+: 1622246095:0;nano .config/sxhkd/sxhkdrc
+: 1622246201:0;pkill x
+: 1622246211:0;startx
+: 1622246237:0;nano .config/sxhkd/sxhkdrc
+: 1622246277:0;pkill x
+: 1622246283:0;startx
+: 1622246306:0;ls
+: 1622246388:0;htop
+: 1622246495:0;pkill x
+: 1622246498:0;clear
+: 1622246513:0;exit
+: 1622856794:0;clear
+: 1622856801:0;ls
+: 1622856850:0;git clone --recurse-submodules https://github.com/TheRealKizu/dotfiles.git
+: 1622856948:0;cd dotfiles && git submodule update --remote --merge
+: 1622856967:0;./setup.sh
+: 1622858656:0;exit
+: 1622858684:0;cd .config
+: 1622858684:0;ls
+: 1622858695:0;cd polybar
+: 1622858695:0;ls
+: 1622858703:0;cd
+: 1622858717:0;bspwm
+: 1622858723:0;startx
+: 1622858783:0;ls
+: 1622858886:0;htop
+: 1622858932:0;vim .config/bspwm/bspwmrc
+: 1622858997:0;cd .config/sxhkd
+: 1622858998:0;ls
+: 1622859000:0;vim sxhkdrc
+: 1622859083:0;pkill x
+: 1622859086:0;startx
+: 1622859093:0;ls
+: 1622859135:0;vim .config/sxhkd/sxhkdrc
+: 1622859148:0;pkill x
+: 1622859151:0;startx
+: 1622859866:0;htpo
+: 1622859868:0;htop
+: 1622859893:0;setbg
+: 1622859911:0;wal -i wallpapers/bp1.png
+: 1622859928:0;ds
+: 1622859930:0;dadasd
+: 1622859943:0;wal -i wallpapers/yosemite-lowpoly.jpg
+: 1622859953:0;pkill x
+: 1622859955:0;startx
+: 1622859987:0;ls 
+: 1622859990:0;ls -a
+: 1622860005:0;cd .config/sxhkd
+: 1622860007:0;vim sxhkdrc
+: 1622860015:0;cd ..
+: 1622860019:0;cd polybar
+: 1622860025:0;cd
+: 1622860028:0;cd .config/bspwm
+: 1622860030:0;vim bspwmrc
+: 1622860087:0;startx
+: 1622860225:0;logout
+: 1622927173:0;startx
+: 1622927286:0;nvim
+: 1622927540:0;yay -S nvim-crystal-git
+: 1622927581:0;yay -S neovim-nightly-bin
+: 1622927702:0;cd .config
+: 1622927703:0;ls
+: 1622927706:0;cd alacritty
+: 1622927707:0;ls
+: 1622927710:0;vim alacritty.yml
+: 1622927800:0;nvim
+: 1622927921:0;cd .config/termite
+: 1622927923:0;kls
+: 1622927923:0;ls
+: 1622927927:0;vim config
+: 1622927983:0;vim alacritty.yml
+: 1622927988:0;nano alacritty.yml
+: 1622928146:0;cd .config/
+: 1622928154:0;ls -a
+: 1622928165:0;cd
+: 1622928167:0;ls -a
+: 1622928178:0;vim .Xresources
+: 1622928187:0;cd .Xresources.d 
+: 1622928196:0;vim colors
+: 1622928440:0;ls
+: 1622928500:0;cd .config/picom
+: 1622928500:0;ls
+: 1622928503:0;vim picom.conf
+: 1622928527:0;_imagemagick -h
+: 1622928566:0;su - root23
+: 1622928600:0;clear
+: 1622928631:0;cd
+: 1622928631:0;ls
+: 1622928633:0;ls -a
+: 1622928660:0;cd .config/bspwm
+: 1622928664:0;vim bspwmrc
+: 1622928683:0;vim .config/bspwm/bspwmrc
+: 1622928866:0;pkill x
+: 1622928869:0;clear
+: 1622928871:0;startx
+: 1622928893:0;ls clear
+: 1622928894:0;ls 
+: 1622928965:0;vim .config/termite/config
+: 1622929092:0;ls
+: 1622929138:0;htop
+: 1622929162:0;ncdu
+: 1622929215:0;surf github.com
+: 1622929290:0;vim .config/sxhkd/sxhkdrc
+: 1622929384:0;vim .local/bin/upldscr
+: 1622929408:0;dunst test
+: 1622929412:0;dunst
+: 1622929426:0;p -S dunst 
+: 1622929438:0;sudo pacman -S dunst 
+: 1622929454:0;clear
+: 1622929631:0;sudo pacman -Syu
+: 1622929754:0;pkill x
+: 1622929771:0;startx
+: 1622929835:0;logout
+: 1622934791:0;ls
+: 1622934801:0;cd dotfiles
+: 1622934804:0;ls
+: 1622934809:0;cd cfg
+: 1622934818:0;ls
+: 1622934822:0;cd polybar
+: 1622934823:0;ls
+: 1622934829:0;up
+: 1622934832:0;cd ..
+: 1622934834:0;cd..
+: 1622934835:0;ls
+: 1622934837:0;cd ..
+: 1622934838:0;ls
+: 1622934841:0;nano setup.sh
+: 1622934988:0;ls
+: 1622934991:0;git submodule update --remote --merge
+: 1622935017:0;nano setup.sh
+: 1622935029:0;./setup.sh
+: 1622936671:0;cd
+: 1622936675:0;exit
+: 1622936691:0;startx
+: 1622936762:0;maim
+: 1622936770:0;maim --help
+: 1622936914:0;pkill x
+: 1622936918:0;clear
+: 1622936920:0;logout
+: 1622998518:0;startx
+: 1622998556:0;cd .config/sxhkd
+: 1622998558:0;vim sxhkdrc
+: 1622998609:0;pkill x
+: 1622998613:0;startx
+: 1622998680:0;sudo ifconfig wlp12s0 down
+: 1622998780:0;vim .config/polybar/modules.ini
+: 1622998847:0;ip link
+: 1622999064:0;sh .config/polybar/launch.sh
+: 1622999107:0;vim .config/polybar/modules.ini
+: 1622999225:0;vim .config/polybar/scripts/updates.sh
+: 1622999324:0;vim .config/polybar
+: 1622999331:0;vim .config/polybar/bars.ini
+: 1622999401:0;htop
+: 1623000294:0;su - root23
+: 1623000408:0;vim .config/bspwm/bspwmrc
+: 1623001295:0;cd
+: 1623001295:0;ls
+: 1623001297:0;ls -a
+: 1623001304:0;vim .zshrc
+: 1623001617:0;cd .config
+: 1623001619:0;clear
+: 1623001620:0;ls
+: 1623001623:0;ls -a
+: 1623001797:0;touch aliasrc
+: 1623001805:0;nano aliasrc
+: 1623002041:0;clear
+: 1623002042:0;ls
+: 1623002043:0;clear
+: 1623002087:0;rm -rf aliasrc
+: 1623002089:0;clear
+: 1623002092:0;su
+: 1623002249:0;cd
+: 1623002256:0;vim .zshrc
+: 1623002285:0;clear
+: 1623002548:0;nt
+: 1623002554:0;dn
+: 1623002636:0;ntf
+: 1623002641:0;ntl
+: 1623002671:0;vim .config/bspwm/bspwmrc
+: 1623002687:0;c
+: 1623002720:0;clear
+: 1623003183:0;vim .config/picom.conf
+: 1623003284:0;killall picom
+: 1623003526:0;xcompmgr -c -f -r12 -x-15 -y-15
+: 1623003548:0;xcompmgr -c -f -r12 -x15 -y15
+: 1623003555:0;lear
+: 1623003557:0;clear
+: 1623003560:0;xcompmgr -c -f -r12 -x15 -y15
+: 1623003562:0;clear
+: 1623003567:0;xcompmgr -c -f -r12 -e
+: 1623003575:0;xcompmgr -c -f -r12 -e &
+: 1623003580:0;clear
+: 1623003586:0;xcompmgr -c -f &
+: 1623003618:0;killall xcompmgr
+: 1623003620:0;clear
+: 1623003645:0;vim .config/bspwm/bspwmrc
+: 1623003668:0;clear
+: 1623003677:0;vim .config/alacritty.yml
+: 1623003716:0;vim .config/termite/config
+: 1623003812:0;vim .config/alacritty.yml
+: 1623003911:0;vim .config/termite/config
+: 1623003934:0;ls
+: 1623003942:0;vim .config/termite/config
+: 1623004250:0;ls 
+: 1623004256:0;vim .config
+: 1623004264:0;vim .config/aliasrc
+: 1623004373:0;vim .config/bspwm/bspwmrc
+: 1623004390:0;vim .config/picom/picom.conf
+: 1623004612:0;killall picom
+: 1623004654:0;xcompmgr -c -f -r4 -o.5 -x5 -y5
+: 1623004706:0;xcompmgr -c -f -r4 -o.5 -l5 -t5
+: 1623004763:0;xcompmgr -c -f -r4 -o.5 -l5 -t5 -n
+: 1623004776:0;xcompmgr -n -c -f -r4 -o.5 -l5 -t5
+: 1623004793:0;xcompmgr -n -s -c -f -r4 -o.5 -l5 -t5
+: 1623004832:0;xcompmgr -a -n -s -c -f -r4 -o.5 -l5 -t5
+: 1623004840:0;xcompmgr -a
+: 1623004911:0;htop
+: 1623004952:0;vim .config/sxhkd/sxhkdrc
+: 1623005394:0;pkill x
+: 1623005397:0;clear
+: 1623005400:0;startx
+: 1623005579:0;dunstify --action="replyAction,reply" "Message received"
+: 1623009483:0;htop
+: 1623009545:0;su 
+: 1623009560:0;mkdir imports
+: 1623009678:0;clear
+: 1623009729:0;nvim
+: 1623009794:0;vim .config/sxhkd/sxhkdrc
+: 1623009819:0;killall sxhkd 
+: 1623009832:0;vim .config/sxhkd/sxhkdrc
+: 1623009873:0;bspc {quit, wm -r}
+: 1623009881:0;bspc quit wm -r
+: 1623009889:0;bspc quit
+: 1623009891:0;startx
+: 1623009899:0;htop
+: 1623010513:0;vpn init
+: 1623010553:0;c
+: 1623010575:0;clear
+: 1623010577:0;ntf
+: 1623010578:0;ntl
+: 1623010719:0;bleachbit
+: 1623010854:0;vpn s
+: 1623010935:0;cd Downloads
+: 1623010936:0;ls
+: 1623010949:0;sxiv wallhaven-6olw9x_1280x800.png
+: 1623010970:0;rm -rf MuseoSansCondensed-300.ttf 
+: 1623010974:0;rm -rf MuseoSansCondensed-500.ttf
+: 1623010978:0;rm -rf wallhaven-6olw9x_1280x800.png
+: 1623010980:0;clear
+: 1623011020:0;mkdir 2road
+: 1623011022:0;cd 2road
+: 1623011031:0;mkdir c-town 
+: 1623011033:0;cd c-town
+: 1623011051:0;yt -x DPjRgK8tRus
+: 1623011099:0;s
+: 1623011326:0;ntf
+: 1623011333:0;ds
+: 1623011354:0;c
+: 1623011377:0;ntf
+: 1623011378:0;ntl
+: 1623012231:0;cd imports
+: 1623012245:0;getent group
+: 1623012291:0;stat -c "%U:%G" bookmarks_5_28_21.html 
+: 1623012308:0;sudo chown xroot bookmarks_5_28_21.html 
+: 1623012312:0;stat -c "%U:%G" bookmarks_5_28_21.html 
+: 1623012335:0;sudo chown xroot Brave\ Passwords.csv
+: 1623012342:0;stat -c "%U:%G" Brave\ Passwords.csv
+: 1623012345:0;clear
+: 1623012492:0;cd
+: 1623012496:0;clear
+: 1623012553:0;su 
+: 1623012675:0;cd .config/polybar
+: 1623012675:0;ls
+: 1623012685:0;sudo chown xroot coins.svg
+: 1623012693:0;sudo chown xroot pcrypto.py
+: 1623012714:0;cd .config/polybar
+: 1623012715:0;ls
+: 1623012720:0;vim bars.ini
+: 1623012796:0;vim modules.ini
+: 1623012978:0;vim config.ini
+: 1623012992:0;vim bars.ini
+: 1623013372:0;vim coins.svg
+: 1623013393:0;vim pcrypto.py
+: 1623013419:0;vim modules.ini
+: 1623013684:0;clear
+: 1623013746:0;sh .config/polybar/scripts/updates.sh
+: 1623013804:0;vim bars.ini
+: 1623013824:0;clear
+: 1623013834:0;vim bars.ini
+: 1623013846:0;vim modules.ini
+: 1623013885:0;cd
+: 1623013892:0;vim .config/bspwm/bspwmrc
+: 1623014021:0;cd .config/dunst/
+: 1623014024:0;vim dunstrc
+: 1623014116:0;ka dunst
+: 1623014131:0;dunstify --action="test'
+: 1623014197:0;dunstify --action="replyAction,reply" "Message received"
+: 1623014280:0;fast
+: 1623014361:0;su 
+: 1623014389:0;cd Pictures
+: 1623014396:0;sudo chown xroot archpc_gruvbox.png
+: 1623014400:0;clear
+: 1623015325:0;cd .config/dunst/
+: 1623015330:0;vim dunstrc
+: 1623015385:0;ka dunst 
+: 1623015423:0;cd
+: 1623015499:0;vim dunstrc
+: 1623015508:0;cd .config/dunst/
+: 1623015510:0;vim dunstrc
+: 1623015610:0;ka dunst
+: 1623015697:0;clear
+: 1623015884:0;xrander
+: 1623015887:0;xrandr
+: 1623015899:0;cd Pictures
+: 1623015947:0;convert -crop 1366x768 archpc_gruvbox.png 2archpc_gruvbox.png
+: 1623015984:0;ls
+: 1623016000:0;du -h
+: 1623016006:0;ls
+: 1623016034:0;sxiv 2archpc_gruvbox-0.png
+: 1623016048:0;sxiv 
+: 1623016051:0;up
+: 1623016057:0;sxiv Pictures
+: 1623016147:0;cd Pictures
+: 1623016155:0;cd Wallpapers
+: 1623016157:0;ls
+: 1623016161:0;ip
+: 1623016163:0;up
+: 1623016169:0;mv archpc_gruvbox.png Wallpapers
+: 1623016194:0;clear
+: 1623016323:0;mv Wallpapers ~
+: 1623016330:0;ls
+: 1623016334:0;rm -rf *
+: 1623016340:0;ls
+: 1623016353:0;cd
+: 1623016360:0;mv wallpapers Pictures
+: 1623016363:0;clear
+: 1623016365:0;ls
+: 1623016377:0;cd Pictures
+: 1623016377:0;ls
+: 1623016379:0;cd wallpapers
+: 1623016380:0;ls
+: 1623016389:0;cd
+: 1623016395:0;mv Wallpapers Pictures
+: 1623016398:0;cd Pictures
+: 1623016399:0;ls
+: 1623016414:0;mv wallpapers/* Wallpapers
+: 1623016419:0;cd Wallpapers
+: 1623016420:0;ls
+: 1623016426:0;up
+: 1623016430:0;cd wallpapers
+: 1623016430:0;ls
+: 1623016432:0;up
+: 1623016436:0;rm -rf wallpapers
+: 1623016437:0;ls
+: 1623016439:0;cd Wallpapers
+: 1623016440:0;ls
+: 1623016442:0;clear
+: 1623017370:0;vim .config/sxhkd/sxhkdrc
+: 1623017530:0;vim .config/bspwm/bspwmrc
+: 1623017579:0;ka sxhkd && setsid sxhkd &
+: 1623017596:0;vim .config/sxhkd/sxhkdrc
+: 1623017621:0;ka sxhkd && setsid sxhkd &
+: 1623017629:0;:q
+: 1623017632:0;vim .config/sxhkd/sxhkdrc
+: 1623017763:0;:q
+: 1623017765:0;ka sxhkd && setsid sxhkd &
+: 1623017790:0;vim .config/sxhkd/sxhkdrc
+: 1623017806:0;ka sxhkd && setsid sxhkd &
+: 1623017826:0;vim .config/sxhkd/sxhkdrc
+: 1623017838:0;ka sxhkd && setsid sxhkd &
+: 1623017878:0;vim .config/dunst/dunstrc
+: 1623017914:0;ka dunst
+: 1623018336:0;vim .config/dunst/dunstrc
+: 1623018413:0;ka dunst 
+: 1623019419:0;cd .config/nvim
+: 1623019420:0;ls
+: 1623019428:0;mv init.vim init.old
+: 1623019430:0;cd
+: 1623019450:0;mv Downloads/generate.vim .config/nvim/init.vim
+: 1623019455:0;nvim
+: 1623019607:0;vim .config/nvim/init.old
+: 1623019684:0;ntf
+: 1623019690:0;ntl
+: 1623019757:0;nvim
+: 1623019777:0;cd .config/nvim
+: 1623019784:0;vim init.vim
+: 1623019864:0;nano .config/nvim/init.old
+: 1623019939:0;nvim
+: 1623019974:0;vim init.vim
+: 1623020064:0;nvim
+: 1623020130:0;clear
+: 1623020139:0;nvim
+: 1623020158:0;nvim init.old
+: 1623020187:0;clear
+: 1623020204:0;cd
+: 1623020205:0;vim
+: 1623020212:0;:q
+: 1623022012:0;s
+: 1623028713:0;vim .config/sxhkd/sxhkdrc
+: 1623028853:0;ka sxhkd && setsid sxhkd &
+: 1623028876:0;vim .config/sxhkd/sxhkdrc
+: 1623028948:0;ls
+: 1623028954:0;cd dotfiles-2.0
+: 1623028959:0;ls
+: 1623028975:0;up
+: 1623028984:0;ls
+: 1623029008:0;cd archcraft-style-bspwm
+: 1623029010:0;ls
+: 1623029013:0;cd bspwm
+: 1623029016:0;up
+: 1623029019:0;cd sxhkd
+: 1623029019:0;ls
+: 1623029022:0;clear
+: 1623029024:0;vim sxhkdrc
+: 1623029281:0;nano sxhkdrc
+: 1623029401:0;pkill -USR1 -x sxhkd
+: 1623029595:0;vim sxhkdrc
+: 1623029607:0;vim .config/sxhkd/sxhkdrc
+: 1623029776:0;killall sxhkd && setsid sxhkd 
+: 1623029782:0;logout
+: 1623029818:0;ka sxhkd && setsid sxhkd
+: 1623029822:0;setsid sxhkd
+: 1623029831:0;clear
+: 1623029918:0;nano archcraft-style-bspwm/sxhkd/sxhkdrc
+: 1623029932:0;vim .config/sxhkd/sxhkdrc
+: 1623030024:0;bsplock
+: 1623030189:0;clear
+: 1623030277:0;s
+: 1623030284:0;ntf
+: 1623030288:0;fast
+: 1623030345:0;vim /etc/sudoers
+: 1623030359:0;vim /etc/sudo.conf
+: 1623030383:0;cd /etc/sudoers.d
+: 1623030567:0;c
+: 1623030599:0;vpn s
+: 1623030616:0;clear
+: 1623031006:0;htop
+: 1623036182:0;cd .config/polybar/scripts
+: 1623036184:0;ls
+: 1623036198:0;sudo chmod +x updates.sh
+: 1623036204:0;sudo chmod +x polywins.sh
+: 1623036214:0;up
+: 1623036217:0;vim bars.ini
+: 1623036258:0;ls
+: 1623036267:0;sh launch.sh
+: 1623036360:0;s
+: 1623036430:0;vim .config/polybar/bars.ini
+: 1623036462:0;sh .config/polybar/launch.sh
+: 1623036505:0;vim .config/polybar/scripts/updates.sh
+: 1623036793:0;cd /bin
+: 1623036893:0;cd
+: 1623036900:0;cd dotfiles
+: 1623036903:0;ls
+: 1623036906:0;cd etc
+: 1623036908:0;ls
+: 1623036911:0;cd startpage
+: 1623036912:0;ls
+: 1623036933:0;up
+: 1623036940:0;cd walls
+: 1623036941:0;ls
+: 1623036944:0;up
+: 1623036962:0;ls
+: 1623036983:0;cd etc
+: 1623036985:0;ls
+: 1623036988:0;cd startpage
+: 1623036989:0;ls
+: 1623036996:0;vim index.html
+: 1623037096:0;up
+: 1623037098:0;ls
+: 1623037104:0;up
+: 1623037201:0;ls
+: 1623037216:0;cd bin
+: 1623037219:0;ls
+: 1623037303:0;sudo chmod +x *
+: 1623037317:0;ls
+: 1623037331:0;ls -l
+: 1623037374:0;clear
+: 1623037376:0;ls
+: 1623037382:0;sh clrs
+: 1623037388:0;clrs
+: 1623037391:0;clear
+: 1623037393:0;ls
+: 1623037401:0;up
+: 1623037421:0;sudo mv bin/* /bin
+: 1623037425:0;cd
+: 1623037427:0;cd bin
+: 1623037436:0;clrs
+: 1623037456:0;appmnu
+: 1623037473:0;checkupdates
+: 1623037509:0;clear
+: 1623037555:0;sh .config/polybar/launch.sh
+: 1623037664:0;vim dotfiles/bin/eww
+: 1623037673:0;cd dotfiles/bin
+: 1623037674:0;ls
+: 1623037682:0;cd
+: 1623037685:0;cd /bin
+: 1623037688:0;vim eww
+: 1623037767:0;vim .config/sxhkd/sxhkdrc
+: 1623037859:0;cd Downloads/2road
+: 1623037879:0;yt -x DPjRgK8tRus
+: 1623038056:0;cd
+: 1623038059:0;cd .config
+: 1623038074:0;mv nvim nvim.old
+: 1623038078:0;nvim
+: 1623038238:0;bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/lunarvim/master/utils/installer/install.sh)
+: 1623038466:0;nvim
+: 1623039303:0;cd .config/nvim
+: 1623039304:0;ls
+: 1623039309:0;vim init.lua
+: 1623039369:0;vim lv-settings.lua
+: 1623039386:0;vim vimscript/functions.vim
+: 1623039421:0;vim lua/plugins.lua
+: 1623039584:0;nvim
+: 1623039657:0;nvim lua/lv-globals.lua
+: 1623039676:0;nvim lua/plugins.lua
+: 1623039901:0;nvim
+: 1623039921:0;nvim init.lua
+: 1623039967:0;nvim vimscript/functions.vim
+: 1623040006:0;v
+: 1623040008:0;nvim
+: 1623040108:0;ls
+: 1623040259:0;cd plugin
+: 1623040261:0;ls
+: 1623040266:0;nvim packer_compiled.vim
+: 1623040342:0;ls
+: 1623040344:0;up
+: 1623040345:0;ls
+: 1623040349:0;cd lua
+: 1623040350:0;ls
+: 1623040373:0;nvim lv-globals.lua
+: 1623040405:0;nvim settings.lua
+: 1623040438:0;nvim colorscheme.lua
+: 1623040517:0;nvim settings.lua
+: 1623040558:0;nvim lv-globals.lua
+: 1623040565:0;cd
+: 1623040569:0;cd .config/nvim
+: 1623040572:0;ls
+: 1623040574:0;cd plugin
+: 1623040575:0;ls
+: 1623040579:0;nvim packer_compiled.vim
+: 1623040596:0;up
+: 1623040597:0;ls
+: 1623040602:0;nvim init.lua
+: 1623040611:0;cd vimscript
+: 1623040612:0;ls
+: 1623040617:0;nvim functions.vim
+: 1623040635:0;nvim
+: 1623040652:0;ls
+: 1623040654:0;up
+: 1623040655:0;ls
+: 1623040658:0;cd plugin
+: 1623040658:0;ls
+: 1623040660:0;up
+: 1623040662:0;cd lua
+: 1623040663:0;ls
+: 1623040671:0;cd lv-galaxyline
+: 1623040672:0;ls
+: 1623040675:0;nvim init.lua
+: 1623040790:0;clear
+: 1623040791:0;cd
+: 1623040807:0;nvim dotfiles/etc/startpage/index.html
+: 1623040824:0;nvim
+: 1623041460:0;update
+: 1623042102:0;nvim .config/aliasrc
+: 1623042210:0;sudo chown xroot .config/aliasrc
+: 1623042227:0;nvim .config/aliasrc
+: 1623042266:0;v
+: 1623042446:0;htop
+: 1623042485:0;yay -Syu
+: 1623042594:0;reboot
+: 1623042679:0;startx
+: 1623042710:0;htop
+: 1623042730:0;top
+: 1623042813:0;dn
+: 1623042825:0;c
+: 1623042878:0;ds
+: 1623042880:0;c
+: 1623042909:0;fast
+: 1623042957:0;s
+: 1623042994:0;fast
+: 1623043012:0;ds
+: 1623043024:0;s
+: 1623043053:0;nt
+: 1623043061:0;dn
+: 1623043068:0;c
+: 1623043093:0;fast
+: 1623043663:0;cd dotfiles-2.0
+: 1623043665:0;ls
+: 1623043674:0;cd config
+: 1623043675:0;ls
+: 1623043680:0;cd dunst
+: 1623043681:0;ks
+: 1623043682:0;ls
+: 1623043702:0;up
+: 1623043712:0;cd
+: 1623043714:0;cd .config
+: 1623043714:0;ls
+: 1623043717:0;cd dunst
+: 1623043718:0;ls
+: 1623043721:0;up
+: 1623043725:0;ls
+: 1623043726:0;clear
+: 1623043738:0;mv dunst dunst.old
+: 1623043741:0;cd
+: 1623043753:0;cp -R dotfiles-2.0/config/dunst .config
+: 1623043756:0;clear
+: 1623043778:0;cd .config/dunst
+: 1623043779:0;ls
+: 1623043788:0;v reload
+: 1623043835:0;sh reload
+: 1623043864:0;up
+: 1623043868:0;cd dunst
+: 1623043869:0;ls
+: 1623043872:0;v dunstrc
+: 1623043901:0;sh reload
+: 1623043905:0;v dunstrc
+: 1623043933:0;sh reload
+: 1623045511:0;v .config/picom/picom.conf
+: 1623084324:0;ntl
+: 1623084567:0;c
+: 1623087475:0;ds
+: 1623087482:0;c
+: 1623087519:0;s
+: 1623090096:0;ds
+: 1623090102:0;c
+: 1623090123:0;fast
+: 1623090169:0;update
+: 1623090519:0;clear
+: 1623091086:0;cd archcraft-style-bspwm/bspwm/polybar
+: 1623091087:0;ls
+: 1623091100:0;nano config
+: 1623091122:0;p
+: 1623091131:0;up
+: 1623091133:0;ls
+: 1623091140:0;up
+: 1623091142:0;ls
+: 1623091145:0;cd sxhkd
+: 1623091146:0;clear
+: 1623091147:0;ls
+: 1623091151:0;nano sxhkdrc
+: 1623091219:0;vim .config/sxhkd/sxhkdrc
+: 1623092124:0;cd .config/
+: 1623092124:0;ls
+: 1623092147:0;mkdir zathura
+: 1623092154:0;cd
+: 1623092164:0;git clone https://github.com/eastack/zathura-gruvbox
+: 1623092228:0;cd zathura-gruvbox
+: 1623092230:0;ls
+: 1623092314:0;cp zathura-gruvbox-dark ~/.config/zathura/zathurarc
+: 1623092321:0;zathura
+: 1623092599:0;vim .config/bspwm/bspwmrc
+: 1623092635:0;update
+: 1623092652:0;ntf
+: 1623092657:0;ntl
+: 1623092847:0;zathura
+: 1623093679:0;cd .config/dunst
+: 1623093682:0;vim dunstrc
+: 1623093737:0;cd .config
+: 1623093738:0;ls
+: 1623093746:0;cd dunst.old
+: 1623093748:0;clear
+: 1623093750:0;nano dunstrc
+: 1623093981:0;v dunstrc
+: 1623094351:0;ka dunst 
+: 1623094378:0;v dunstrc
+: 1623094473:0;ka dunst 
+: 1623095902:0;s
+: 1623096496:0;ds
+: 1623096502:0;c
+: 1623096526:0;vpn s
+: 1623100247:0;x
+: 1623102390:0;p -S newsboat
+: 1623102415:0;clear
+: 1623102418:0;newsboat
+: 1623102562:0;lynx https://twitter.com/elonmusk
+: 1623102697:0;CF
+: 1623102699:0;cf
+: 1623102711:0;cd
+: 1623102714:0;cd .newsboat
+: 1623102715:0;ls
+: 1623102732:0;cd
+: 1623102734:0;cf
+: 1623102746:0;mkdir newsboat
+: 1623102759:0;touch urls
+: 1623102776:0;mv urls newsboat
+: 1623102780:0;cd newsboat
+: 1623102781:0;ls
+: 1623102793:0;v urls
+: 1623102838:0;touch config
+: 1623102840:0;v config
+: 1623102862:0;newsboat
+: 1623102913:0;clear
+: 1623103451:0;v .config/newsboat/urls
+: 1623103482:0;newsboat
+: 1623105088:0;v .config/sxhkd/sxhkdrc
+: 1623105679:0;ka newsboat
+: 1623105756:0;v .config/newsboat/config
+: 1623105872:0;v .config/sxhkd/sxhkdrc
+: 1623105939:0;curl rate.sx
+: 1623105953:0;v .config/sxhkd/sxhkdrc
+: 1623106032:0;cryp
+: 1623106042:0;touch cryp.sh
+: 1623106045:0;v cryp.sh
+: 1623106086:0;ls
+: 1623106094:0;cd bin
+: 1623106101:0;v lock.sh
+: 1623106141:0;ls
+: 1623106159:0;up
+: 1623106165:0;cd dotfiles
+: 1623106169:0;cd bin
+: 1623106170:0;ls
+: 1623106173:0;up
+: 1623106175:0;cd
+: 1623106178:0;cd /bin
+: 1623106185:0;v start.sh
+: 1623106248:0;sudo chmod+ cryp.sh
+: 1623106259:0;sudo chmod + cryp.sh
+: 1623106273:0;sudo cp cryp.sh /bin
+: 1623106275:0;clear
+: 1623106285:0;v .config/sxhkd/sxhkdrc
+: 1623106308:0;clear
+: 1623106310:0;cd
+: 1623106327:0;cryp.sh
+: 1623106334:0;sh cryp.sh
+: 1623106339:0;:q
+: 1623106341:0;clear
+: 1623106345:0;sh crp.sh
+: 1623106351:0;clear
+: 1623106392:0;crp
+: 1623106426:0;v .config/sxhkd/sxhkdrc
+: 1623106576:0;v .config/aliasrc
+: 1623106615:0;v .config/sxhkd/sxhkdrc
+: 1623106774:0;curl --help
+: 1623106977:0;v .config/sxhkd/sxhkdrc
+: 1623107183:0;vim .config/sxhkd/sxhkdrc
+: 1623107208:0;clear
+: 1623107224:0;vim .config/sxhkd/sxhkdrc
+: 1623107244:0;clear
+: 1623107260:0;killall sxhkd
+: 1623107269:0;setsid sxhkd &
+: 1623107276:0;clear
+: 1623107278:0;logout
+: 1623107322:0;v .config/sxhkd/sxhkdrc
+: 1623107386:0;pkill -USR1 -x sxhkd
+: 1623107405:0;pkill x
+: 1623107408:0;clear
+: 1623107410:0;startx
+: 1623107447:0;htop
+: 1623108072:0;ntf
+: 1623108078:0;ntl
+: 1623108146:0;cd /bin
+: 1623108155:0;crypto
+: 1623108164:0;touch crypto
+: 1623108170:0;sudo touch crypto
+: 1623108184:0;v crypto
+: 1623108203:0;cd /bin
+: 1623108210:0;v crontab
+: 1623108224:0;file crontab
+: 1623108296:0;sudo vim crypto
+: 1623108340:0;sudo chmod + crypto
+: 1623108343:0;cd
+: 1623108357:0;crypto
+: 1623108370:0;sudo crypto
+: 1623108573:0;./cryp.sh
+: 1623108589:0;sudo chown xroot cryp.sh
+: 1623108592:0;./cryp.sh
+: 1623108618:0;sudo ./cryp.sh
+: 1623108630:0;sh cryp.sh
+: 1623108636:0;bash cryp.sh
+: 1623108640:0;clear
+: 1623108646:0;v .config/sxhkd/sxhkdrc
+: 1623108743:0;clear
+: 1623108746:0;v .config/sxhkd/sxhkdrc
+: 1623109817:0;s
+: 1623112745:0;update
+: 1623114109:0;xrandr
+: 1623114152:0;v .config/picom/picom.conf
+: 1623114186:0;ka picom
+: 1623114438:0;ntf
+: 1623114743:0;yay -S intel-media-driver
+: 1623115104:0;clear
+: 1623115131:0;mpv --hwdec vaapi --ytdl-format="bestvideo[ext=mp4]+bestaudio[ext=m4a]" CAAkBiE4zzE\
+
+: 1623115187:0;pv -7 https://www.youtube.com/watch\?v\=CAAkBiE4zzE
+: 1623115284:0;pv --help
+: 1623115406:0;pv -1 https://www.youtube.com/watch\?v\=CAAkBiE4zzE
+: 1623115464:0;pv -7 https://www.youtube.com/watch\?v\=CAAkBiE4zzE
+: 1623115584:0;htop
+: 1623115875:0;vainfo
+: 1623116184:0;yay -R intel-media-driver
+: 1623116257:0;yay -S libva-intel-driver-g45-h264
+: 1623116618:0;vainfo
+: 1623116811:0;vdpauinfo
+: 1623117016:0;yay -S libva-vdpau-driver-chromium
+: 1623117105:0;pv nightdocs
+: 1623117114:0;clear
+: 1623117121:0;pc -sc nightdocs
+: 1623117125:0;pv -sc nightdocs
+: 1623117224:0;vdpauinfo
+: 1623117272:0;clear
+: 1623117286:0;vainfo
+: 1623117858:0;yay -Syu
+: 1623118264:0;clear
+: 1623118267:0;htop
+: 1623118277:0;vpn s
+: 1623119723:0;v .config/dunst/dunstrc
+: 1623119771:0;ka dunst
+: 1623120169:0;sh .config/polybar/launch.sh
+: 1623120383:0;ds
+: 1623120517:0;sudo visudo
+: 1623120743:0;clear
+: 1623120746:0;p
+: 1623120761:0;p -Syu
+: 1623121522:0;v .config/dunst/dunstrc
+: 1623121554:0;ka dunst
+: 1623122330:0;curl rate.sx/dgb
+: 1623122354:0;sdsa
+: 1623127095:0;c
+: 1623127673:0;v .config/dunst/dunstrc
+: 1623127709:0;ka dunst
+: 1623129110:0;sh .config/polybar/launch.sh
+: 1623129835:0;s
+: 1623129900:0;ds
+: 1623129905:0;c
+: 1623129930:0;fast
+: 1623130012:0;update
+: 1623132071:0;vpn s
+: 1623132122:0;pv -7 tim dillon 
+: 1623132242:0;pv -7 tim dillon good for you
+: 1623132421:0;pv -4 tim dillon good for you
+: 1623133362:0;update
+: 1623134025:0;yay -Syu
+: 1623134677:0;htop
+: 1623139931:0;update
+: 1623177009:0;ntl
+: 1623177399:0;ds
+: 1623177408:0;c
+: 1623177412:0;s
+: 1623177423:0;nt
+: 1623177428:0;dn
+: 1623177492:0;nt
+: 1623177497:0;dn
+: 1623177505:0;nmtui
+: 1623177609:0;nt
+: 1623177625:0;dn
+: 1623177641:0;s
+: 1623177664:0;dn
+: 1623177671:0;s
+: 1623177687:0;dn
+: 1623177691:0;ntf
+: 1623177694:0;ntl
+: 1623177699:0;c
+: 1623177828:0;dn
+: 1623177833:0;startx
+: 1623177893:0;nmtui
+: 1623177908:0;s
+: 1623186507:0;dn
+: 1623186512:0;startx
+: 1623186787:0;s
+: 1623186953:0;nmtui
+: 1623187053:0;cd /windows10/Users/ELMAJ/Documents/DESK/TXT\ FILES
+: 1623187055:0;ls
+: 1623187060:0;nano 2E6859.txt
+: 1623187109:0;nt
+: 1623187113:0;dn
+: 1623187120:0;nmtui
+: 1623187252:0;nt
+: 1623187257:0;nmtui
+: 1623187271:0;dn
+: 1623187274:0;ntf
+: 1623187280:0;v .config/aliasrc
+: 1623187338:0;ntf
+: 1623187340:0;ntl
+: 1623187342:0;c
+: 1623187372:0;nmtui
+: 1623187414:0;ntf
+: 1623187416:0;ntl
+: 1623187881:0;nthg
+: 1623188574:0;s
+: 1623189936:0;nmtui
+: 1623189973:0;nano /windows10/Users/ELMAJ/Desktop/TXT/omarnrw.txt
+: 1623190004:0;nmcli dev wifi connect OMAR password 0606381620 hidden yes
+: 1623190038:0;nmcli dev wifi connect "OMAR" password 0606381620 hidden yes
+: 1623190091:0;nmtui
+: 1623190294:0;nt
+: 1623190331:0;dn
+: 1623190332:0;nt
+: 1623190341:0;dn
+: 1623190344:0;s
+: 1623190351:0;nmtui
+: 1623190385:0;nt
+: 1623190389:0;dn
+: 1623190406:0;ds
+: 1623190411:0;ntf
+: 1623190412:0;ntl
+: 1623190564:0;nmtui
+: 1623190635:0;nmcli con up Wi-Fi\ connection\ 2
+: 1623190672:0;nmtui
+: 1623190691:0;nt
+: 1623190694:0;dn
+: 1623190698:0;nmtui
+: 1623190761:0;nmcli con up MAR
+: 1623190787:0;s
+: 1623190800:0;dn
+: 1623190805:0;nmtui
+: 1623190931:0;nmcli con up MAR
+: 1623191013:0;nt
+: 1623191016:0;dn
+: 1623191049:0;nmcli dev wifi connect OMAR password 0606381620 hidden yes
+: 1623191092:0;nmcli dev wifi connect "OMAR" password 0606381620 hidden yes
+: 1623191715:0;dn
+: 1623191719:0;startx
+: 1623191747:0;s
+: 1623191758:0;nmtui
+: 1623191767:0;clear
+: 1623191775:0;s
+: 1623191780:0;c
+: 1623191811:0;ntf
+: 1623191813:0;ntl
+: 1623191817:0;ntf
+: 1623191818:0;c
+: 1623191832:0;ntf
+: 1623191833:0;ntl
+: 1623192565:0;ip link
+: 1623192662:0;nmcli c add type wifi con-name omar ifname wlp0s29f7u1 ssid OMAR
+: 1623192711:0;nmcli con modify omar wifi-sec.key-mgmt wpa-psk
+: 1623192750:0;nano /windows10/Users/ELMAJ/Desktop/TXT/omarnrw.txt
+: 1623192768:0;nmcli con modify omar wifi-sec.psk 0606381620
+: 1623192777:0;nmcli con up omar
+: 1623825288:0;
+: 1623825288:0;
+: 1623192847:0;nmcli con up omar
+: 1623192881:0;journalctl -xe NM_CONNECTION=2881502b-2b02-422e-b5d0-03bd1672ed7e + NM_DEVICE=wlp0s29f7u1
+: 1623192942:0;clear
+: 1623192943:0;nmtui
+: 1623193009:0;nt
+: 1623193054:0;htop
+: 1623193135:0;sudo htop
+: 1623193172:0;nt
+: 1623193176:0;dn
+: 1623193180:0;nmtui
+: 1623193243:0;nmcli con omar up
+: 1623193249:0;nmcli con up omar
+: 1623193280:0;nmtui
+: 1623193335:0;s
+: 1623193341:0;nt
+: 1623193379:0;sudo htop
+: 1623193410:0;clear
+: 1623193415:0;dn
+: 1623193417:0;nt
+: 1623193421:0;dn
+: 1623193429:0;nmtui
+: 1623193440:0;s
+: 1623193450:0;nmtui
+: 1623193473:0;clear
+: 1623193564:0;nmtui
+: 1623193592:0;nano /windows10/Users/ELMAJ/Documents/DESK/TXT\ FILES/2E6859.txt
+: 1623193607:0;nt
+: 1623193611:0;dn
+: 1623193613:0;nano /windows10/Users/ELMAJ/Documents/DESK/TXT\ FILES/2E6859.txt
+: 1623193625:0;nmtui
+: 1623193750:0;nt
+: 1623193765:0;sudo htop
+: 1623193791:0;nmtui
+: 1623193801:0;dn
+: 1623193805:0;s
+: 1623193837:0;suod htop
+: 1623193841:0;sudo htop
+: 1623195612:0;nt
+: 1623195618:0;dn
+: 1623195621:0;nmtui
+: 1623195684:0;sudo nmtui
+: 1623195712:0;sudo systemctl stop NetworkManager.service
+: 1623195755:0;sudo systemctl start NetworkManager.service
+: 1623195759:0;dn
+: 1623195762:0;sudo nmtui
+: 1623195783:0;nmtui
+: 1623195823:0;nt
+: 1623195881:0;sudo htop
+: 1623195918:0;dn
+: 1623195919:0;nmtui
+: 1623195935:0;clear
+: 1623195957:0;startx
+: 1623195987:0;nano /windows10/Users/ELMAJ/Documents/DESK/TXT\ FILES/70919790\ TP-LINK_DE9E45.txt
+: 1623195996:0;nt
+: 1623196066:0;dn
+: 1623196068:0;nmtui
+: 1623196219:0;s
+: 1623196233:0;nmtui
+: 1623196252:0;s
+: 1623196258:0;c
+: 1623196330:0;ds
+: 1623196332:0;c
+: 1623196379:0;s
+: 1623196419:0;v .config/aliasrc
+: 1623196459:0;ntf
+: 1623196460:0;ntl
+: 1623196464:0;s
+: 1623196514:0;sudo htop
+: 1623196547:0;killall brave
+: 1623196554:0;killall custom-brave
+: 1623196559:0;custom-brave
+: 1623196761:0;s
+: 1623196927:0;v .config/polybar/bars.ini
+: 1623196964:0;sh .config/polybar/launch.sh
+: 1623196984:0;cd /bin
+: 1623196996:0;rm -rf checkupdates
+: 1623197001:0;sudo rm -rf checkupdates
+: 1623197047:0;s
+: 1623198283:0;nmtui
+: 1623198888:0;s
+: 1623198893:0;nmtui
+: 1623200485:0;ka brave
+: 1623201207:0;p -S macchanger
+: 1623201246:0;clear
+: 1623201453:0;macchanger
+: 1623201471:0;macchanger --help
+: 1623201753:0;s
+: 1623201760:0;nmtui
+: 1623204272:0;nt
+: 1623204277:0;dn
+: 1623204285:0;nmtui
+: 1623204366:0;nt
+: 1623204434:0;dn
+: 1623204439:0;nmtui
+: 1623204456:0;s
+: 1623204478:0;ds
+: 1623204482:0;c
+: 1623204494:0;nmtui
+: 1623204498:0;s
+: 1623204523:0;nt
+: 1623204527:0;dn
+: 1623204530:0;nmtui
+: 1623204592:0;s
+: 1623204632:0;c
+: 1623204642:0;ntf
+: 1623204643:0;ntl
+: 1623204728:0;sudo ip link set dev wlp0s29f7u1 down
+: 1623204786:0;sudo ip link set dev wlp0s29f7u1 address 00:0D:F0:33:31:D3
+: 1623204802:0;sudo ip link set dev wlp0s29f7u1 up
+: 1623204810:0;ip link show
+: 1623204821:0;nmtui
+: 1623204853:0;nt
+: 1623204861:0;ds
+: 1623204865:0;nt
+: 1623204870:0;dn
+: 1623204872:0;nmtui
+: 1623204943:0;chlist
+: 1623205116:0;c
+: 1623205225:0;clear
+: 1623205230:0;v .config/aliasrc
+: 1623205266:0;ntf
+: 1623205267:0;ntl
+: 1623205275:0;ip link show wlp0s29f7u1
+: 1623205301:0;sudo ip link set dev wlp12s0 down
+: 1623205333:0;sudo ip link set dev wlp12s0 address 00:0D:F0:33:31:D9
+: 1623205351:0;ip link show wlp12s0
+: 1623205364:0;p -R macchanger
+: 1623205404:0;clear
+: 1623205406:0;ntf
+: 1623205407:0;ntl
+: 1623205410:0;vpn s
+: 1623206368:0;fast
+: 1623206407:0;s
+: 1623206433:0;fast
+: 1623206453:0;ds
+: 1623206458:0;fast
+: 1623206547:0;c
+: 1623206560:0;ntf
+: 1623206562:0;ntl
+: 1623207613:0;s
+: 1623209378:0;ntf
+: 1623209381:0;ntl
+: 1623209585:0;ip link show wlp0s29f7u1
+: 1623210789:0;sudo vim /bin/custom-brave
+: 1623210833:0;htop
+: 1623212424:0;ntf
+: 1623212430:0;update
+: 1623213089:0;clear
+: 1623213099:0;p -R xmonad xmonad-contrib 
+: 1623213128:0;clear
+: 1623213133:0;yay -Syu
+: 1623213165:0;clear
+: 1623213725:0;v .config/aliasrc
+: 1623213801:0;ntf
+: 1623213805:0;ntl
+: 1623214355:0;ka brave
+: 1623216633:0;nyg
+: 1623216638:0;ntl
+: 1623216643:0;ntf
+: 1623216644:0;ntl
+: 1623218275:0;c
+: 1623218297:0;s
+: 1623220045:0;ntf
+: 1623220054:0;ntl
+: 1623220680:0;blugon
+: 1623220759:0;mkdir /home/xroot/.config/blugon/\
+
+: 1623220764:0;blugon
+: 1623221294:0;nmtui
+: 1623221342:0;ds
+: 1623221403:0;nmtui
+: 1623221431:0;nt
+: 1623221442:0;dn
+: 1623221447:0;nmtui
+: 1623221535:0;s
+: 1623221550:0;c
+: 1623221573:0;v .config/aliasrc
+: 1623221685:0;ntf
+: 1623221691:0;ntll
+: 1623221695:0;vpn s
+: 1623221845:0;s
+: 1623260464:0;nmtui
+: 1623260475:0;ds
+: 1623260480:0;c
+: 1623260492:0;ntf
+: 1623260495:0;ntll
+: 1623260834:0;s
+: 1623262080:0;v .config/polybar/modules.ini
+: 1623264729:0;nmtui
+: 1623264760:0;nt
+: 1623264816:0;dn
+: 1623264820:0;nmtui
+: 1623264829:0;ds
+: 1623264834:0;c
+: 1623264849:0;ntf
+: 1623264854:0;ntll
+: 1623265226:0;v .config/picom/picom.conf
+: 1623265309:0;ka picom
+: 1623265332:0;v .config/picom/picom.conf
+: 1623265364:0;ka picom
+: 1623265390:0;v .config/picom/picom.conf
+: 1623265408:0;ka picom
+: 1623265427:0;v .config/bspwm/bspwmrc
+: 1623265818:0;ds
+: 1623265824:0;s
+: 1623265911:0;chlist
+: 1623265984:0;ip link show wlp0s29f7u1
+: 1623266005:0;s
+: 1623266012:0;chlist
+: 1623266051:0;s
+: 1623266069:0;chlist
+: 1623266092:0;s
+: 1623266137:0;p -S macchanger
+: 1623266166:0;s
+: 1623266638:0;sudo macchanger -r wlp0s29f7u1
+: 1623266681:0;sudo ip link set dev wlp0s29f7u1 down
+: 1623266686:0;sudo macchanger -r wlp0s29f7u1
+: 1623266751:0;sudo macchanger --mac=00:0D:F0:33:31:D3 wlp0s29f7u1
+: 1623266814:0;clear
+: 1623266842:0;sudo touch /etc/systemd/system/changemac@.service
+: 1623266869:0;nano admin:///etc/systemd/system/changemac@.service
+: 1623266900:0;nano /etc/systemd/system/changemac@.service
+: 1623266912:0;sudo nano /etc/systemd/system/changemac@.service
+: 1623267145:0;sudo systemctl enable changemac@wlp0s29f7u1.service
+: 1623267205:0;reboot
+: 1623267274:0;dn
+: 1623267280:0;startx
+: 1623267322:0;nmtui
+: 1623267360:0;ip link show wlp0s29f7u1
+: 1623267387:0;s
+: 1623267402:0;c
+: 1623267418:0;ntf
+: 1623267426:0;ntll
+: 1623267430:0;clear
+: 1623267434:0;lspci
+: 1623267484:0;ls
+: 1623267487:0;s
+: 1623267641:0;sudo lsmod
+: 1623267857:0;lspci
+: 1623267960:0;lspci -nnvv
+: 1623268048:0;cd /etc/modprobe.d/
+: 1623268049:0;ls
+: 1623268078:0;nano blacklist.conf
+: 1623268103:0;sudo nano blacklist.conf
+: 1623268286:0;startx
+: 1623268310:0;s
+: 1623268333:0;ip link show wlp0s29f7u1
+: 1623268346:0;c
+: 1623268369:0;ntf
+: 1623268371:0;ntl
+: 1623268374:0;s
+: 1623268389:0;vpn s
+: 1623268408:0;ntf
+: 1623268411:0;ntll
+: 1623268418:0;fast
+: 1623268624:0;s
+: 1623269128:0;ds
+: 1623269131:0;c
+: 1623269193:0;ds
+: 1623269197:0;c
+: 1623269223:0;ntf
+: 1623269225:0;ntl
+: 1623269228:0;ntf
+: 1623269232:0;ntll
+: 1623269369:0;s
+: 1623269372:0;nmtui
+: 1623269391:0;clear
+: 1623269393:0;ls
+: 1623269400:0;x
+: 1623269432:0;x/dgb
+: 1623269447:0;curl rate.sx/dgb
+: 1623269538:0;s
+: 1623271545:0;ntf
+: 1623271833:0;c
+: 1623271862:0;v .config/aliasrc
+: 1623271883:0;ds
+: 1623271891:0;vpn c --cc NL
+: 1623271911:0;ntf
+: 1623271914:0;ntll
+: 1623272015:0;s
+: 1623272099:0;ds
+: 1623272200:0;s
+: 1623272255:0;ip link show
+: 1623272279:0;clear
+: 1623272282:0;nmtui
+: 1623272331:0;nt
+: 1623272339:0;nmtui
+: 1623272347:0;s
+: 1623272353:0;ds
+: 1623272357:0;ntf
+: 1623272359:0;ntll
+: 1623272441:0;v .config/aliasrc
+: 1623272480:0;ntf
+: 1623272483:0;ntll
+: 1623273334:0;c
+: 1623274084:0;nmtui
+: 1623274163:0;ds
+: 1623274171:0;c
+: 1623274338:0;s
+: 1623274347:0;ntf
+: 1623274349:0;ntll
+: 1623275257:0;sudo gparted
+: 1623276725:0;s
+: 1623277729:0;zathura Documents/Books
+: 1623277740:0;zathura Documents/Books/Wireless\ Hacking\ with\ Kali\ Linux\ Learn\ fast\ how\ to\ hack\ any\ wireless\ networks\ penetration\ testing\ implementation\ guide\ by\ Hugo\ Hoffman\ \(z-lib.org\).epub
+: 1623278019:0;maan zathura-gruvbox
+: 1623278027:0;man zathura
+: 1623278114:0;zathura Documents/Books/The\ Hacker\ Playbook\ 3\ Practical\ Guide\ To\ Penetration\ Testing\ by\ Peter\ Kim\ \(z-lib.org\).epub
+: 1623278345:0;zathura Documents/Books/Wireless\ Hacking\ with\ Kali\ Linux\ Learn\ fast\ how\ to\ hack\ any\ wireless\ networks\ penetration\ testing\ implementation\ guide\ by\ Hugo\ Hoffman\ \(z-lib.org\).epub
+: 1623278527:0;iwconfig wlp0s29f7u1 mode monitor
+: 1623278535:0;sudo iwconfig wlp0s29f7u1 mode monitor
+: 1623278541:0;ip link
+: 1623278567:0;clear
+: 1623278572:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623278580:0;nmtui
+: 1623278607:0;nt
+: 1623278662:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623278672:0;ifconfig wlp0s29f7u1 up
+: 1623278675:0;sudo ifconfig wlp0s29f7u1 up
+: 1623278683:0;nt
+: 1623278691:0;nmtui
+: 1623278730:0;c
+: 1623278779:0;p -S wifite
+: 1623278838:0;sudo ifconfig wlp0s29f7u1 down
+: 1623278855:0;sudo iwconfig wlp0s29f7u1 mode Monitor
+: 1623278864:0;sudo wifite
+: 1623278890:0;airmon-ng -h
+: 1623278894:0;sudo airmon-ng -h
+: 1623278931:0;sudo airmon-ng start wlp0s29f7u1
+: 1623278958:0;sudo airmon-ng check kill
+: 1623278965:0;sudo airmon-ng start wlp0s29f7u1
+: 1623278988:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623278996:0;sudo ifconfig wlp0s29f7u1 up
+: 1623278997:0;nt
+: 1623279077:0;nmtui
+: 1623279084:0;c
+: 1623279153:0;lsusb
+: 1623280568:0;s
+: 1623280578:0;nmtui
+: 1623280593:0;ds
+: 1623280605:0;s
+: 1623280634:0;nt
+: 1623280639:0;nmtui
+: 1623280652:0;s
+: 1623280913:0;c
+: 1623280968:0;s
+: 1623281574:0;c
+: 1623282768:0;s
+: 1623282794:0;ntf
+: 1623282798:0;ntll
+: 1623282940:0;s
+: 1623282960:0;nmtui
+: 1623282972:0;nt
+: 1623282979:0;nmtui
+: 1623282997:0;s
+: 1623283002:0;ds
+: 1623283010:0;c
+: 1623283021:0;ntf
+: 1623283023:0;ntll
+: 1623283025:0;s
+: 1623283618:0;ntf
+: 1623283623:0;ntll
+: 1623283694:0;htop
+: 1623284352:0;nthg
+: 1623284695:0;s
+: 1623284701:0;ds
+: 1623284752:0;c
+: 1623284793:0;v .config/bspwm/bspwmrc
+: 1623284913:0;clear
+: 1623284923:0;ntf
+: 1623284925:0;ntll
+: 1623284928:0;s
+: 1623285008:0;v .config/bspwm/bspwmrc
+: 1623285898:0;ntf
+: 1623285904:0;ntll
+: 1623285907:0;vpn s
+: 1623285927:0;nthg
+: 1623286022:0;clear
+: 1623286029:0;ip link show wlp0s29f7u1
+: 1623286369:0;v .config/aliasrc
+: 1623286586:0;ip link show wlp0s29f7u1
+: 1623286590:0;nt
+: 1623286595:0;s
+: 1623286612:0;ip link show wlp0s29f7u1
+: 1623286634:0;sudo macchanger --mac=00:0D:F0:33:31:D3 wlp0s29f7u1
+: 1623286672:0;c
+: 1623286686:0;ntf
+: 1623286688:0;ntll
+: 1623287051:0;sudo ip link set dev wlp0s29f7u1 down && sudo ip link set dev wlp0s29f7u1 address 00:0D:F0:33:31:D3 && sudo ip link set dev wlp0s29f7u1 up
+: 1623287059:0;ip link show wlp0s29f7u1
+: 1623287110:0;v .config/aliasrc
+: 1623287182:0;ip link show wlp0s29f7u1
+: 1623287186:0;nt
+: 1623287205:0;s
+: 1623287208:0;ds
+: 1623287212:0;c
+: 1623287232:0;ntf
+: 1623287234:0;ntll
+: 1623287241:0;ip link show wlp0s29f7u1
+: 1623287354:0;s
+: 1623287449:0;vpn c --cc NL
+: 1623287460:0;ntf
+: 1623287465:0;ntll
+: 1623290006:0;ip link show wlp0s29f7u1
+: 1623290350:0;c
+: 1623290366:0;ntf
+: 1623290373:0;ntl
+: 1623290375:0;fast
+: 1623293480:0;x
+: 1623297510:0;v .config/aliasrc
+: 1623297546:0;ntf
+: 1623297551:0;ntl
+: 1623306509:0;nmtui
+: 1623309134:0;blugon
+: 1623309247:0;ntf
+: 1623309258:0;ntll
+: 1623320086:0;nmtui
+: 1623320141:0;nt
+: 1623320201:0;ip link show wlp0s29f7u1
+: 1623320211:0;nmtui
+: 1623320335:0;ip link show wlp0s29f7u1
+: 1623320340:0;nt
+: 1623320379:0;ip link show wlp0s29f7u1
+: 1623320382:0;nt
+: 1623320403:0;ip link show wlp0s29f7u1
+: 1623320412:0;nmtui
+: 1623320485:0;s
+: 1623320524:0;nmtui
+: 1623320560:0;nt
+: 1623320577:0;nmtui
+: 1623320677:0;s
+: 1623320691:0;ip link show wlp0s29f7u1
+: 1623320722:0;s
+: 1623320756:0;nmtui
+: 1623320897:0;s
+: 1623320910:0;ds
+: 1623320935:0;nt
+: 1623320956:0;nmtui
+: 1623321069:0;s
+: 1623321076:0;nmtui
+: 1623321236:0;nano /windows10/Users/ELMAJ/Documents/DESK/TXT\ FILES/2E6859.txt
+: 1623321243:0;nmtui
+: 1623321279:0;s
+: 1623321381:0;nt
+: 1623321414:0;nmyui
+: 1623321419:0;nmtui
+: 1623321449:0;s
+: 1623321475:0;nmtui
+: 1623321514:0;s
+: 1623321535:0;sh .config/polybar/launch.sh
+: 1623321552:0;c
+: 1623321571:0;ntf
+: 1623321573:0;ntll
+: 1623321580:0;x
+: 1623321781:0;ntf
+: 1623321785:0;ntll
+: 1623347025:0;mpv Downloads/2road/CityOfAngels
+: 1623347307:0;mpv Downloads/2road/Cumtown\ Premium\ Ep.\ 239\ \(6-6-21\)\ \(p\)ride\ the\ lightning-DPjRgK8tRus.opus
+: 1623348580:0;zathura Documents/Books/Wireless\ Hacking\ with\ Kali\ Linux\ Learn\ fast\ how\ to\ hack\ any\ wireless\ networks\ penetration\ testing\ implementation\ guide\ by\ Hugo\ Hoffman\ \(z-lib.org\).epub
+: 1623348757:0;zathura Documents/Books/The\ Hacker\ Playbook\ 3\ Practical\ Guide\ To\ Penetration\ Testing\ by\ Peter\ Kim\ \(z-lib.org\).epub
+: 1623350414:0;v .config/picom/picom.conf
+: 1623350464:0;ka picom
+: 1623350677:0;v .config/bspwm/bspwmrc
+: 1623354657:0;nmtui
+: 1623354898:0;nt
+: 1623354962:0;sh .config/polybar/launch.sh
+: 1623355177:0;nt
+: 1623355186:0;nmtui
+: 1623355202:0;s
+: 1623355218:0;ds
+: 1623355222:0;ntf
+: 1623355223:0;ntll
+: 1623355757:0;c
+: 1623356832:0;ds
+: 1623357527:0;lsblk
+: 1623357545:0;mnt /dev/sdb1
+: 1623357565:0;cd /run/media/xroot/USB
+: 1623357565:0;ls
+: 1623357569:0;du -h
+: 1623357592:0;clear
+: 1623357594:0;cd
+: 1623357597:0;cd Downloads
+: 1623357597:0;ls
+: 1623357614:0;cp -R Wondershare\ Data\ Recovery\ 6.0.0.31\ +\ Crack\ \[Tech-Tools.ME\] /run/media/xroot/USB/
+: 1623357626:0;cd
+: 1623357632:0;cd /run/media/xroot/USB
+: 1623357633:0;ls
+: 1623357636:0;du -h
+: 1623357642:0;clear
+: 1623357654:0;unmnt /dev/sdb1
+: 1623357660:0;cd
+: 1623357662:0;unmnt /dev/sdb1
+: 1623357664:0;clear
+: 1623357950:0;mnt /dev/sdb1
+: 1623357962:0;cp Downloads/7z1900.exe /run/media/xroot/USB
+: 1623357969:0;unmnt /dev/sdb1
+: 1623357971:0;clear
+: 1623358099:0;c
+: 1623358121:0;ntf
+: 1623358123:0;ntll
+: 1623358607:0;ds
+: 1623358991:0;c
+: 1623359001:0;mnt /dev/sdb1
+: 1623359019:0;cp -R Downloads/EaseUS.Data.Recovery.Wizard.v8.5.Multilingual.Incl.Keygen-TSZ /run/media/xroot/USB
+: 1623359029:0;unmnt /dev/sdb1
+: 1623359031:0;clear
+: 1623360779:0;s
+: 1623360789:0;ntf
+: 1623360792:0;ntll
+: 1623360796:0;vpn s
+: 1623360808:0;c
+: 1623360890:0;vpn s
+: 1623362775:0;x
+: 1623362980:0;ds
+: 1623362989:0;s
+: 1623362994:0;c
+: 1623364007:0;s
+: 1623365452:0;htop
+: 1623365490:0;killall polybar
+: 1623365503:0;killall picom
+: 1623365505:0;htop
+: 1623365609:0;v .config/bspwm/bspwmrc
+: 1623365648:0;clear
+: 1623365650:0;htop
+: 1623365660:0;reboot
+: 1623365808:0;startx
+: 1623365822:0;htop
+: 1623365838:0;nmtui
+: 1623365852:0;s
+: 1623365864:0;c
+: 1623365909:0;ntf
+: 1623365910:0;ntll
+: 1623365913:0;clear
+: 1623365915:0;htop
+: 1623365949:0;sudo v /bin/custom-brave
+: 1623365953:0;sudo nano /bin/custom-brave
+: 1623365998:0;clear
+: 1623366001:0;htop
+: 1623366283:0;s
+: 1623366290:0;nmtui
+: 1623366304:0;s
+: 1623366339:0;ip link show wlp0s29f7u1
+: 1623366345:0;clear
+: 1623366345:0;s
+: 1623366389:0;ds
+: 1623366393:0;c
+: 1623366412:0;ntf
+: 1623366415:0;ntll
+: 1623366417:0;s
+: 1623366890:0;sudo nano /bin/custom-brave
+: 1623366908:0;htop
+: 1623367119:0;s
+: 1623367175:0;nt
+: 1623367179:0;nmtui
+: 1623367193:0;s
+: 1623367200:0;ds
+: 1623367203:0;c
+: 1623367223:0;ip link show wlp0s29f7u1
+: 1623367231:0;ntf
+: 1623367234:0;ntll
+: 1623367236:0;clear
+: 1623367237:0;htop
+: 1623367315:0;ntf
+: 1623367317:0;ntll
+: 1623367320:0;nthg
+: 1623367406:0;v .config/bspwm/bspwmrc
+: 1623367529:0;v .config/aliasrc
+: 1623367578:0;ntf
+: 1623367580:0;ntll
+: 1623367582:0;nthg
+: 1623368125:0;v .config/sxhkd/sxhkdrc
+: 1623368463:0;nmtui
+: 1623368477:0;s
+: 1623368482:0;ds
+: 1623368488:0;c
+: 1623368502:0;ntf
+: 1623368504:0;ntll
+: 1623368619:0;v .config/bspwm/bspwmrc
+: 1623368787:0;clear
+: 1623368789:0;s
+: 1623368793:0;nmtui
+: 1623368839:0;vpn s
+: 1623369033:0;nthg
+: 1623369692:0;nmtui
+: 1623369701:0;clear
+: 1623369703:0;htop
+: 1623369735:0;clear
+: 1623370151:0;pkill x
+: 1623370154:0;clear
+: 1623370161:0;startx
+: 1623370168:0;s
+: 1623370175:0;vpn s
+: 1623370186:0;ntf
+: 1623370188:0;ntll
+: 1623370194:0;v .config/aliasrc
+: 1623371054:0;nthg
+: 1623371311:0;s
+: 1623371319:0;ntf
+: 1623371322:0;ntll
+: 1623373388:0;nmtui
+: 1623373395:0;s
+: 1623374638:0;x
+: 1623379401:0;v .config/bspwm/bspwmrc
+: 1623379469:0;htop
+: 1623379476:0;v .config/bspwm/bspwmrc
+: 1623381611:0;ka xcompmgr
+: 1623381642:0;xcompmgr -c -f -x.5 -t.5 -r5
+: 1623381665:0;xcompmgr -c -f -l.5 -t.5 -r5
+: 1623381715:0;v .config/bspwm/bspwmrc
+: 1623382187:0;ka xcompmgr
+: 1623382832:0;s
+: 1623382842:0;nmtui
+: 1623382854:0;nthg
+: 1623383155:0;p -Rns chessx
+: 1623387439:0;s
+: 1623387451:0;ds
+: 1623387454:0;c
+: 1623387470:0;ntf
+: 1623387471:0;fast
+: 1623387516:0;s
+: 1623387545:0;fast
+: 1623387697:0;s
+: 1623388599:0;vpn s
+: 1623388610:0;c
+: 1623388626:0;vpn s
+: 1623388643:0;s
+: 1623388650:0;ntf
+: 1623388824:0;s
+: 1623389349:0;vpn s
+: 1623390059:0;fast
+: 1623390098:0;ntg
+: 1623390100:0;ntf
+: 1623390103:0;ntll
+: 1623390109:0;l
+: 1623391983:0;ntg
+: 1623391984:0;ntf
+: 1623391986:0;ntll
+: 1623392089:0;ka xcompmgr
+: 1623392107:0;v .config/bspwm/bspwmrc
+: 1623392258:0;nmtui
+: 1623392296:0;s
+: 1623392332:0;ds
+: 1623392335:0;v
+: 1623392344:0;c
+: 1623392361:0;ntf
+: 1623392365:0;ntll
+: 1623392367:0;clear
+: 1623392372:0;s
+: 1623392739:0;nthg
+: 1623392778:0;s
+: 1623393594:0;nthg
+: 1623394971:0;vpn s
+: 1623439051:0;nmtui
+: 1623439060:0;ds
+: 1623439062:0;s
+: 1623439092:0;c
+: 1623439109:0;ntf
+: 1623439112:0;ntll
+: 1623439116:0;vpn s
+: 1623439284:0;s
+: 1623439854:0;nthg
+: 1623446325:0;s
+: 1623446331:0;ds
+: 1623446338:0;s
+: 1623446636:0;c
+: 1623446648:0;ntf
+: 1623446651:0;ntll
+: 1623447170:0;v .config/bspwm/bspwmrc
+: 1623448679:0;s
+: 1623448682:0;ds
+: 1623448685:0;c
+: 1623448709:0;ds
+: 1623448710:0;s
+: 1623448724:0;vpn s
+: 1623448729:0;c
+: 1623448801:0;ntf
+: 1623448803:0;ntll
+: 1623448805:0;vpn s
+: 1623450371:0;ds
+: 1623450385:0;vpn c --cc NL
+: 1623450429:0;s
+: 1623450472:0;ntf
+: 1623450474:0;ntll
+: 1623450476:0;vpn s
+: 1623450915:0;v .config/aliasrc
+: 1623450982:0;ntf
+: 1623450986:0;ntll
+: 1623450988:0;s
+: 1623451232:0;ds
+: 1623451234:0;s
+: 1623451572:0;c
+: 1623451598:0;ntf
+: 1623451600:0;ntll
+: 1623451890:0;ds
+: 1623452061:0;nmtui
+: 1623452069:0;s
+: 1623452144:0;chlist
+: 1623452180:0;ds
+: 1623452215:0;s
+: 1623452282:0;nmtui
+: 1623452290:0;s
+: 1623452298:0;nt
+: 1623452303:0;nmtui
+: 1623452313:0;s
+: 1623452426:0;c
+: 1623452458:0;clear
+: 1623452459:0;ntf
+: 1623452461:0;ntll
+: 1623453285:0;nthg
+: 1623456503:0;nmtui
+: 1623456525:0;ds
+: 1623456539:0;c
+: 1623456565:0;ntf
+: 1623456567:0;ntll
+: 1623456614:0;s
+: 1623456705:0;ds
+: 1623457347:0;c
+: 1623457367:0;ntf
+: 1623457371:0;ntll
+: 1623459735:0;s
+: 1623460208:0;nthg
+: 1623461340:0;vpn s
+: 1623463994:0;nmtui
+: 1623464056:0;nt
+: 1623464062:0;nmtui
+: 1623464073:0;s
+: 1623464082:0;ds
+: 1623464084:0;c
+: 1623464098:0;v .config/aliasrc
+: 1623464120:0;ntf
+: 1623464122:0;ntl
+: 1623464125:0;vpn s
+: 1623464134:0;ip link show wlp0s29f7u1
+: 1623464269:0;clear
+: 1623464274:0;nthg
+: 1623464402:0;s
+: 1623464410:0;v .config/aliasrc
+: 1623464432:0;ntf
+: 1623464434:0;ntl
+: 1623464436:0;nthg
+: 1623464583:0;v .config/aliasrc
+: 1623464617:0;ntf
+: 1623464619:0;ntl
+: 1623464624:0;nthg
+: 1623467613:0;v .config/aliasrc
+: 1623467637:0;ntf
+: 1623467639:0;ntl
+: 1623467644:0;vpn s
+: 1623467713:0;nthg
+: 1623467735:0;ntf
+: 1623468004:0;ds
+: 1623468012:0;nthg
+: 1623468733:0;c
+: 1623471207:0;update
+: 1623471463:0;p -Rns gnuradio kitty pandoc 
+: 1623471496:0;p -Rns gnuradio kitty pandoc gnuradio-fcdproplus gnuradio-iqbal gnuradio-osmosdr 
+: 1623471511:0;update
+: 1623472237:0;x
+: 1623472608:0;sh .config/polybar/launch.sh
+: 1623472698:0;ka polybar
+: 1623472701:0;sh .config/polybar/launch.sh
+: 1623476690:0;v .config/bspwm/bspwmrc
+: 1623476706:0;v .config/sxhkd/sxhkdrc
+: 1623476748:0;cd Pictures
+: 1623476749:0;ls
+: 1623476828:0;v .config/aliasrc
+: 1623476840:0;ntf
+: 1623476843:0;ntl
+: 1623477144:0;startx
+: 1623477174:0;ip link show wlp0s29f7u1
+: 1623477238:0;c
+: 1623477251:0;ntf
+: 1623477255:0;ntl
+: 1623478305:0;nmtui
+: 1623478317:0;c
+: 1623478523:0;s
+: 1623518499:0;nmtui
+: 1623518539:0;nt
+: 1623518566:0;nmtui
+: 1623518602:0;s
+: 1623518610:0;nmtui
+: 1623525606:0;nt
+: 1623525655:0;nmtui
+: 1623525772:0;nt
+: 1623525796:0;nmtui
+: 1623525802:0;s
+: 1623525808:0;c
+: 1623525817:0;ntf
+: 1623525820:0;ntll
+: 1623525825:0;v .config/aliasrc
+: 1623526807:0;nthg
+: 1623527621:0;nmtui
+: 1623527673:0;v /etc/systemd/system/changemac@.service
+: 1623527838:0;sudo nano /etc/systemd/system/changemac@.service
+: 1623527867:0;v .config/aliasrc
+: 1623527917:0;sudo nmtui
+: 1623527964:0;nt
+: 1623527970:0;nmtui
+: 1623527986:0;s
+: 1623528027:0;nt
+: 1623528105:0;nmtui
+: 1623528114:0;s
+: 1623528119:0;ip link show wlp0s29f7u1
+: 1623528397:0;startx
+: 1623528421:0;nmtui
+: 1623528428:0;s
+: 1623528434:0;ip link show wlp0s29f7u1
+: 1623528474:0;ntf
+: 1623528476:0;c
+: 1623528488:0;ntf
+: 1623528491:0;ntll
+: 1623529942:0;s
+: 1623529950:0;ip link show wlp0s29f7u1
+: 1623529955:0;s
+: 1623534004:0;v .config/aliasrc
+: 1623534365:0;v .config/bspwm/bspwmrc
+: 1623538896:0;s
+: 1623540698:0;nmtui
+: 1623540718:0;ds
+: 1623540722:0;c
+: 1623540743:0;ntf
+: 1623540747:0;ntll
+: 1623540753:0;nthg
+: 1623543412:0;s
+: 1623549074:0;ntf
+: 1623549076:0;ntl
+: 1623549151:0;v .config/aliasrc
+: 1623549424:0;ntf
+: 1623549426:0;vpn s
+: 1623549435:0;c
+: 1623549446:0;vpn s
+: 1623549481:0;nthg
+: 1623550616:0;vpn s
+: 1623550625:0;ds
+: 1623550631:0;nthg
+: 1623552450:0;clear
+: 1623552452:0;nthg
+: 1623561665:0;sh .config/polybar/launch.sh
+: 1623561806:0;update
+: 1623562032:0;yay -Syu
+: 1623562205:0;s
+: 1623562226:0;yay -Syu
+: 1623562579:0;nt
+: 1623562596:0;s
+: 1623562609:0;c
+: 1623562631:0;ntf
+: 1623562634:0;ntl
+: 1623562638:0;ip link show wlp0s29f7u1
+: 1623562955:0;clear
+: 1623564778:0;nmtui
+: 1623565510:0;ip link show wlp0s29f7u1
+: 1623565519:0;nmtui
+: 1623565524:0;ntf
+: 1623565528:0;ntl
+: 1623565536:0;v .config/polybar
+: 1623565567:0;v .config/aliasrc
+: 1623566059:0;x
+: 1623566959:0;nmtui
+: 1623566973:0;vpn s
+: 1623569072:0;pkill x
+: 1623569081:0;startx
+: 1623569095:0;c
+: 1623569114:0;ntf
+: 1623569117:0;ntl
+: 1623569474:0;ntf
+: 1623569485:0;ntll
+: 1623607973:0;s
+: 1623607977:0;c
+: 1623607986:0;nt
+: 1623607991:0;c
+: 1623608013:0;nmtui
+: 1623608040:0;s
+: 1623608076:0;nmtui
+: 1623608147:0;nt
+: 1623608174:0;nmtui
+: 1623608263:0;s
+: 1623608355:0;c
+: 1623608368:0;s
+: 1623608413:0;c
+: 1623608465:0;ds
+: 1623608474:0;s
+: 1623608506:0;c
+: 1623608524:0;ntf
+: 1623608528:0;ntll
+: 1623608532:0;clear
+: 1623609102:0;s
+: 1623609107:0;ntf
+: 1623609109:0;ntll
+: 1623614524:0;s
+: 1623614543:0;nmtui
+: 1623614551:0;s
+: 1623614558:0;ds
+: 1623614561:0;c
+: 1623614584:0;ntf
+: 1623614586:0;ntll
+: 1623617369:0;s
+: 1623620590:0;ip link show wlp0s29f7u1
+: 1623620600:0;nt
+: 1623620605:0;nmtui
+: 1623620621:0;s
+: 1623620624:0;c
+: 1623620662:0;ntf
+: 1623620663:0;ntll
+: 1623620666:0;clear
+: 1623621274:0;s
+: 1623627455:0;ip link set dev wlp0s29f7u1 down
+: 1623627458:0;sudo ip link set dev wlp0s29f7u1 down
+: 1623630755:0;sudo ip link set dev wlp0s29f7u1 up
+: 1623630759:0;nmtui
+: 1623630791:0;nt
+: 1623630865:0;nmtui
+: 1623630885:0;c
+: 1623630908:0;ntf
+: 1623630911:0;ntll
+: 1623633138:0;ip link show wlp0s29f7u1
+: 1623635414:0;ntf
+: 1623635418:0;ntll
+: 1623635424:0;nthg
+: 1623636386:0;s
+: 1623637478:0;ntf
+: 1623637480:0;ntl
+: 1623639758:0;ntf
+: 1623639772:0;vpn s
+: 1623639783:0;v .config/bspwm/bspwmrc
+: 1623639959:0;update
+: 1623639977:0;s
+: 1623640057:0;clear
+: 1623640061:0;yay -Syu
+: 1623640124:0;clear
+: 1623640127:0;x
+: 1623641872:0;nt
+: 1623641877:0;ip link show wlp0s29f7u1
+: 1623641883:0;s
+: 1623642008:0;c
+: 1623642023:0;ntf
+: 1623642025:0;clear
+: 1623642029:0;sh .config/polybar/launch.sh
+: 1623642049:0;ka polybar
+: 1623642050:0;sh .config/polybar/launch.sh
+: 1623646940:0;vpn s
+: 1623646966:0;ds
+: 1623646970:0;c
+: 1623647054:0;ds
+: 1623647057:0;c
+: 1623647087:0;ntf
+: 1623647089:0;ntl
+: 1623647556:0;vpn s
+: 1623648711:0;ds
+: 1623648714:0;c
+: 1623648723:0;s
+: 1623651103:0;ntf
+: 1623651105:0;ntl
+: 1623652110:0;c
+: 1623652119:0;ntf
+: 1623652121:0;ntl
+: 1623652164:0;nthg
+: 1623655214:0;ntf
+: 1623655218:0;ntl
+: 1623655266:0;nthg
+: 1623658005:0;sh .config/polybar/launch.sh
+: 1623660386:0;nmtui
+: 1623660472:0;s
+: 1623660516:0;nmtui
+: 1623660547:0;s
+: 1623660559:0;nt
+: 1623660565:0;s
+: 1623660572:0;nmtui
+: 1623660605:0;s
+: 1623660676:0;ds
+: 1623660682:0;c
+: 1623660716:0;s
+: 1623660724:0;c
+: 1623660732:0;s
+: 1623660741:0;nmtui
+: 1623660821:0;s
+: 1623660831:0;c
+: 1623660854:0;ntf
+: 1623660867:0;ntll
+: 1623663029:0;s
+: 1623696114:0;x
+: 1623696126:0;c
+: 1623696170:0;ntf
+: 1623696174:0;ntll
+: 1623696180:0;x
+: 1623696704:0;s
+: 1623699932:0;ds
+: 1623699934:0;c
+: 1623699945:0;s
+: 1623699948:0;c
+: 1623699966:0;ntf
+: 1623699968:0;ntll
+: 1623702715:0;s
+: 1623704769:0;ntf
+: 1623704771:0;ntll
+: 1623704774:0;vpn s
+: 1623704824:0;ds
+: 1623704830:0;c
+: 1623704843:0;ntf
+: 1623704845:0;ntll
+: 1623706216:0;v .config/bspwm/bspwmrc
+: 1623706260:0;v .config/sxhkd/sxhkdrc
+: 1623710791:0;s
+: 1623710796:0;ds
+: 1623710812:0;c
+: 1623710823:0;ntf
+: 1623710825:0;ntll
+: 1623712164:0;s
+: 1623713133:0;ip link set dev wlp0s29f7u1 down
+: 1623713136:0;sudo ip link set dev wlp0s29f7u1 down
+: 1623716258:0;sudo ip link set dev wlp0s29f7u1 up
+: 1623716263:0;nmtui
+: 1623716299:0;nt
+: 1623716357:0;nmtui
+: 1623716384:0;s
+: 1623716410:0;ds
+: 1623716418:0;c
+: 1623716426:0;s
+: 1623716472:0;c
+: 1623716505:0;ntf
+: 1623716508:0;ntll
+: 1623716536:0;s
+: 1623716804:0;ds
+: 1623716808:0;ntf
+: 1623716816:0;s
+: 1623716988:0;chlist
+: 1623717176:0;s
+: 1623717427:0;nmtui
+: 1623717443:0;s
+: 1623717492:0;nmtui
+: 1623717506:0;s
+: 1623717579:0;nt
+: 1623717584:0;s
+: 1623717591:0;nmtui
+: 1623717603:0;s
+: 1623718268:0;nt
+: 1623718271:0;nmtui
+: 1623718290:0;nt
+: 1623718292:0;nmtui
+: 1623718300:0;s
+: 1623718375:0;nt
+: 1623718441:0;ntf
+: 1623718443:0;c
+: 1623718463:0;ntll
+: 1623718469:0;clear
+: 1623718472:0;nthg
+: 1623718967:0;ip link set dev wlp0s29f7u1 down
+: 1623718972:0;sudo ip link set dev wlp0s29f7u1 down
+: 1623720947:0;nt
+: 1623720953:0;ip link set dev wlp0s29f7u1 up
+: 1623720959:0;s
+: 1623720962:0;c
+: 1623720978:0;ntf
+: 1623720981:0;ntl
+: 1623721358:0;ntf
+: 1623721361:0;ntl
+: 1623721364:0;nthg
+: 1623722739:0;vpn s
+: 1623722751:0;ntf
+: 1623722753:0;nthg
+: 1623723059:0;pv -1 Bmsz3Jn8z2Q
+: 1623724075:0;xrandr
+: 1623724881:0;update
+: 1623725051:0;yay -Syu
+: 1623725111:0;clear
+: 1623731710:0;ka polybar 
+: 1623731716:0;sh .config/polybar/launch.sh
+: 1623732521:0;nthg
+: 1623734711:0;ntf
+: 1623734714:0;ntl
+: 1623734862:0;vpn s
+: 1623734879:0;pkill x
+: 1623734884:0;startx
+: 1623734901:0;vpn s
+: 1623734971:0;v .config/bspwm/bspwmrc
+: 1623734979:0;v .config/aliasrc
+: 1623735080:0;ntf
+: 1623735082:0;ntll
+: 1623735684:0;sh .config/polybar/launch.sh
+: 1623735791:0;nt
+: 1623735795:0;c
+: 1623735810:0;nt
+: 1623735815:0;c
+: 1623735843:0;ntg
+: 1623735845:0;ntf
+: 1623735846:0;ntl
+: 1623738136:0;x
+: 1623738608:0;curl rate.sx/doge
+: 1623739173:0;x
+: 1623739444:0;nmtui
+: 1623739523:0;ds
+: 1623739525:0;c
+: 1623739537:0;ntf
+: 1623739538:0;ntll
+: 1623739554:0;s
+: 1623740242:0;nt
+: 1623740246:0;nmtui
+: 1623740272:0;c
+: 1623740289:0;ntf
+: 1623740290:0;ntll
+: 1623740292:0;s
+: 1623740337:0;vpn s
+: 1623740436:0;ntg
+: 1623740438:0;ntf
+: 1623740442:0;ntll
+: 1623744838:0;s
+: 1623744845:0;c
+: 1623744871:0;ntf
+: 1623744876:0;ntll
+: 1623785327:0;c
+: 1623785358:0;s
+: 1623785372:0;ntf
+: 1623785376:0;ntll
+: 1623788989:0;nmtui
+: 1623788998:0;s
+: 1623789005:0;c
+: 1623789076:0;ntf
+: 1623789078:0;ntll
+: 1623789332:0;s
+: 1623789656:0;c
+: 1623789721:0;ds
+: 1623789728:0;s
+: 1623789741:0;ntf
+: 1623789743:0;ntll
+: 1623789746:0;c
+: 1623789794:0;ntf
+: 1623789796:0;ntll
+: 1623791403:0;nmtui
+: 1623791416:0;c
+: 1623791421:0;ds
+: 1623791425:0;c
+: 1623791502:0;ds
+: 1623791512:0;ntf
+: 1623791514:0;ntll
+: 1623791586:0;s
+: 1623792101:0;ntf
+: 1623792111:0;ds
+: 1623792228:0;c
+: 1623792257:0;ntf
+: 1623792259:0;ntll
+: 1623792263:0;vpn s
+: 1623792871:0;s
+: 1623792874:0;c
+: 1623792902:0;ntf
+: 1623792906:0;ntll
+: 1623795814:0;s
+: 1623795820:0;ds
+: 1623795824:0;c
+: 1623795900:0;s
+: 1623795910:0;ds
+: 1623795912:0;c
+: 1623795998:0;ntf
+: 1623796000:0;ntll
+: 1623796315:0;s
+: 1623796327:0;ntf
+: 1623796330:0;ntll
+: 1623796333:0;vpn s
+: 1623797776:0;s
+: 1623797784:0;v .config/aliasrc
+: 1623797821:0;ntf
+: 1623797823:0;ntll
+: 1623797825:0;vpn s
+: 1623799208:0;s
+: 1623800614:0;v .config/bspwm/bspwmrc
+: 1623801013:0;s
+: 1623801021:0;nt
+: 1623801026:0;nmtui
+: 1623801047:0;s
+: 1623801070:0;ds
+: 1623801074:0;c
+: 1623801120:0;ds
+: 1623801139:0;c
+: 1623801176:0;ds
+: 1623801195:0;s
+: 1623801558:0;ds
+: 1623801559:0;c
+: 1623801602:0;ntf
+: 1623801605:0;ntll
+: 1623801666:0;ds
+: 1623801670:0;ntf
+: 1623801672:0;ntll
+: 1623801790:0;s
+: 1623803159:0;nt
+: 1623803162:0;nmtui
+: 1623803170:0;s
+: 1623803204:0;nt
+: 1623803208:0;nmtui
+: 1623803212:0;s
+: 1623803267:0;nthg
+: 1623803394:0;s
+: 1623803401:0;ntf
+: 1623803403:0;ntll
+: 1623803406:0;c
+: 1623803431:0;ntf
+: 1623803433:0;ntll
+: 1623803487:0;v .config/bspwm/bspwmrc
+: 1623803607:0;sh .config/polybar/launch.sh
+: 1623805604:0;s
+: 1623805610:0;nmtui
+: 1623806235:0;s
+: 1623806242:0;c
+: 1623806259:0;ntf
+: 1623806261:0;ntll
+: 1623806263:0;clear
+: 1623806265:0;nthg
+: 1623806366:0;v .config/bspwm/bspwmrc
+: 1623806524:0;vpn s
+: 1623810407:0;ntf
+: 1623810649:0;nt
+: 1623811170:0;ntf
+: 1623811189:0;v .config/bspwm/bspwmrc
+: 1623811224:0;vpn s
+: 1623811231:0;fast
+: 1623811273:0;clear
+: 1623811329:0;update
+: 1623811559:0;yay -Syu
+: 1623814687:0;startx
+: 1623814718:0;x
+: 1623814723:0;clear
+: 1623814743:0;vpn s
+: 1623814750:0;ntf
+: 1623815402:0;s
+: 1623818355:0;nt
+: 1623818368:0;c
+: 1623818539:0;yay -S rtl8192eu-git
+: 1623819227:0;mkdir RTL-Monitor-Mode
+: 1623819230:0;cd RTL-Monitor-Mode
+: 1623819268:0;git clone https://github.com/ZeeRooo/RTL8192EU.git
+: 1623819384:0;yay -S libelf
+: 1623819668:0;dkms status
+: 1623819725:0;sudo dkms remove rtl8192eu/1.0 --all
+: 1623819780:0;p -S libelf
+: 1623819950:0;clear
+: 1623819953:0;cd RTL-Monitor-Mode
+: 1623819954:0;ls
+: 1623819956:0;cd RTL8192EU
+: 1623819957:0;lss
+: 1623819959:0;ls
+: 1623819967:0;make clean
+: 1623819972:0;make
+: 1623820038:0;sudo make
+: 1623820062:0;sudo make clean
+: 1623820064:0;sudo make
+: 1623820081:0;sudo make install
+: 1623820343:0;uname -r
+: 1623820381:0;p -S linux
+: 1623820681:0;p -R linux-lts
+: 1623820725:0;p -S linux-headers
+: 1623821735:0;dkms status
+: 1623821759:0;update-grub
+: 1623821764:0;sudo update-grub
+: 1623821917:0;nano /etc/default/grub
+: 1623821996:0;sudo nano /etc/default/grub
+: 1623822030:0;sudo update-grub
+: 1623822076:0;dkms status
+: 1623822087:0;sudo dkms remove rtl8192eu/1.0 --all
+: 1623822147:0;clear
+: 1623822168:0;p -R linux-lts-headers
+: 1623822232:0;clear
+: 1623822234:0;ls
+: 1623822240:0;sudo make clean
+: 1623822248:0;sudo make
+: 1623822550:0;startx
+: 1623822587:0;cd RTL-Monitor-Mode
+: 1623822588:0;cd RTL8192EU
+: 1623822595:0;sudo make clean
+: 1623822598:0;sudo make
+: 1623822769:0;v RTL-Monitor-Mode/RTL8192EU/README.md
+: 1623822862:0;sudo make install
+: 1623822871:0;sudo make clean
+: 1623822929:0;yay -S rtl8192eu-git
+: 1623822958:0;cd
+: 1623822973:0;cd .cache/yay/rtl8192eu-git
+: 1623822975:0;ls
+: 1623822988:0;cd rtl8192eu-linux-driver
+: 1623822989:0;ls
+: 1623823032:0;sudo make clean
+: 1623823037:0;clear
+: 1623823042:0;ls
+: 1623823045:0;up
+: 1623823046:0;ls
+: 1623823059:0;v rtl8192eu.install
+: 1623823166:0;man yay
+: 1623823251:0;cd .cache/yay/rtl8192eu-git/rtl8192eu-linux-driver
+: 1623823252:0;ls
+: 1623823273:0;yay --makepkg
+: 1623823276:0;ls
+: 1623823409:0;clear
+: 1623823410:0;cd
+: 1623823415:0;cd RTL-Monitor-Mode/RTL8192EU
+: 1623823416:0;ls
+: 1623823424:0;make clean
+: 1623823431:0;make
+: 1623823633:0;make clean
+: 1623823635:0;clear
+: 1623823662:0;cd /etc/modprobe.d
+: 1623823663:0;ls
+: 1623823672:0;nano blacklist.conf
+: 1623823695:0;sudo nano blacklist.conf
+: 1623823803:0;sudo modprobe iwlwifi
+: 1623823811:0;nmtui
+: 1623823822:0;sudo wifite
+: 1623824945:0;nmtui
+: 1623824959:0;nt
+: 1623824989:0;sudo airmon-ng stop wlp12s0mon
+: 1623824994:0;nmtui
+: 1623825075:0;nt
+: 1623825078:0;nmtui
+: 1623825092:0;s
+: 1623825120:0;nmtui
+: 1623825208:0;s
+: 1623825245:0;ls
+: 1623825275:0;find iname cracked
+: 1623825283:0;find cracked
+: 1623825303:0;s
+: 1623825328:0;nmtui
+: 1623825338:0;sudo wifite
+: 1623825439:0;sudo airmon-ng stop wlp12s0mon
+: 1623825442:0;nmtui
+: 1623825457:0;s
+: 1623825477:0;nt
+: 1623825480:0;nmtui
+: 1623825489:0;s
+: 1623825504:0;sudo wifite
+: 1623825768:0;sudo airmon-ng stop wlp12s0mon
+: 1623825771:0;nt
+: 1623825773:0;nmtui
+: 1623826015:0;sudo wifite
+: 1623826198:0;sudo airmon-ng stop wlp12s0mon
+: 1623826201:0;nm
+: 1623826203:0;nmtui
+: 1623826208:0;s
+: 1623826396:0;uname -r
+: 1623826558:0;clear
+: 1623826561:0;cd RTL-Monitor-Mode
+: 1623826561:0;ls
+: 1623826583:0;mkdir RTL2
+: 1623826587:0;cd RTL2
+: 1623826596:0;git clone https://github.com/kimocoder/rtl8192eu
+: 1623826609:0;cd rtl8192eu
+: 1623826610:0;ls
+: 1623826614:0;make clean
+: 1623826620:0;make
+: 1623826921:0;make clean
+: 1623826925:0;clear
+: 1623827196:0;yay -S 8192eu-dkms-git
+: 1623828200:0;dkms status
+: 1623828225:0;sudo modprobe 8192eu
+: 1623828231:0;nt
+: 1623828241:0;nmtui
+: 1623828266:0;cd
+: 1623828273:0;cd /etc/modprobe.d
+: 1623828280:0;sudo nano blacklist.conf
+: 1623828320:0;ip link set dev wlp12s0 down
+: 1623828323:0;sudo ip link set dev wlp12s0 down
+: 1623828326:0;nmtui
+: 1623828336:0;nt
+: 1623828341:0;nmtui
+: 1623828349:0;sudo ip link set dev wlp12s0 down
+: 1623828351:0;nmtui
+: 1623828367:0;sudo wifite
+: 1623828521:0;ip link show dev
+: 1623828526:0;ip link show dev wlp0s29f7u1
+: 1623828553:0;sudo airmon-ng start wlp0s29f7u1
+: 1623828576:0;sudo airmon-ng check kill
+: 1623828578:0;sudo airmon-ng start wlp0s29f7u1
+: 1623828585:0;sudo airmon-ng check kill
+: 1623828593:0;sudo airmon-ng start wlp0s29f7u1
+: 1623828664:0;ifconfig wlp0s29f7u1 down
+: 1623828669:0;sudo ifconfig wlp0s29f7u1 down
+: 1623828678:0;sudo ifconfig wlp12s0 down
+: 1623828702:0;sudo ifconfig wlp0s29f7u1 mode Monitor
+: 1623828724:0;ifconfig --hekp
+: 1623828739:0;ifconfig --help
+: 1623828802:0;sudo iwconfig wlp0s29f7u1 mode Monitor
+: 1623828839:0;iwconfig
+: 1623828846:0;sudo wifite
+: 1623828876:0;sudo airmon-ng start wlp0s29f7u1
+: 1623828894:0;ka Networkmanager
+: 1623828906:0;sudo systemctl stop NetworkManager.service
+: 1623828920:0;ka wpa_supplicant
+: 1623828931:0;sudo killall wpa_supplicant
+: 1623828935:0;sudo airmon-ng start wlp0s29f7u1
+: 1623828949:0;sudo wifite
+: 1623828962:0;iwconfig
+: 1623828974:0;clear
+: 1623828990:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623828995:0;nt
+: 1623829009:0;sudo ifconfig wlp12s0 down
+: 1623829012:0;nmtui
+: 1623829172:0;s
+: 1623829196:0;c
+: 1623829242:0;ntf
+: 1623829244:0;ntll
+: 1623829253:0;sh .config/polybar/launch.sh
+: 1623829328:0;s
+: 1623830529:0;nthg
+: 1623830710:0;v .config/bspwm/bspwmrc
+: 1623830978:0;startx
+: 1623831007:0;s
+: 1623831014:0;nmtui
+: 1623831026:0;vpn s
+: 1623831035:0;fast
+: 1623831080:0;clear
+: 1623831092:0;sudo wifite
+: 1623831134:0;sudo ifconfig wlp0s29f7u1 down
+: 1623831150:0;sudo iwconfig wlp0s29f7u1 mode Monitor
+: 1623831154:0;iwconfig
+: 1623831162:0;sudo wifite
+: 1623831195:0;airmon-ng 
+: 1623831201:0;sudo airmon-ng 
+: 1623831236:0;sudo ifconfig wlp0s29f7u1 up
+: 1623831240:0;airmon-ng 
+: 1623831243:0;sudo airmon-ng 
+: 1623831254:0;iwconfig
+: 1623831275:0;sudo wifite
+: 1623831293:0;sudo ifconfig wlp0s29f7u1 down
+: 1623831303:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623831307:0;sudo ifconfig wlp0s29f7u1 up
+: 1623831316:0;s
+: 1623831330:0;c
+: 1623831353:0;ntf
+: 1623831356:0;ntll
+: 1623831361:0;clear
+: 1623831521:0;sudo ifconfig wlp0s29f7u1 down
+: 1623831532:0;sudo airmon-ng check kill
+: 1623831546:0;sudo airmon-ng start wlp0s29f7u1
+: 1623831556:0;sudo wifite
+: 1623831575:0;s
+: 1623831580:0;c
+: 1623831591:0;ntf
+: 1623831595:0;ntll
+: 1623831618:0;sudo airmon-ng check kill
+: 1623831624:0;sudo wifite
+: 1623831627:0;sudo airmon-ng check kill
+: 1623831629:0;sudo wifite
+: 1623831647:0;sudo systemctl stop NetworkManager.service
+: 1623831686:0;sudo airmon-ng check kill
+: 1623831691:0;sudo wifite
+: 1623831712:0;sudo killall wpa_supplicant
+: 1623831721:0;sudo airmon-ng check kill
+: 1623831727:0;sudo airmon-ng start wlp0s29f7u1
+: 1623831735:0;sudo wifite
+: 1623831750:0;sudo ifconfig wlp0s29f7u1 down
+: 1623831761:0;sudo iwconfig wlp0s29f7u1 mode Monitor
+: 1623831769:0;sudo ifconfig wlp0s29f7u1 up
+: 1623831773:0;sudo wifi
+: 1623831777:0;sudo wifite
+: 1623831782:0;nmtui
+: 1623831788:0;s
+: 1623831805:0;sudo airmon-ng 
+: 1623831809:0;sudo wifite
+: 1623831940:0;ip link set wlp0s29f7u1 down
+: 1623831944:0;sudo ip link set wlp0s29f7u1 down
+: 1623831980:0;sudo iw dev wlp0s29f7u1 type monito
+: 1623831983:0;sudo iw dev wlp0s29f7u1 type monitor
+: 1623831997:0;sudo iw dev wlp0s29f7u1 type Monitor
+: 1623832029:0;iwconfig
+: 1623832034:0;sudo wifite
+: 1623832068:0;nt
+: 1623832072:0;clear
+: 1623832075:0;c
+: 1623832102:0;sudo iwconfig wlp0s29f7u1 mode Managed
+: 1623832105:0;nt
+: 1623832115:0;clear
+: 1623832117:0;s
+: 1623832121:0;c
+: 1623832164:0;ntf
+: 1623832165:0;ntll
+: 1623833635:0;mkdir exp
+: 1623833640:0;cd exp
+: 1623833670:0;git clone https://github.com/drygdryg/TendaOnlinePIN
+: 1623833711:0;sudo pip3 install -r requirements.txt
+: 1623833727:0;cd 
+: 1623833731:0;cd exp/TendaOnlinePIN
+: 1623833731:0;ls
+: 1623833736:0;sudo pip3 install -r requirements.txt
+: 1623833779:0;python3 TendaOnlinePIN.py --help
+: 1623833862:0;python3 TendaOnlinePIN.py
+: 1623834206:0;uname -r
+: 1623834561:0;s
+: 1623834574:0;ntf
+: 1623834578:0;ntll
+: 1623835582:0;sudo modprobe iwlwifi
+: 1623835591:0;sudo wifite
+: 1623836939:0;sudo ifconfig wlp12s0mon down
+: 1623836950:0;s
+: 1623836956:0;c
+: 1623836971:0;ntf
+: 1623836973:0;ntll
+: 1623837380:0;p -S airgeddon
+: 1623837387:0;yay -S airgeddon
+: 1623837409:0;yay -S airgeddon-git
+: 1623837725:0;nmtui
+: 1623837816:0;s
+: 1623837969:0;airgeddon
+: 1623838005:0;sudo airgeddon
+: 1623838628:0;clear
+: 1623838642:0;sudo airgeddon
+: 1623838724:0;nmtui
+: 1623838746:0;sudo ifconfig wlp12s0mon down
+: 1623838760:0;sudo ifconfig wlp12s0 down
+: 1623838764:0;nt
+: 1623838768:0;sudo ifconfig wlp12s0 down
+: 1623838777:0;nmtui
+: 1623838819:0;c
+: 1623838855:0;ntf
+: 1623838858:0;ntll
+: 1623838952:0;sh .config/polybar/launch.sh
+: 1623839256:0;ntf
+: 1623839260:0;ntll
+: 1623877485:0;s
+: 1623877505:0;sudo ifconfig wlp12s0 down
+: 1623877508:0;nmtui
+: 1623877515:0;c
+: 1623877550:0;ntf
+: 1623877551:0;ntll
+: 1623877552:0;s
+: 1623879862:0;nmtui
+: 1623879874:0;s
+: 1623879909:0;c
+: 1623879948:0;ntf
+: 1623879949:0;s
+: 1623879956:0;airgeddon
+: 1623879972:0;sudo airgeddon
+: 1623880278:0;p -S bettercap ettercap dnsmasq dhcp hashcat hostapd lighttpd
+: 1623880307:0;s
+: 1623880314:0;ntf
+: 1623880315:0;ds
+: 1623880324:0;p -S bettercap ettercap dnsmasq dhcp hashcat hostapd lighttpd
+: 1623880412:0;sudo airgeddon
+: 1623880438:0;clear
+: 1623880514:0;yay -S hostapd-wpe asleap mdk4 crunch beef 
+: 1623881263:0;sudo airgeddon
+: 1623881319:0;yay -Rns beef
+: 1623881368:0;yay -S beef-git
+: 1623882105:0;clear
+: 1623882107:0;sudo airgeddon
+: 1623882424:0;sudo ifconfig wlp12s0mon down
+: 1623882441:0;sudo iwconfig wlp12s0mon mode Managed
+: 1623882454:0;sudo ifconfig wlp12s0mon up
+: 1623882460:0;nmtui
+: 1623882471:0;iwconfig
+: 1623882502:0;nmtui
+: 1623882507:0;nt
+: 1623882512:0;nmtui
+: 1623882608:0;clear
+: 1623882612:0;sudo airgeddon
+: 1623883170:0;clear
+: 1623883174:0;sudo wifite
+: 1623883462:0;clear
+: 1623883467:0;sudo airgeddon
+: 1623883773:0;clear
+: 1623883775:0;nt
+: 1623883785:0;sudo ifconfig wlp12s0monmon down
+: 1623883790:0;nmtui
+: 1623883815:0;s
+: 1623883824:0;c
+: 1623883862:0;ntf
+: 1623883864:0;ntll
+: 1623883966:0;s
+: 1623884194:0;vpn s
+: 1623884232:0;s
+: 1623884243:0;c
+: 1623884273:0;ntf
+: 1623884276:0;ntll
+: 1623885326:0;s
+: 1623886698:0;nmtui
+: 1623886708:0;s
+: 1623886752:0;ds
+: 1623886757:0;c
+: 1623886782:0;ntf
+: 1623886784:0;ntll
+: 1623886848:0;ds
+: 1623886851:0;s
+: 1623887304:0;sudo airgeddon
+: 1623887720:0;ls
+: 1623887726:0;cd hs
+: 1623887727:0;ls
+: 1623887909:0;sudo airgeddon
+: 1623887929:0;nmtui
+: 1623887962:0;s
+: 1623887972:0;nmtui
+: 1623888051:0;s
+: 1623888410:0;sudo htop
+: 1623888531:0;sudo airgeddon
+: 1623889755:0;ka aircrack-ng
+: 1623889762:0;sudo ka aircrack-ng
+: 1623889768:0;sudo killall aircrack-ng
+: 1623889774:0;sudo htop
+: 1623889800:0;sudo ifconfig wlp12s0mon down
+: 1623889803:0;clear
+: 1623889805:0;sudo airgeddon
+: 1623889961:0;yay -S hashcat-utils
+: 1623891113:0;sudo htop
+: 1623891823:0;nmtui
+: 1623891849:0;v .config/bspwm/bspwmrc
+: 1623891930:0;nmtui
+: 1623891951:0;s
+: 1623892119:0;sh .config/polybar/launch.sh
+: 1623892130:0;vpn s
+: 1623892153:0;vpn reconnect
+: 1623892165:0;ds
+: 1623892182:0;sudo htop
+: 1623892216:0;c
+: 1623892230:0;sudo htop
+: 1623892274:0;sudo killall openvpn
+: 1623892278:0;c
+: 1623892416:0;startx
+: 1623892445:0;s
+: 1623892457:0;vpn s
+: 1623894873:0;ntf
+: 1623896700:0;pkill x
+: 1623896703:0;clear
+: 1623896707:0;logout
+: 1623896753:0;vim .config/bspwm/bspwmrc
+: 1623896779:0;clear
+: 1623896783:0;startx
+: 1623896804:0;vpn s
+: 1623896809:0;ntf
+: 1623896811:0;update
+: 1623896940:0;sh .config/polybar/launch.sh
+: 1623896952:0;clear
+: 1623896956:0;yay -Syu
+: 1623897140:0;v .config/bspwm/bspwmrc
+: 1623897234:0;clear
+: 1623901434:0;ds
+: 1623901438:0;nmtui
+: 1623901457:0;s
+: 1623902205:0;nmtui
+: 1623902283:0;c
+: 1623902324:0;ds
+: 1623902327:0;c
+: 1623902343:0;ntf
+: 1623903690:0;sudo ifconfig wlp0s29f7u1 down
+: 1623906645:0;sudo ifconfig wlp0s29f7u1 up
+: 1623906649:0;nmtui
+: 1623906653:0;c
+: 1623906663:0;ntf
+: 1623908562:0;ntl
+: 1623912952:0;ntf
+: 1623912956:0;ntll
+: 1623913636:0;nmtui
+: 1623913656:0;c
+: 1623913678:0;ntf
+: 1623913681:0;ntll
+: 1623913715:0;s
+: 1623916689:0;ds
+: 1623916691:0;c
+: 1623916700:0;ntf
+: 1623916707:0;ntll
+: 1623916718:0;s
+: 1623919583:0;ntf
+: 1623919587:0;ntll
+: 1623921996:0;s
+: 1623961123:0;c
+: 1623961190:0;ntf
+: 1623961194:0;ntll
+: 1623963444:0;c
+: 1623963471:0;ntf
+: 1623963473:0;ntll
+: 1623963474:0;s
+: 1623966303:0;ntf
+: 1623966306:0;ntll
+: 1623966822:0;ds
+: 1623966826:0;s
+: 1623967300:0;ntf
+: 1623967302:0;ntll
+: 1623967363:0;s
+: 1623968314:0;nt
+: 1623968320:0;nmtui
+: 1623968328:0;ds
+: 1623968330:0;ntf
+: 1623968397:0;ntll
+: 1623968977:0;s
+: 1623969541:0;c
+: 1623969559:0;ntf
+: 1623969560:0;ntll
+: 1623969715:0;v .config/aliasrc
+: 1623969751:0;ntf
+: 1623969754:0;ntll
+: 1623969762:0;s
+: 1623969953:0;ntf
+: 1623970037:0;ds
+: 1623970040:0;ntf
+: 1623971356:0;s
+: 1623971402:0;v .config/picom/picom.conf
+: 1623971449:0;ka picom
+: 1623971462:0;v .config/bspwm/bspwmrc
+: 1623971546:0;v .config/picom/picom.conf
+: 1623971563:0;ka picom
+: 1623971571:0;v .config/picom/picom.conf
+: 1623971582:0;ka picom
+: 1623971611:0;ka picom 
+: 1623971615:0;v .config/bspwm/bspwmrc
+: 1623971903:0;s
+: 1623973895:0;nmtui
+: 1623973916:0;s
+: 1623973991:0;ds
+: 1623973999:0;ntf
+: 1623974001:0;ntll
+: 1623976206:0;s
+: 1623976212:0;ntf
+: 1623976213:0;ntll
+: 1623976656:0;c
+: 1623976678:0;ntf
+: 1623976679:0;ntll
+: 1623977262:0;yay -S trilium-bin
+: 1623977381:0;nmtui
+: 1623977395:0;ds
+: 1623977398:0;ntf
+: 1623977400:0;yay -S trilium-bin
+: 1623977614:0;yay -S boostnote-bin
+: 1623978055:0;nmtui
+: 1623978121:0;ds
+: 1623978125:0;s
+: 1623978177:0;ntf
+: 1623978179:0;ntll
+: 1623978417:0;clear
+: 1623978668:0;yay -Rns trilium-bin
+: 1623978719:0;clear
+: 1623979395:0;v .config/bspwm/bspwmrc
+: 1623979585:0;c
+: 1623979610:0;ntf
+: 1623979611:0;ntll
+: 1623979757:0;nmtui
+: 1623979773:0;c
+: 1623979789:0;clear
+: 1623979796:0;ntf
+: 1623979797:0;ntll
+: 1623981800:0;v .config/bspwm/bspwmrc
+: 1623983120:0;ds
+: 1623983175:0;ntf
+: 1623983178:0;update
+: 1623985646:0;yay -Syu
+: 1623986106:0;clear
+: 1623986113:0;kleanp
+: 1623986121:0;kleany
+: 1623986374:0;pkill x
+: 1623986411:1;reboot
+: 1623986826:0;startx
+: 1623986903:0;vpn s
+: 1623986913:0;ntf
+: 1623987728:0;s
+: 1623987797:0;fast
+: 1623992006:0;startx
+: 1623992027:0;ntf
+: 1623997751:0;ntll
+: 1623997753:0;ntf
+: 1623997755:0;ntll
+: 1623997763:0;vpn s
+: 1623998286:0;ntf
+: 1623998288:0;ntl
+: 1623999563:0;nmtui
+: 1623999600:0;ds
+: 1623999605:0;ntf
+: 1623999606:0;ntll
+: 1623999612:0;s
+: 1624001661:0;c
+: 1624001665:0;s
+: 1624001677:0;ntf
+: 1624001678:0;ntll
+: 1624001718:0;s
+: 1624002056:0;sudo gparted
+: 1624008313:0;c
+: 1624008331:0;ntf
+: 1624008334:0;ntll
+: 1624014721:0;s
+: 1624050432:0;c
+: 1624050513:0;ds
+: 1624050517:0;c
+: 1624050548:0;ntf
+: 1624050552:0;ntll
+: 1624051474:0;ds
+: 1624051484:0;c
+: 1624051499:0;s
+: 1624052765:0;sh .config/polybar/launch.sh
+: 1624052846:0;ka polybar 
+: 1624052850:0;sh .config/polybar/launch.sh
+: 1624053052:0;s
+: 1624060210:0;nmtui
+: 1624060242:0;sudo ifconfig wlp0s29f7u1 down
+: 1624061655:0;sudo ifconfig wlp0s29f7u1 up
+: 1624061667:0;nmtui
+: 1624061697:0;nt
+: 1624061708:0;nmtui
+: 1624061864:0;nt
+: 1624061866:0;nmtui
+: 1624061879:0;s
+: 1624061884:0;ds
+: 1624061888:0;ntf
+: 1624061890:0;ntll
+: 1624064747:0;c
+: 1624064820:0;s
+: 1624064826:0;c
+: 1624064861:0;ntf
+: 1624064864:0;clear
+: 1624065237:0;nmtui
+: 1624065264:0;c
+: 1624065280:0;ntf
+: 1624065281:0;ntl
+: 1624068155:0;ntf
+: 1624068193:0;p -S libreoffice-draw
+: 1624068211:0;yay -S libreoffice-draw
+: 1624068421:0;yay -S masterpdfeditor
+: 1624068610:0;clear
+: 1624070445:0;zathura Documents/CV_Elmajjati_Mohamed.pdf
+: 1624070514:0;v Documents/CV_Elmajjati_Mohamed.pdf
+: 1624073765:0;vpns
+: 1624073767:0;vpn s
+: 1624073782:0;c
+: 1624073793:0;clear
+: 1624073809:0;vpn s
+: 1624073814:0;c
+: 1624073825:0;vpn s
+: 1624084282:0;sudo ifconfig wlp0s29f7u1 down
+: 1624088701:0;sudo ifconfig wlp0s29f7u1 up
+: 1624088703:0;nmtui
+: 1624088738:0;nt
+: 1624088831:0;nmtui
+: 1624088845:0;c
+: 1624088863:0;s
+: 1624088868:0;ntf
+: 1624088871:0;ntll
+: 1624088965:0;sh .config/polybar/launch.sh
+: 1624091541:0;s
+: 1624100889:0;ntf
+: 1624100893:0;ntll
+: 1624100897:0;vpn s
+: 1624101797:0;s
+: 1624101823:0;sh .config/polybar/launch.sh
+: 1624101836:0;c
+: 1624101853:0;ntf
+: 1624101856:0;ntll
+: 1624101947:0;sh .config/polybar/launch.sh
+: 1624136878:0;s
+: 1624136886:0;c
+: 1624136920:0;ntf
+: 1624136924:0;ntll
+: 1624139274:0;s
+: 1624140803:0;c
+: 1624140848:0;ntf
+: 1624140851:0;ntll
+: 1624142294:0;s
+: 1624144815:0;sudo ifconfig wlp0s29f7u1 down
+: 1624146799:0;nmtui
+: 1624146806:0;ds
+: 1624146808:0;s
+: 1624146844:0;c
+: 1624146860:0;ntf
+: 1624146861:0;ntll
+: 1624146902:0;s
+: 1624146931:0;clear
+: 1624147797:0;vpn s
+: 1624147807:0;ds
+: 1624147860:0;s
+: 1624147865:0;ntf
+: 1624148587:0;s
+: 1624148812:0;nmtui
+: 1624148913:0;s
+: 1624149217:0;nmtui
+: 1624149235:0;c
+: 1624149259:0;ntf
+: 1624149260:0;ntll
+: 1624149266:0;s
+: 1624149427:0;nthg
+: 1624150691:0;ntf
+: 1624150692:0;ntl
+: 1624150695:0;nthg
+: 1624151575:0;nmtui
+: 1624151610:0;nt
+: 1624151612:0;nmtui
+: 1624151741:0;nt
+: 1624151751:0;nmtui
+: 1624151756:0;s
+: 1624151761:0;ds
+: 1624151763:0;c
+: 1624151807:0;ntf
+: 1624151810:0;ntl
+: 1624151873:0;nthg
+: 1624151887:0;ntf
+: 1624151888:0;ntll
+: 1624151891:0;nthg
+: 1624151939:0;ntf
+: 1624151940:0;ntl
+: 1624151942:0;nthg
+: 1624152130:0;ds
+: 1624152133:0;ntf
+: 1624152134:0;ntll
+: 1624152143:0;nthg
+: 1624152166:0;vpn -cc NL
+: 1624152172:0;vpn c -cc NL
+: 1624152186:0;vpn c --cc NL
+: 1624152201:0;ntf
+: 1624152203:0;ntll
+: 1624152204:0;clear
+: 1624152206:0;nthg
+: 1624154119:0;vpn s
+: 1624154269:0;v .config/bspwm/bspwmrc
+: 1624154290:0;pkill x
+: 1624154294:0;clear
+: 1624154298:0;startx
+: 1624154313:0;ntf
+: 1624154314:0;ntll
+: 1624159089:0;ifconfig
+: 1624160938:0;yay -S freepn
+: 1624163940:0;update
+: 1624165086:0;vpn c --cc US
+: 1624165136:0;ntf
+: 1624165140:0;ntl
+: 1624169685:0;nmtui
+: 1624173310:0;sudo airgeddon
+: 1624173468:0;nmtui
+: 1624173503:0;nt
+: 1624173533:0;nmtui
+: 1624176586:0;startx
+: 1624176607:0;s
+: 1624176611:0;c
+: 1624176637:0;ip link show dev wlp0s29f7u1
+: 1624176642:0;clear
+: 1624176643:0;ntf
+: 1624176645:0;ntll
+: 1624176649:0;v .config/aliasrc
+: 1624176683:0;ntf
+: 1624176686:0;ntll
+: 1624176687:0;v .config/aliasrc
+: 1624176871:0;nthg
+: 1624177195:0;ntf
+: 1624177197:0;ntll
+: 1624177201:0;nthg
+: 1624182701:0;nmtui
+: 1624182719:0;ds
+: 1624182725:0;v .config/aliasrc
+: 1624182748:0;ntf
+: 1624182750:0;ntll
+: 1624182754:0;c
+: 1624182768:0;nt
+: 1624182774:0;nmtui
+: 1624182783:0;s
+: 1624182801:0;ds
+: 1624182804:0;c
+: 1624182832:0;ds
+: 1624182834:0;c
+: 1624182848:0;ntf
+: 1624182851:0;ntll
+: 1624182853:0;clear
+: 1624182853:0;s
+: 1624182856:0;vpn s
+: 1624183016:0;nthg
+: 1624184407:0;s
+: 1624184412:0;nmtui
+: 1624184456:0;ds
+: 1624184458:0;c
+: 1624184471:0;ntf
+: 1624184474:0;ntll
+: 1624184476:0;nthg
+: 1624184689:0;nmtui
+: 1624185469:0;sudo ifconfig wlp0s29f7u1 down
+: 1624185579:0;sudo ifconfig wlp0s29f7u1 up
+: 1624185582:0;nt
+: 1624185595:0;nmtui
+: 1624185603:0;s
+: 1624185661:0;c
+: 1624185675:0;ntf
+: 1624185682:0;ntll
+: 1624186495:0;nmtui
+: 1624189676:0;x
+: 1624190927:0;nmtui
+: 1624218040:0;ds
+: 1624218046:0;s
+: 1624218793:0;c
+: 1624218817:0;ntf
+: 1624218821:0;ntll
+: 1624218828:0;nmtui
+: 1624219980:0;s
+: 1624219993:0;nmtui
+: 1624220015:0;s
+: 1624220021:0;c
+: 1624220046:0;ntf
+: 1624220050:0;ntll
+: 1624220054:0;s
+: 1624220069:0;nthg
+: 1624221298:0;ip link show dev wlp0s29f7u1
+: 1624223517:0;nmtui
+: 1624223535:0;c
+: 1624223568:0;ntf
+: 1624223573:0;ntll
+: 1624223584:0;nthg
+: 1624230072:0;s
+: 1624230106:0;vpn c --cc NL
+: 1624230196:0;vpn s
+: 1624230210:0;ntf
+: 1624230214:0;ntll
+: 1624230366:0;c
+: 1624230404:0;ntf
+: 1624230407:0;ntll
+: 1624231468:0;nmtui
+: 1624231608:0;sudo airgeddon
+: 1624231748:0;cm
+: 1624231754:0;clear
+: 1624231758:0;nmtui
+: 1624231785:0;sudo modprobe iwlwifi
+: 1624231805:0;sudo wifite
+: 1624232328:0;nmtui
+: 1624232400:0;ip link show dev wlp0s29f7u1
+: 1624232430:0;ip link set wlp12s0mon down
+: 1624232441:0;sudobip link set wlp12s0mon down
+: 1624232448:0;sudo ip link set wlp12s0mon down
+: 1624232454:0;nmtui
+: 1624232498:0;nt
+: 1624232535:0;nmtui
+: 1624234881:0;nt
+: 1624234888:0;nmtui
+: 1624234901:0;s
+: 1624234977:0;ds
+: 1624234979:0;c
+: 1624234984:0;s
+: 1624234991:0;c
+: 1624234994:0;ds
+: 1624235001:0;nt
+: 1624235004:0;nmtui
+: 1624235010:0;s
+: 1624235096:0;c
+: 1624235124:0;ntf
+: 1624235126:0;ntll
+: 1624235677:0;s
+: 1624238236:0;ds
+: 1624238243:0;s
+: 1624240252:0;nmtui
+: 1624240267:0;s
+: 1624240287:0;nmtui
+: 1624240302:0;s
+: 1624240306:0;nmtui
+: 1624240315:0;ntf
+: 1624240316:0;ntll
+: 1624240326:0;v .config/aliasrc
+: 1624240357:0;ntf
+: 1624240358:0;ntl
+: 1624240362:0;v .config/aliasrc
+: 1624241100:0;nmtui
+: 1624241509:0;p -S p7zip
+: 1624241537:0;clear
+: 1624241546:0;cd Do
+: 1624241550:0;cd Downloads
+: 1624241551:0;ls
+: 1624241626:0;cd Downloads
+: 1624241628:0;ls
+: 1624241632:0;mkdir lists
+: 1624241724:0;mv 12num1980-2030.7z lists
+: 1624241727:0;cd lists
+: 1624241728:0;clear
+: 1624241730:0;;s
+: 1624241735:0;ls
+: 1624241739:0;7z e 12num1980-2030.7z
+: 1624241758:0;du -h
+: 1624241780:0;v 12num1980-2030.txt
+: 1624241807:0;vim 12num1980-2030.txt
+: 1624241946:0;ls 
+: 1624241953:0;rm -rf 12num1980-2030.txt
+: 1624241957:0;clear
+: 1624242417:0;7z e date-wpa\ \[FR\].7z
+: 1624242426:0;su -h
+: 1624242428:0;clear
+: 1624242430:0;du -h
+: 1624242438:0;vim date.dic
+: 1624242460:0;rm -rf date.dic
+: 1624242721:0;nmtui
+: 1624243946:0;ntf
+: 1624243949:0;s
+: 1624243994:0;fast
+: 1624244142:0;ds
+: 1624244194:0;s
+: 1624244276:0;chlist
+: 1624244362:0;s
+: 1624244387:0;chlist
+: 1624244794:0;c
+: 1624244809:0;bleachbit
+: 1624246687:0;s
+: 1624246693:0;ds
+: 1624247652:0;ntf
+: 1624247653:0;ntl
+: 1624250628:0;nmtui
+: 1624250636:0;s
+: 1624250703:0;c
+: 1624250715:0;ntf
+: 1624250718:0;ntl
+: 1624250722:0;nthg
+: 1624251866:0;s
+: 1624251913:0;vpn s
+: 1624251975:0;s
+: 1624252013:0;ntf
+: 1624252015:0;ntl
+: 1624252601:0;s
+: 1624253011:0;ds
+: 1624260973:0;s
+: 1624260979:0;nmtui
+: 1624261111:0;ntf
+: 1624261114:0;ntll
+: 1624261117:0;nthg
+: 1624261129:0;c
+: 1624261147:0;ntf
+: 1624261149:0;ntll
+: 1624261152:0;nthg
+: 1624264166:0;startx
+: 1624264199:0;nmtui
+: 1624264224:0;s
+: 1624264244:0;c
+: 1624264255:0;ntf
+: 1624264257:0;ntll
+: 1624264800:0;nmtui
+: 1624264849:0;s
+: 1624264859:0;ds
+: 1624264907:0;nmtui
+: 1624264923:0;c
+: 1624264939:0;clear
+: 1624264941:0;s
+: 1624264947:0;ntf
+: 1624264950:0;ntll
+: 1624265678:0;vpn s
+: 1624265685:0;ntf
+: 1624265688:0;ntll
+: 1624272221:0;ds
+: 1624272260:0;nmtui
+: 1624272309:0;s
+: 1624272339:0;ntf
+: 1624272341:0;ntll
+: 1624272895:0;c
+: 1624272949:0;ntf
+: 1624272954:0;ntll
+: 1624273124:0;vpn s
+: 1624273139:0;ds
+: 1624273144:0;s
+: 1624273156:0;vpn c --cc JP
+: 1624273203:0;vpn s
+: 1624273280:0;ntf
+: 1624273283:0;s
+: 1624273327:0;ntf
+: 1624273330:0;ntll
+: 1624274891:0;x
+: 1624276536:0;vpn c --cc NL
+: 1624277329:0;ntf
+: 1624277333:0;ntll
+: 1624277961:0;nthg
+: 1624278749:0;s
+: 1624280798:0;vpn s
+: 1624280821:0;s
+: 1624280831:0;vpn c --cc NL
+: 1624280858:0;ntf
+: 1624280863:0;ntll
+: 1624282548:0;s
+: 1624282638:0;vpn c --cc JP
+: 1624282661:0;ntf
+: 1624282665:0;ntll
+: 1624282672:0;v .config/aliasrc
+: 1624282728:0;ntf
+: 1624282732:0;ntll
+: 1624282827:0;ds
+: 1624282835:0;nthg
+: 1624282843:0;s
+: 1624282892:0;vpn c --cc NL
+: 1624282937:0;ntf
+: 1624282942:0;ntll
+: 1624286299:0;s
+: 1624286374:0;ip link show dev wlp0s29f7u1
+: 1624321065:0;nmtui
+: 1624321203:0;ds
+: 1624321210:0;nmtui
+: 1624321590:0;nt
+: 1624321593:0;nmtui
+: 1624322827:0;s
+: 1624322978:0;nt
+: 1624322980:0;nmtui
+: 1624322994:0;s
+: 1624323021:0;nmtui
+: 1624323097:0;s
+: 1624323101:0;nmtui
+: 1624323168:0;s
+: 1624323492:0;nt
+: 1624323493:0;s
+: 1624323496:0;nmtui
+: 1624323539:0;ds
+: 1624323543:0;ntf
+: 1624323548:0;ping google.com
+: 1624323559:0;s
+: 1624323564:0;ping google.com
+: 1624323645:0;chlist
+: 1624323668:0;s
+: 1624323765:0;nt
+: 1624323770:0;nmtui
+: 1624323857:0;s
+: 1624323920:0;ping google.com
+: 1624324251:0;nmtui
+: 1624324267:0;s
+: 1624325021:0;nmtui
+: 1624325084:0;nt
+: 1624325090:0;nmtui
+: 1624325096:0;s
+: 1624325133:0;vpn c --cc NL
+: 1624325142:0;ntf
+: 1624325145:0;ntll
+: 1624325146:0;s
+: 1624325733:0;ntf
+: 1624325738:0;ntl
+: 1624328491:0;sh .config/polybar/launch.sh
+: 1624331210:0;ntf
+: 1624331217:0;update
+: 1624331228:0;s
+: 1624331342:0;nmtui
+: 1624331844:0;ntf
+: 1624331848:0;ntl
+: 1624331937:0;ka polybar
+: 1624331942:0;sh .config/polybar/launch.sh
+: 1624332044:0;x
+: 1624334034:0;ntf
+: 1624334036:0;update
+: 1624336724:0;yay -Syu
+: 1624337879:0;nthg
+: 1624338917:0;cd Downloads
+: 1624338918:0;ls
+: 1624338941:0;mv TOP-MAROC-WORLD-LIST-CLEAN\ BY\ SKN.7z lists
+: 1624338946:0;cd lists
+: 1624338947:0;ls
+: 1624338959:0;7z e TOP-MAROC-WORLD-LIST-CLEAN\ BY\ SKN.7z
+: 1624339111:0;su -h
+: 1624339113:0;clear
+: 1624339115:0;du -h
+: 1624339121:0;l
+: 1624339139:0;nano TOP-MAROC-WORLD-LIST-CLEAN\ BY\ SKN.txt
+: 1624339368:0;startx
+: 1624339386:0;s
+: 1624339393:0;c
+: 1624339411:0;clear
+: 1624339423:0;sudo airgeddon
+: 1624340043:0;ntl
+: 1624341856:0;sudo ifconfig wlp0s29f7u1 down
+: 1624345236:0;sudo ifconfig wlp0s29f7u1 up
+: 1624345238:0;nmtui
+: 1624345259:0;ds
+: 1624345262:0;c
+: 1624345288:0;ntf
+: 1624345290:0;ntll
+: 1624349757:0;ds
+: 1624349760:0;dss
+: 1624349761:0;s
+: 1624349776:0;c
+: 1624349834:0;vpn c --cc NL
+: 1624349881:0;ntf
+: 1624349882:0;ntl
+: 1624349884:0;ntll
+: 1624349886:0;ntf
+: 1624349887:0;ntll
+: 1624350380:0;ds
+: 1624354945:0;vpn s
+: 1624354960:0;vpn c --cc NL
+: 1624355055:0;ntf
+: 1624355057:0;ntll
+: 1624355065:0;s
+: 1624355205:0;nmtui
+: 1624355225:0;vpn c --cc NL
+: 1624355258:0;ds
+: 1624355263:0;c
+: 1624355292:0;ntf
+: 1624355293:0;ntll
+: 1624355454:0;nthg
+: 1624355493:0;ip link show dev wlp0s29f7u1
+: 1624358769:0;ntf
+: 1624358770:0;ntl
+: 1624358771:0;s
+: 1624358879:0;vpn c --cc NL
+: 1624358903:0;ntf
+: 1624358905:0;ntll
+: 1624358906:0;s
+: 1624359084:0;nmtui
+: 1624359090:0;w
+: 1624359114:0;s
+: 1624359122:0;vpn c --cc NL
+: 1624359165:0;s
+: 1624359196:0;ntf
+: 1624359198:0;ntll
+: 1624359200:0;s
+: 1624359208:0;vpn s
+: 1624359277:0;ntf
+: 1624359278:0;ntl
+: 1624359283:0;nthg
+: 1624359311:0;vpn c --cc JP
+: 1624359347:0;ntf
+: 1624359349:0;ntll
+: 1624359350:0;s
+: 1624359505:0;ds
+: 1624359509:0;ntf
+: 1624359511:0;ntll
+: 1624363777:0;nthg
+: 1624363793:0;ntf
+: 1624363795:0;ntll
+: 1624364176:0;nano key-orange
+: 1624364279:0;nmtui
+: 1624364551:0;s
+: 1624364561:0;vpn c --cc NL
+: 1624364584:0;ntf
+: 1624364587:0;ntll
+: 1624364688:0;s
+: 1624364706:0;nthg
+: 1624364881:0;ntf
+: 1624364935:0;ds
+: 1624364944:0;nthg
+: 1624364988:0;s
+: 1624365087:0;ntf
+: 1624365091:0;ntll
+: 1624365180:0;sudo airgeddon
+: 1624365611:0;clear
+: 1624365629:0;sudo modprobe iwlwifi
+: 1624365634:0;sudo wifite
+: 1624365759:0;rfkill iwlwifi
+: 1624365766:0;rfkill --help
+: 1624365817:0;clear
+: 1624365830:0;sudo ifconfig wlp12s0mon down
+: 1624365840:0;sudo wifite
+: 1624365857:0;clear
+: 1624365859:0;sudo ifconfig wlp12s0mon down
+: 1624365868:0;sudo airgeddon
+: 1624366255:0;clear
+: 1624366258:0;nt
+: 1624366261:0;nmtui
+: 1624366281:0;s
+: 1624366297:0;c
+: 1624366368:0;ntf
+: 1624366371:0;ntll
+: 1624366572:0;ds
+: 1624366589:0;ntf
+: 1624366592:0;ntll
+: 1624366604:0;s
+: 1624366743:0;ntf
+: 1624366746:0;ntl
+: 1624366832:0;s
+: 1624366860:0;nthg
+: 1624367010:0;chlist
+: 1624367159:0;ntf
+: 1624367162:0;nthg
+: 1624367219:0;ntl
+: 1624367261:0;vpn c --cc NL
+: 1624367307:0;ntf
+: 1624367308:0;ntl
+: 1624367389:0;nthg
+: 1624367570:0;s
+: 1624367592:0;ka polybar
+: 1624367595:0;sh .config/polybar/launch.sh
+: 1624369936:0;s
+: 1624371636:0;nmtui
+: 1624372609:0;besside-ng --help
+: 1624372666:0;airodump-ng
+: 1624372769:0;sudo airgeddon
+: 1624372884:0;nmtui
+: 1624373006:0;vpn c --cc NL
+: 1624373032:0;ntf
+: 1624373034:0;ntll
+: 1624373431:0;s
+: 1624373451:0;ntf
+: 1624373454:0;ntl
+: 1624373455:0;s
+: 1624373522:0;nmtui
+: 1624373541:0;s
+: 1624373593:0;c
+: 1624373659:0;vpn c --cc NL
+: 1624373701:0;ntf
+: 1624373703:0;ntl
+: 1624373704:0;s
+: 1624373937:0;chlist
+: 1624374113:0;s
+: 1624374272:0;vpn c --cc JP
+: 1624374330:0;ntf
+: 1624374334:0;ntl
+: 1624374338:0;nthg
+: 1624374405:0;ds
+: 1624374410:0;ntf
+: 1624374414:0;nthg
+: 1624374585:0;cd /etc/systemd/system/
+: 1624374588:0;ls
+: 1624374600:0;sudo nano changemac@.service
+: 1624374668:0;cd
+: 1624374682:0;v .config/aliasrc
+: 1624374697:0;nmtui
+: 1624374766:0;nt
+: 1624374770:0;nmtui
+: 1624374818:0;ip link show dev wlp0s29f7u1
+: 1624374832:0;nt
+: 1624374835:0;ip link show dev wlp0s29f7u1
+: 1624374847:0;v .config/aliasrc
+: 1624374930:0;sudo systemctl restart changemac@wlp0s29f7u1.service
+: 1624374944:0;sudo systemctl stop changemac@wlp0s29f7u1.service
+: 1624374951:0;sudo systemctl start changemac@wlp0s29f7u1.service
+: 1624374965:0;sudo systemctl disable changemac@wlp0s29f7u1.service
+: 1624374975:0;sudo systemctl enable changemac@wlp0s29f7u1.service
+: 1624374978:0;nt
+: 1624374981:0;ip link show dev wlp0s29f7u1
+: 1624375074:0;sudo ip link set dev wlp0s29f7u1 address 00:19:70:48:7D:c2 
+: 1624375102:0;sudo ip link set dev wlp0s29f7u1 down
+: 1624375110:0;sudo ip link set dev wlp0s29f7u1 address 00:19:70:48:7D:c2 
+: 1624375115:0;sudo ip link set dev wlp0s29f7u1 up
+: 1624375124:0;nmtui
+: 1624375130:0;ip link show dev wlp0s29f7u1
+: 1624375198:0;s
+: 1624375204:0;clear
+: 1624375207:0;ntf
+: 1624375209:0;ntll
+: 1624375295:0;nmtui
+: 1624375315:0;nt
+: 1624375318:0;ip link show dev wlp0s29f7u1
+: 1624375326:0;nmtui
+: 1624375336:0;s
+: 1624381057:0;nmtui
+: 1624381074:0;s
+: 1624385666:0;nthg
+: 1624385731:0;vpn c --cc NL
+: 1624385795:0;ntf
+: 1624385800:0;ntll
+: 1624385803:0;bth
+: 1624385810:0;nthg
+: 1624402976:0;nmtui
+: 1624403096:0;c
+: 1624412481:0;nmtui
+: 1624412579:0;sudo htop
+: 1624412667:0;nmtui
+: 1624412704:0;nt
+: 1624412715:0;nmtui
+: 1624412745:0;ds
+: 1624412765:0;ntf
+: 1624412950:0;nmtui
+: 1624414540:0;nt
+: 1624414544:0;nmtui
+: 1624414554:0;s
+: 1624414560:0;fast
+: 1624414597:0;c
+: 1624414650:0;clear
+: 1624414867:0;s
+: 1624414871:0;nmtui
+: 1624414959:0;nt
+: 1624415004:0;nmtui
+: 1624415012:0;s
+: 1624415016:0;ds
+: 1624415713:0;sudo ifconfig wlp12s0mon up
+: 1624415717:0;sudo wifite
+: 1624417156:0;s
+: 1624417185:0;sudo ifconfig wlp12s0mon down
+: 1624429533:0;startx
+: 1624429608:0;nmtui
+: 1624429623:0;ntf
+: 1624429626:0;c
+: 1624429645:0;ntl
+: 1624429660:0;ka polybar
+: 1624429663:0;sh .config/polybar/launch.sh
+: 1624433484:0;s
+: 1624434688:0;vpn s
+: 1624441339:0;ntf
+: 1624441343:0;ntll
+: 1624441556:0;clear
+: 1624441613:0;cd Downloads
+: 1624441613:0;;s
+: 1624441615:0;ls
+: 1624441632:0;cd 
+: 1624441633:0;ls
+: 1624441636:0;cd Documents
+: 1624441637:0;;s
+: 1624441640:0;ls
+: 1624441643:0;clear
+: 1624441647:0;cd
+: 1624441654:0;tor
+: 1624441657:0;tor-browser
+: 1624441726:0;clear
+: 1624441736:0;cd .tor-browser/app/Browser/Downloads
+: 1624441737:0;ls
+: 1624441751:0;mv Advanced\ Web\ Attacks\ and\ Exploitation\ \(AWAE\)\ by\ Offensive\ Security\ \(z-lib.org\).pdf ~/Documents/Books
+: 1624441756:0;ls
+: 1624441765:0;mv Offensive\ Security\ OSCP\ by\ Offensive\ Security\ \(z-lib.org\).pdf ~/Documents/Books
+: 1624441768:0;ls
+: 1624441769:0;clear
+: 1624441770:0;cd
+: 1624441775:0;cd Documents/Books
+: 1624441776:0;ls
+: 1624441783:0;zathura Advanced\ Web\ Attacks\ and\ Exploitation\ \(AWAE\)\ by\ Offensive\ Security\ \(z-lib.org\).pdf
+: 1624442021:0;clear
+: 1624442027:0;zathura Offensive\ Security\ OSCP\ by\ Offensive\ Security\ \(z-lib.org\).pdf
+: 1624445683:0;s
+: 1624445688:0;nmtui
+: 1624451648:0;x
+: 1624491952:0;nmtui
+: 1624491997:0;c
+: 1624492061:0;ds
+: 1624492730:0;s
+: 1624492743:0;ntf
+: 1624492929:0;nmtui
+: 1624492996:0;s
+: 1624494410:0;nmtui
+: 1624494433:0;s
+: 1624494907:0;nt
+: 1624494913:0;nmtui
+: 1624494971:0;s
+: 1624495123:0;nthg
+: 1624495418:0;nmtui
+: 1624497499:0;s
+: 1624497504:0;nmtui
+: 1624501225:0;sudo gp
+: 1624501231:0;sudo gparted
+: 1624501561:0;nmtui
+: 1624501582:0;s
+: 1624501591:0;ntf
+: 1624501596:0;update
+: 1624501791:0;clear
+: 1624501796:0;yay -Syu
+: 1624502048:0;clear
+: 1624502080:0;sudo systemctl start vpn-unlimited-daemon.service
+: 1624502548:0;ncdu
+: 1624502864:0;cd Downloads/lists
+: 1624502866:0;ls
+: 1624502894:0;rm -rf TOP-MAROC-WORLD-LIST-CLEAN\ BY\ SKN.txt
+: 1624502902:0;up
+: 1624502903:0;ls
+: 1624502910:0;rm -rf 7z1900.exe
+: 1624502913:0;clear
+: 1624502914:0;ls
+: 1624502941:0;rm -rf Wondershare\ Data\ Recovery\ 6.0.0.31\ +\ Crack\ \[Tech-Tools.ME\]
+: 1624502944:0;clear
+: 1624502944:0;ls
+: 1624502960:0;rm -rf FAST-WPA\ \(1\).7z 
+: 1624502963:0;rm -rf FAST-WPA.7z
+: 1624502973:0;rm -rf EaseUS.Data.Recovery.Wizard.v8.5.Multilingual.Incl.Keygen-TSZ
+: 1624502976:0;clear
+: 1624502977:0;ls
+: 1624502980:0;cd 2road
+: 1624502981:0;ls
+: 1624503082:0;mv Cumtown\ Premium\ Ep.\ 239\ \(6-6-21\)\ \(p\)ride\ the\ lightning-DPjRgK8tRus.opus c-town
+: 1624503084:0;ls
+: 1624503088:0;cd c-town
+: 1624503088:0;ls
+: 1624503187:0;su - root23
+: 1624503687:0;cd
+: 1624503690:0;cd Documents
+: 1624503692:0;ls
+: 1624503699:0;cd
+: 1624503703:0;cd Downloads
+: 1624503704:0;ls
+: 1624503706:0;clear
+: 1624503709:0;cd
+: 1624503709:0;ls
+: 1624503909:0;cd Desktop
+: 1624503910:0;ls
+: 1624503912:0;cd
+: 1624503913:0;;s
+: 1624503917:0;ls
+: 1624503919:0;clear
+: 1624503919:0;ls
+: 1624504377:0;su
+: 1624504434:0;clear
+: 1624504436:0;cd Documents
+: 1624504436:0;ls
+: 1624504439:0;cd notes2
+: 1624504439:0;ls
+: 1624504461:0;rm -rf A\ manual\ of\ sex\ magick\ \(A\ Llewellyn\ occult\ guide\)\ by\ Louis\ T\ Culling\ \(z-lib.org\).pdf
+: 1624504467:0;sudo rm -rf A\ manual\ of\ sex\ magick\ \(A\ Llewellyn\ occult\ guide\)\ by\ Louis\ T\ Culling\ \(z-lib.org\).pdf
+: 1624504470:0;clear
+: 1624504470:0;ls
+: 1624504482:0;nano links.txt
+: 1624504496:0;nano passes.TXT
+: 1624504527:0;clear
+: 1624504529:0;up
+: 1624504531:0;ls
+: 1624504535:0;cd
+: 1624504536:0;clear
+: 1624505224:0;cd Downloads
+: 1624505225:0;ls
+: 1624505228:0;cd 2road
+: 1624505229:0;ls
+: 1624505262:0;lsblk
+: 1624505300:0;clear
+: 1624505317:0;mnt /dev/sdb1
+: 1624505363:0;unmnt /dev/sdb1
+: 1624505507:0;sudo gparted
+: 1624505670:0;clear
+: 1624505683:0;ls
+: 1624505692:0;mnt /dev/sdb1
+: 1624505698:0;lsblk
+: 1624505707:0;mnt /dev/sdb
+: 1624505710:0;clear
+: 1624505714:0;ls
+: 1624505746:0;vcp -R CityOfAngels /run/media/xroot/USB
+: 1624506378:0;clear
+: 1624506488:0;ncdu
+: 1624507350:0;ls
+: 1624507355:0;cd audiobooks
+: 1624507356:0;ls
+: 1624507367:0;vcp 2005\ -\ Lunar\ Park /run/media/xroot/USB
+: 1624507392:0;vcp -r 2005\ -\ Lunar\ Park /run/media/xroot/USB
+: 1624507397:0;vcp -R 2005\ -\ Lunar\ Park /run/media/xroot/USB
+: 1624507595:0;up
+: 1624507597:0;clear
+: 1624507610:0;vcp -R c-town /run/media/xroot/USB
+: 1624507654:0;cd
+: 1624507659:0;cd /run/media/xroot/USB
+: 1624507662:0;du -h 
+: 1624507668:0;clear
+: 1624508651:0;su - root23
+: 1624508663:0;cd
+: 1624508670:0;su - root23
+: 1624511661:0;clear
+: 1624515709:0;sudo gparted
+: 1624522347:0;startx
+: 1624522374:0;sudo gparted
+: 1624522774:0;lsblk
+: 1624522792:0;mnt /dev/sda2
+: 1624522809:0;clear
+: 1624522831:0;nmtui
+: 1624522835:0;nt
+: 1624522837:0;nmtui
+: 1624522847:0;s
+: 1624522856:0;c
+: 1624522868:0;clear
+: 1624523529:0;cd /
+: 1624523530:0;ls
+: 1624523536:0;cd
+: 1624523544:0;cd /
+: 1624523567:0;du -h windows10
+: 1624523570:0;clear
+: 1624523631:0;sudo mkdir /data
+: 1624523632:0;ls
+: 1624523645:0;sudo groupadd data
+: 1624523655:0;sudo usermod -aG data xroot
+: 1624523667:0;sudo chown -R :data /data
+: 1624523680:0;sudo nano /etc/fstab
+: 1624523992:0;sudo mount -a
+: 1624524037:0;cd /etc/grub.d
+: 1624524038:0;ls
+: 1624524091:0;cd
+: 1624524115:0;nano /etc/default/grub
+: 1624524122:0;sudo nano /etc/default/grub
+: 1624524148:0;update-grub
+: 1624524151:0;sudo update-grub
+: 1624524162:0;lsblk
+: 1624524216:0;cd /data
+: 1624524217:0;ls
+: 1624524219:0;du -h
+: 1624524222:0;clear
+: 1624524224:0;cd
+: 1624524226:0;cd /
+: 1624524228:0;ls
+: 1624524235:0;sudo rm -rf windows10
+: 1624524237:0;ls
+: 1624524240:0;clear
+: 1624524436:0;startx
+: 1624524454:0;ip link show dev wlp0s29f7u1
+: 1624524463:0;clear
+: 1624524465:0;nmtui
+: 1624524474:0;clear
+: 1624524480:0;lsblk
+: 1624524483:0;clear
+: 1624524503:0;c
+: 1624524518:0;clear
+: 1624524520:0;ntf
+: 1624524521:0;ntl
+: 1624524594:0;lsblk
+: 1624524601:0;mnt /dev/sdb
+: 1624524654:0;cp -R /run/media/xroot/USB/TXT ~/Documents
+: 1624524668:0;cp -R /run/media/xroot/USB/TXT\ FILES ~/Documents
+: 1624524671:0;clear
+: 1624524679:0;cd /run/media/xroot/USB
+: 1624524680:0;ls
+: 1624524682:0;l
+: 1624524716:0;sudo gparted
+: 1624524751:0;cd
+: 1624524752:0;sudo gparted
+: 1624527199:0;su - root23
+: 1624527206:0;ls
+: 1624527210:0;cd Documents
+: 1624527210:0;ls
+: 1624527219:0;du -h chessdata
+: 1624527222:0;clear
+: 1624527564:0;cd
+: 1624527574:0;man 7z
+: 1624527757:0;nano .config/aliasrc
+: 1624527772:0;zz
+: 1624527803:0;v .config/aliasrc
+: 1624527876:0;cd /data
+: 1624527877:0;ls
+: 1624527914:0;sudo chown xroot:xroot Creative-HTML-CSS
+: 1624527916:0;ls
+: 1624527918:0;clear
+: 1624527923:0;cd /data
+: 1624527923:0;ls
+: 1624527925:0;cd Creative-HTML-CSS
+: 1624527926:0;ls
+: 1624527937:0;cd
+: 1624527941:0;cd /
+: 1624527952:0;sudo chown xroot:xroot data
+: 1624527954:0;clear
+: 1624527958:0;cd data
+: 1624527959:0;ls
+: 1624527961:0;cd Creative-HTML-CSS
+: 1624527962:0;ls
+: 1624527980:0;up
+: 1624527982:0;ls
+: 1624528015:0;zz html-css-creative-course.7z Creative-HTML-CSS
+: 1624532152:0;ls
+: 1624532158:0;dh -h Creative-HTML-CSS
+: 1624532165:0;du -h Creative-HTML-CSS
+: 1624532173:0;du -h html-css-creative-course.7z
+: 1624532191:0;rm -rf html-css-creative-course.7z
+: 1624532194:0;ls
+: 1624532196:0;clear
+: 1624533944:0;stat -c "%U:%G" /data
+: 1624533970:0;getent group
+: 1624534021:0;sudo chown xroot /data
+: 1624534024:0;clear
+: 1624534028:0;cd /data
+: 1624534030:0;ls
+: 1624534034:0;clear
+: 1624534044:0;stat -c "%U:%G" /data
+: 1624534095:0;sudo chgrp xroot /data
+: 1624534097:0;stat -c "%U:%G" /data
+: 1624534104:0;clear
+: 1624534110:0;ls
+: 1624534113:0;l
+: 1624534115:0;ll
+: 1624534277:0;cd
+: 1624534290:0;sudo chown -R :xroot /data
+: 1624534297:0;cd /
+: 1624534298:0;ls
+: 1624534300:0;cd data
+: 1624534301:0;ls
+: 1624534399:0;sudo mount -a
+: 1624534401:0;ls
+: 1624534404:0;up
+: 1624534404:0;ls
+: 1624534499:0;unmnt /dev/sda2
+: 1624534510:0;clear
+: 1624534511:0;ls
+: 1624534514:0;cd data
+: 1624534515:0;ls
+: 1624534518:0;clear
+: 1624534521:0;up
+: 1624534522:0;ls
+: 1624534529:0;mkdir storage
+: 1624534547:0;cd mnt
+: 1624534547:0;ls
+: 1624534554:0;up
+: 1624534576:0;mnt /dev/sda2
+: 1624534584:0;clear
+: 1624534584:0;ls
+: 1624534651:0;cd data
+: 1624534652:0;ls
+: 1624534655:0;cd Creative-HTML-CSS
+: 1624534655:0;ls
+: 1624534677:0;clear
+: 1624534679:0;up
+: 1624534695:0;cd home/xroot
+: 1624534697:0;clear
+: 1624534712:0;mkdir STORAGE
+: 1624534931:0;sudo nano /etc/fstab
+: 1624534984:0;sudo mount -a
+: 1624535001:0;unmnt /dev/sda2
+: 1624535004:0;clear
+: 1624535008:0;sudo mount -a
+: 1624535011:0;clear
+: 1624535017:0;cd STORAGE
+: 1624535018:0;ls
+: 1624535027:0;up
+: 1624535051:0;stat -c "%U:%G" STORAGE
+: 1624535075:0;sudo chown -R xroot STORAGE
+: 1624535077:0;ls
+: 1624535081:0;cd STORAGE
+: 1624535082:0;ls
+: 1624535084:0;clear
+: 1624535125:0;cd
+: 1624535141:0;clear
+: 1624535147:0;cd STORAGE
+: 1624535148:0;ls
+: 1624535150:0;l
+: 1624535157:0;du -h
+: 1624535160:0;clear
+: 1624535178:0;s
+: 1624535182:0;clear
+: 1624535184:0;vpn s
+: 1624535204:0;clear
+: 1624535281:0;su - root23
+: 1624535506:0;cd
+: 1624535516:0;unmnt /dev/sda2
+: 1624535522:0;clear
+: 1624535529:0;sudo nano /etc/fstab
+: 1624535553:0;sudo mount -a
+: 1624535556:0;clear
+: 1624535563:0;lsblk
+: 1624535576:0;clear
+: 1624535947:0;mnt /dev/sdb
+: 1624535955:0;clear
+: 1624535956:0;lsblk
+: 1624535965:0;mnt /dev/sdb1
+: 1624535969:0;clear
+: 1624535979:0;cd /run/media/xroot/USB-8
+: 1624535979:0;ls
+: 1624536083:0;vcp -R Complete\ Web\ \&\ Mobile\ Designer\ in\ 2021\ UIUX,\ Figma\ +\ more /data
+: 1624536482:0;vcp -R Learn\ Nuxt.js\ by\ Building\ a\ Real\ World\ App\ \(Complete\ Package\) /data
+: 1624536600:0;rm -rf Complete\ Web\ \&\ Mobile\ Designer\ in\ 2021\ UIUX,\ Figma\ +\ more
+: 1624536605:0;ls
+: 1624536610:0;rm -rf Learn\ Nuxt.js\ by\ Building\ a\ Real\ World\ App\ \(Complete\ Package\)
+: 1624536612:0;clear
+: 1624536613:0;ls
+: 1624536617:0;du -h
+: 1624536619:0;clear
+: 1624536685:0;cd
+: 1624536691:0;unmnt /dev/sdb1
+: 1624538715:0;mnt /dev/sdb1
+: 1624538720:0;clear
+: 1624538765:0;cd Downloads
+: 1624538766:0;ls
+: 1624538768:0;cd 2road
+: 1624538769:0;ls
+: 1624538786:0;vcp -R CityOfAngels /run/media/xroot/USB-8
+: 1624539374:0;du -h /run/media/xroot/USB-8
+: 1624539379:0;cd
+: 1624539385:0;cd /run/media/xroot/USB-8
+: 1624539385:0;ls
+: 1624539393:0;cd CityOfAngels
+: 1624539397:0;ls
+: 1624539483:0;unmnt /dev/sdb1
+: 1624539489:0;cd
+: 1624539492:0;unmnt /dev/sdb1
+: 1624539606:0;cd Downloads/2road
+: 1624539608:0;clear
+: 1624539608:0;ls
+: 1624539614:0;cd CityOfAngels
+: 1624539615:0;l
+: 1624539786:0;cd Penny.Dreadful.City.of.Angels.S01E10.720p.WEB.x265-MiNX\[TGx\]
+: 1624539788:0;ls
+: 1624539790:0;l
+: 1624539868:0;up
+: 1624539869:0;l
+: 1624539953:0;cd Penny.Dreadful.City.of.Angels.S01E03.WEB.H264-XLF\[TGx\]
+: 1624539954:0;l
+: 1624539979:0;up
+: 1624540284:0;ls
+: 1624540292:0;mnt /dev/sdb1
+: 1624540332:0;vcp -R CityOfAngels /run/media/xroot/USB-8
+: 1624541325:0;cd audiobooks
+: 1624541326:0;ls
+: 1624541342:0;vcp -R 2005\ -\ Lunar\ Park /run/media/xroot/USB-8
+: 1624541665:0;up
+: 1624541667:0;ls
+: 1624541689:0;cd c-town
+: 1624541689:0;ls
+: 1624541729:0;up
+: 1624541731:0;ls
+: 1624541968:0;cd c-town
+: 1624541969:0;ls
+: 1624542026:0;ffmpeg -i Cumtown\ Premium\ Ep.\ 239\ \(6-6-21\)\ \(p\)ride\ the\ lightning-DPjRgK8tRus.opus -acodec libmp3lame cumpremiumtown239.mp3
+: 1624542135:0;clear
+: 1624542222:0;cd /data
+: 1624542222:0;ls
+: 1624542232:0;du -h
+: 1624542235:0;clear
+: 1624542236:0;cd
+: 1624542616:0;who
+: 1624542634:0;ls
+: 1624542644:0;rm -rf Cumtown\ Premium\ Ep.\ 239\ \(6-6-21\)\ \(p\)ride\ the\ lightning-DPjRgK8tRus.opus 
+: 1624542655:0;rm -rf Cumtown\ Premium\ Ep.\ 239\ \(6-6-21\)\ \(p\)ride\ the\ lightning-DPjRgK8tRus.webm.part
+: 1624542656:0;ls
+: 1624542673:0;vcp cumpremiumtown239.mp3 /run/media/xroot/USB-8
+: 1624542685:0;unmnt /dev/sdb1
+: 1624542924:0;du -h /home/root23
+: 1624542929:0;sudo du -h /home/root23
+: 1624543012:0;clear
+: 1624543049:0;sudo userdel --remove root23
+: 1624543159:0;su
+: 1624543330:0;clear
+: 1624543623:0;up
+: 1624543631:0;ncdu
+: 1624543717:0;cd /
+: 1624543723:0;ncdu
+: 1624544073:0;cd
+: 1624544075:0;clear
+: 1624544079:0;cd Downloads
+: 1624544080:0;ls
+: 1624544083:0;cd 2road
+: 1624544083:0;ls
+: 1624544115:0;up
+: 1624544119:0;ls
+: 1624544125:0;rm -rf 2road
+: 1624544127:0;clear
+: 1624544128:0;ls
+: 1624544131:0;up
+: 1624544134:0;ncdu
+: 1624544158:0;bleachbit
+: 1624544206:0;clear
+: 1624544212:0;kleanp
+: 1624544219:0;kleany
+: 1624544226:0;clear
+: 1624544228:0;ncdu
+: 1624544260:0;clear
+: 1624544324:0;sudo gparted
+: 1624544391:0;clear
+: 1624546257:0;mnt /dev/sdb1
+: 1624546331:0;vcp -R /run/media/xroot/USB-8/* /data
+: 1624546557:0;s
+: 1624546565:0;ntf
+: 1624546570:0;ntll
+: 1624546578:0;s
+: 1624546854:0;cd /data
+: 1624546857:0;ls
+: 1624546921:0;mkdir VueJS
+: 1624546942:0;mv 1.\ Introduction\ \&\ Setup VueJS
+: 1624546968:0;mv 2.\ Vue\ Basics VueJS
+: 1624546981:0;mv 3.\ The\ Vue\ CLI\ \(for\ Bigger\ Projects\) VueJS
+: 1624547002:0;mv 4.\ PROJECT\ BUILD\ -\ Reaction\ Timer VueJS
+: 1624547209:0;mv 5.\ Forms\ \&\ Data\ Binding VueJS
+: 1624547222:0;mv 6.\ Vue\ Router\ Basics VueJS
+: 1624547239:0;mv 7.\ Fetching\ Data VueJS
+: 1624547252:0;mv 8.\ PROJECT\ BUILD\ -\ Simple\ Project\ Planner VueJS
+: 1624547265:0;mv 9.\ The\ Composition\ API VueJS
+: 1624547282:0;mv 10.\ Async\ Code\ \(\&\ the\ Composition\ API\) VueJS
+: 1624547297:0;mv 11.\ Routing\ \(with\ the\ Composition\ API\) VueJS
+: 1624547307:0;mv 12.\ Firebase\ Databases\ \(Firestore\) VueJS
+: 1624547312:0;ls
+: 1624580001:0;nmtui
+: 1624580089:0;nt
+: 1624580122:0;nmtui
+: 1624580159:0;c
+: 1624580238:0;ntf
+: 1624580243:0;ntll
+: 1624580907:0;ntf
+: 1624582000:0;ds
+: 1624582123:0;S
+: 1624582136:0;s
+: 1624583632:0;clear
+: 1624583639:0;mnt /dev/sdb1
+: 1624583696:0;vcp -R /run/media/xroot/USB-8/* /data/VueJS
+: 1624584155:0;unmnt /dev/sdb1
+: 1624584162:0;cd /data/VueJS
+: 1624584163:0;ls
+: 1624584744:0;nano /etc/fstab
+: 1624585487:0;cd /mnt
+: 1624585489:0;ls
+: 1624585490:0;ls -a
+: 1624585503:0;mkdir STORAGE
+: 1624585817:0;ka polybar
+: 1624585820:0;sh .config/polybar/launch.sh
+: 1624585841:0;id
+: 1624585898:0;unmt /dev/sda2
+: 1624585916:0;unmnt /dev/sda2
+: 1624585944:0;ls
+: 1624585956:0;sudo mkdir STORAGE
+: 1624585999:0;sudo nano /etc/fstab
+: 1624586158:0;sudo mount -a
+: 1624586164:0;ls
+: 1624586166:0;cd STORAGE
+: 1624586168:0;ls
+: 1624586217:0;up
+: 1624586237:0;sudo chmod -Rv 777 STORAGE
+: 1624586275:0;ls
+: 1624586302:0;sudo chown -R xroot STORAGE
+: 1624586304:0;ls
+: 1624586316:0;up
+: 1624586325:0;sudo chown -R xroot /mnt/STORAGE
+: 1624586341:0;sudo chmod -Rv 777 /mnt/STORAGE
+: 1624586344:0;clear
+: 1624586357:0;cd /mnt/STORAGE
+: 1624586358:0;ls
+: 1624586364:0;du -h
+: 1624586379:0;clear
+: 1624586420:0;id
+: 1624586467:0;ls
+: 1624586493:0;clear
+: 1624586508:0;cd
+: 1624586517:0;sudo nano /etc/fstab
+: 1624586570:0;sudo mount -a
+: 1624586578:0;unmnt /dev/sda2
+: 1624586585:0;clear
+: 1624586587:0;sudo mount -a
+: 1624586591:0;cd /data
+: 1624586592:0;ls
+: 1624586603:0;up
+: 1624586630:0;sudo chmod -Rv 777 /data
+: 1624586649:0;sudo chown -R xroot /data
+: 1624586651:0;clear
+: 1624586652:0;ls
+: 1624586661:0;cd mnt
+: 1624586662:0;ls
+: 1624586664:0;cd STORAGE
+: 1624586664:0;ls
+: 1624586666:0;clear
+: 1624586874:0;pacman -Qtd
+: 1624587431:0;whereis scide sclang scsynth
+: 1624587503:0;p -R supercollider
+: 1624587542:0;p -R haskell-tidal
+: 1624587570:0;p -R supercollider
+: 1624587633:0;clear
+: 1624587637:0;whereis scide sclang scsynth
+: 1624587642:0;clear
+: 1624587654:0;pacman -Q | awk '{ print $1; }' | xargs pacman -Qi | grep 'Size' | awk '{ print $4$5; }') <(pacman -Q | awk '{print $1; }') | sort -n | column -t 
+: 1624587676:0;(pacman -Q | awk '{ print $1; }' | xargs pacman -Qi | grep 'Size' | awk '{ print $4$5; }') <(pacman -Q | awk '{print $1; }') | sort -n | column -t~
+: 1624587688:0;pacman -Qi $(pacman -Qq)|grep 'Name\|Size'| cut -d: -f2 | paste - - | column -t | sort -nk2
+: 1624587757:0;clear
+: 1624587759:0;expac -S -H M "%m %n"|sort -n
+: 1624587931:0;sudo gparted
+: 1624588243:0;p -R kicad
+: 1624588262:0;yay -R kicad
+: 1624588407:0;clear
+: 1624588409:0;pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | tr '\nK' ' \n' | sort -nrk 2 | less 
+: 1624588452:0;p -R sway waybar wayland wayland-protocols
+: 1624588547:0;p -R wofi
+: 1624588557:0;p -R vlc
+: 1624588581:0;p -R sway waybar
+: 1624588620:0;p -R terminator
+: 1624588665:0;p -R surf-randoragon-git
+: 1624588686:0;p -R swaybg
+: 1624588711:0;p -R st-luke-git
+: 1624588752:0;p -R slang
+: 1624588787:0;p -R rtorrent
+: 1624588811:0;p -R redshift redshift-qt
+: 1624589109:0;p -R kitty alacritty
+: 1624589128:0;p -R kitty-terminfo
+: 1624589293:0;p -R i3-gaps i3lock i3status 
+: 1624590113:0;pacman -Rsc xmonad xmonad-contrib
+: 1624590121:0;p -Rsc xmonad xmonad-contrib
+: 1624590138:0;p -S xmonad xmonad-contrib
+: 1624590212:0;p -Rsc xmonad xmonad-contrib
+: 1624590266:0;p -Rsc ghc
+: 1624590311:0;clear
+: 1624590314:0;ls -a
+: 1624590331:0;rm -rf .xmonad 
+: 1624590380:0;p -S ghc
+: 1624590529:0;nmtui
+: 1624590550:0;s
+: 1624590627:0;ntf
+: 1624590628:0;ds
+: 1624590651:0;s
+: 1624590711:0;p -Rsc ghc
+: 1624590779:0;p -Rsc gnuradio
+: 1624590800:0;p -R gnuradio
+: 1624590831:0;p -R gnuradio-iqbal 
+: 1624590843:0;p -Rsc gnuradio
+: 1624590919:0;p -Rsc fish
+: 1624590937:0;p -S supercollider
+: 1624590959:0;p -Rsc supercollider
+: 1624590976:0;p -R supercollider
+: 1624590994:0;p -S haskell-tidal
+: 1624591037:0;p -Rsc haskell-tidal
+: 1624591152:0;p -Rsc cadence
+: 1624591166:0;p -R cadence
+: 1624591233:0;p -R blackarch-keyring
+: 1624591280:0;p -Rsc awesome
+: 1624591290:0;p -R awesome
+: 1624591356:0;pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | tr '\nK' ' \n' | sort -nrk 2 | less 
+: 1624591557:0;p -Rsc haskell-aeson
+: 1624591696:0;pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | tr '\nK' ' \n' | sort -nrk 2 | less 
+: 1624591766:0;clear
+: 1624591769:0;update
+: 1624591825:0;yay -Syu
+: 1624591960:0;kleap
+: 1624591964:0;kleanp
+: 1624591968:0;kleany
+: 1624591974:0;clear
+: 1624592052:0;c
+: 1624592240:0;cd /run/media
+: 1624592241:0;ls
+: 1624592245:0;du -h root23
+: 1624592251:0;sudo du -h root23
+: 1624592261:0;sudo rm -rg root23
+: 1624592267:0;sudo rm -rf root23
+: 1624592269:0;ls
+: 1624592271:0;clear
+: 1624592529:0;ds
+: 1624592582:0;protonvpn configure
+: 1624592588:0;sudo protonvpn configure
+: 1624592597:0;clear
+: 1624592724:0;sudo pip3 uninstall protonvpn-cli
+: 1624592759:0;clear
+: 1624592929:0;yay -S protonvpn
+: 1624593006:0;yay -S kwallet
+: 1624593028:0;yay -S gnome-keyring
+: 1624593046:0;yay -S protonvpn
+: 1624593077:0;yay -S kwallet
+: 1624593156:0;yay -S protonvpn
+: 1624593257:0;pacman-key --add Downloads/public_key.asc
+: 1624593264:0;sudo pacman-key --add Downloads/public_key.asc
+: 1624593272:0;yay -S protonvpn
+: 1624593352:0;pacman-key --lsign-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624593356:0;sudo pacman-key --lsign-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624593364:0;yay -S protonvpn
+: 1624593660:0;gpg --keyserver keyserver.ubuntu.com --recv-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624593684:0;sudo protonvpn
+: 1624593701:0;clear
+: 1624593704:0;protonvpn
+: 1624594140:0;protonvpn -h
+: 1624594154:0;ka protonvpn
+: 1624594200:0;yay -R protonvpn
+: 1624594221:0;nt
+: 1624594225:0;nmtui
+: 1624594256:0;yay -S protonvpn-cli
+: 1624594316:0;protonvpn configure
+: 1624594336:0;nmtui
+: 1624594360:0;nmcli connection show --active
+: 1624594376:0;nmcli connection delete pvpn-ipv6leak-protection
+: 1624594443:0;p -S pamac
+: 1624594447:0;yay -S pamac
+: 1624594518:0;clear
+: 1624594536:0;yay -S protonvpn
+: 1624594811:0;ka protonvpn
+: 1624595004:0;yay -R protonvpn
+: 1624595009:0;clear
+: 1624595027:0;yay -S protonvpn-cli-ng-git
+: 1624595141:0;yay -R protonvpn-cli protonvpn-gui 
+: 1624595151:0;clear
+: 1624595193:0;yay -S protonvpn-cli
+: 1624595248:0;c
+: 1624595266:0;protonvpn
+: 1624595269:0;protonvpn-cli
+: 1624595293:0;v .config/aliasrc
+: 1624595419:0;c
+: 1624595489:0;vpn login machetek
+: 1624595506:0;clear
+: 1624595522:0;c
+: 1624595556:0;vcp c
+: 1624595562:0;vpn c
+: 1624595573:0;vpn login machetek
+: 1624595588:0;vpn c
+: 1624595635:0;vpn -h
+: 1624595646:0;vpn config
+: 1624595702:0;vpn login nqpRKN3qc0NUxyzPYijluY3eqGt5XuU0
+: 1624595753:0;vpn login machetek@protonmail.com
+: 1624595771:0;vpn c
+: 1624595780:0;protonvpn-cli
+: 1624595788:0;protonvpn-cli s
+: 1624595793:0;protonvpn-cli c
+: 1624595891:0;rm -rf ~/.cache/protonvpn
+: 1624595895:0;clear
+: 1624595903:0;sudo vpn c
+: 1624595915:0;sudo protonvpn-cli
+: 1624595923:0;protonvpn-cli 
+: 1624595929:0;protonvpn-cli c -f
+: 1624595957:0;yay -R protonvpn-cli
+: 1624595962:0;clear
+: 1624596327:0;p -R gnome-keyring
+: 1624596335:0;clear
+: 1624596356:0;p -S kwallet
+: 1624596372:0;p -Rns kwallet
+: 1624596384:0;p -S kwallet
+: 1624596399:0;clear
+: 1624596481:0;yay -S protonvpn-cli
+: 1624596855:0;gpg --recv-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624596981:0;p -S archlinux-keyring
+: 1624597034:0;yay -S protonvpn-cli
+: 1624597040:0;gpg --recv-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624597087:0;sudo pacman-key --refresh-keys
+: 1624597448:0;gpg --recv-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624597451:0;yay -S protonvpn-cli
+: 1624597668:0;sudo pacman-key --add Downloads/public_key.asc
+: 1624597716:0;sudo pacman-key --finger A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624597751:0;sudo pacman-key --lsign-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624597779:0;yay -S protonvpn-cli
+: 1624597824:0;vpn login machetek
+: 1624597844:0;vpn c
+: 1624597936:0;gpg --recv-key A88441BD4864F95BEE08E63A71EB474019940E11
+: 1624598278:0;yay -R protonvpn-cli
+: 1624598282:0;clear
+: 1624598494:0;sudo systemctl enable vpn-unlimited-daemon.service
+: 1624598503:0;sudo systemctl start vpn-unlimited-daemon.service
+: 1624598949:0;bleachbit
+: 1624603166:0;s
+: 1624603313:0;ntf
+: 1624603315:0;ntl
+: 1624604826:0;ntf
+: 1624604829:0;ntl
+: 1624605016:0;nthg
+: 1624608567:0;s
+: 1624610227:0;sudo systemctl stop vpn-unlimited-daemon.service
+: 1624610250:0;ka vpn-unlimited
+: 1624610320:0;nt
+: 1624610328:0;nmtui
+: 1624610338:0;ntf
+: 1624610339:0;ntl
+: 1624610344:0;ka polybar
+: 1624610346:0;sh .config/polybar/launch.sh
+: 1624610391:0;sudo systemctl start vpn-unlimited-daemon.service
+: 1624610472:0;htop
+: 1624610602:0;nt
+: 1624610657:0;reboot
+: 1624610732:0;startx
+: 1624610787:0;ntl
+: 1624610940:0;p -S protonvpn-cli
+: 1624610950:0;yay -S protonvpn-cli
+: 1624611037:0;clear
+: 1624611050:0;protonvpn-cli login machetek
+: 1624611084:0;protonvpn-cli c -f
+: 1624611139:0;gpg-connect-agent --dirmngr
+: 1624611231:0;sudo gpg --import Downloads/public_key.asc
+: 1624611243:0;yay -S protonvpn-cli
+: 1624611267:0;yay -R protonvpn-cli
+: 1624611304:0;clear
+: 1624611317:0;yay -S protonvpn-cli
+: 1624611460:0;vpn login machetek
+: 1624611474:0;vpn c
+: 1624611574:0;yay -S protonvpn
+: 1624611733:0;clear
+: 1624611968:0;nmcli connection delete pvpn-ipv6leak-protection
+: 1624612242:0;ntf
+: 1624612244:0;ntl
+: 1624612478:0;ntf
+: 1624612481:0;ntl
+: 1624612484:0;nthg
+: 1624631708:0;cd /data
+: 1624631709:0;ls
+: 1624631713:0;cd VueJS
+: 1624631715:0;ls
+: 1624631728:0;clear
+: 1624636955:0;s
+: 1624636960:0;nmtui
+: 1624636993:0;s
+: 1624636998:0;ntf
+: 1624637002:0;ntl
+: 1624638091:0;mnt /dev/sdb1
+: 1624638146:0;vcp -R /run/media/xroot/USB-8/* /data/VueJS
+: 1624638341:0;cd /data/VueJS
+: 1624638345:0;ls
+: 1624638412:0;du -h
+: 1624638446:0;unmnt /dev/sdb1
+: 1624638490:0;cd Documents/notes2
+: 1624638496:0;ls
+: 1624638503:0;cd
+: 1624638506:0;ls
+: 1624638514:0;cd Downloads
+: 1624638516:0;ls
+: 1624638526:0;clear
+: 1624639842:0;ntf
+: 1624639852:0;ntll
+: 1624674628:0;nt
+: 1624674651:0;nmtui
+: 1624674680:0;ntf
+: 1624676837:0;nmtui
+: 1624676849:0;s
+: 1624677580:0;nt
+: 1624678556:0;pv -1 Myw_Hsc-8cU
+: 1624680556:0;nmtui
+: 1624680564:0;s
+: 1624681013:0;nt
+: 1624681030:0;nmcli connection delete pvpn-ipv6leak-protection
+: 1624681139:0;nmtui
+: 1624681154:0;s
+: 1624681161:0;ping google.com
+: 1624681253:0;reboot
+: 1624681326:0;startx
+: 1624681368:0;s
+: 1624681392:0;ping google.com
+: 1624681580:0;ip link show dev wlp0s29f7u1
+: 1624681584:0;nmtui
+: 1624681597:0;clear
+: 1624681634:0;s
+: 1624684354:0;nmtui
+: 1624685413:0;s
+: 1624686295:0;git clone https://github.com/JopStro/bspswallow.git
+: 1624686309:0;cd bspswallow
+: 1624686310:0;ls
+: 1624686314:0;cd alternative
+: 1624686314:0;ls
+: 1624686325:0;sudo chmod +x bspswallow
+: 1624686330:0;cd
+: 1624686335:0;mkdir .scripts
+: 1624686352:0;cp bspswallow/alternative/bspswallow .scripts
+: 1624686355:0;clear
+: 1624686411:0;v .config/bspwm/bspwmrc
+: 1624686454:0;sudo cp .scripts/bspswallow /bin
+: 1624686456:0;clear
+: 1624686574:0;cd bspswallow
+: 1624686575:0;ls
+: 1624686579:0;cd alternative
+: 1624686579:0;ls
+: 1624686582:0;up
+: 1624686589:0;cd examples
+: 1624686591:0;ls
+: 1624686598:0;cd scripts
+: 1624686599:0;ls
+: 1624686605:0;up
+: 1624686615:0;ls
+: 1624686619:0;nano noswallow
+: 1624686630:0;nano terminals
+: 1624686661:0;cd
+: 1624686662:0;clear
+: 1624686678:0;cp bspswallow/examples/terminals .config/bspwm
+: 1624686690:0;cp bspswallow/examples/noswallow .config/bspwm
+: 1624686694:0;cd .config/bspwm
+: 1624686695:0;ls
+: 1624686703:0;nano terminals
+: 1624686744:0;p -S xprop
+: 1624686749:0;yay -S xprop
+: 1624686805:0;zathura
+: 1624686838:0;cd .config/bspwm
+: 1624686850:0;nano terminals
+: 1624686876:0;xprop
+: 1624686896:0;zathura
+: 1624687011:0;cd .config/bspwm
+: 1624687014:0;nano terminals
+: 1624687027:0;lf
+: 1624687039:0;ls
+: 1624687042:0;lf
+: 1624687045:0;ranger
+: 1624687058:0;mpv
+: 1624687070:0;pv -1 Myw_Hsc-8cU
+: 1624687103:0;zathura
+: 1624687209:0;nmtui
+: 1624694222:0;ntf
+: 1624694225:0;ntl
+: 1624696009:0;ka polybar
+: 1624696012:0;sh .config/polybar/launch.sh
+: 1624696858:0;nthg
+: 1624696904:0;ntf
+: 1624696905:0;ntll
+: 1624699340:0;mkdir OnlineCoursesLinks
+: 1624699361:0;cd OnlineCoursesLinks
+: 1624699371:0;nano linx
+: 1624703195:0;sudo systemctl stop vpn-unlimited-daemon.service
+: 1624703201:0;sudo systemctl disable vpn-unlimited-daemon.service
+: 1624703206:0;clear
+: 1624703210:0;protonvpn
+: 1624703346:0;nmcli connection delete pvpn-ipv6leak-protection
+: 1624703352:0;nmcli connection show --active
+: 1624703364:0;clear
+: 1624703384:0;yay -R protonvpn protonvpn-cli 
+: 1624703424:0;yay -R protonvpn-gui
+: 1624703431:0;clear
+: 1624703447:0;yay -S protonvpn-cli-ng
+: 1624703494:0;clear
+: 1624703497:0;c
+: 1624703509:0;sudo protonvpn c
+: 1624703516:0;sudo protonvpn init
+: 1624703621:0;clear
+: 1624703628:0;v .config/aliasrc
+: 1624703706:0;c
+: 1624703726:0;clear
+: 1624703852:0;ntf
+: 1624703854:0;ntl
+: 1624703856:0;vpn s
+: 1624704073:0;ntf
+: 1624704077:0;ntll
+: 1624704081:0;nthg
+: 1624708445:0;reboot
+: 1624708626:0;st
+: 1624708633:0;startx
+: 1624708674:0;st
+: 1624708685:0;p -R st
+: 1624708711:0;yay -R st
+: 1624708759:0;clear
+: 1624708768:0;c
+: 1624708784:0;clear
+: 1624708788:0;vpn c
+: 1624708816:0;clear
+: 1624708818:0;vpn s
+: 1624708825:0;ntf
+: 1624708827:0;ntl
+: 1624708890:0;s
+: 1624709621:0;st
+: 1624709830:0;nano .zprofile
+: 1624709991:0;mkdir zshdots
+: 1624709994:0;cd zshdots
+: 1624710007:0;git clone https://github.com/ChristianChiarulli/Machfiles.git
+: 1624710025:0;ls
+: 1624710027:0;cd Machfiles
+: 1624710028:0;ls
+: 1624710031:0;cd
+: 1624710033:0;clear
+: 1624710052:0;cd .config/
+: 1624710053:0;ls
+: 1624710061:0;ls -a
+: 1624710089:0;clear
+: 1624710090:0;c
+: 1624710106:0;clear
+: 1624710106:0;ntf
+: 1624710108:0;ntl
+: 1624710109:0;cd
+: 1624710110:0;clear
+: 1624710115:0;ls
+: 1624710120:0;ls -a
+: 1624710130:0;nano .zshrc
+: 1624710204:0;mv .zshrc zshrc.old
+: 1624710226:0;clear
+: 1624710245:0;cp -R zshdots/Machfiles/zsh .config
+: 1624710250:0;clear
+: 1624710251:0;cf
+: 1624710255:0;cd zsh
+: 1624710256:0;ls
+: 1624710261:0;ls -a
+: 1624710266:0;cd .config
+: 1624710266:0;ls
+: 1624710269:0;cd zsh
+: 1624710270:0;ls
+: 1624710284:0;up
+: 1624710333:0;cp -R zsh/.config/zsh/* ~/.config/zsh
+: 1624710336:0;clear
+: 1624710336:0;ls
+: 1624710339:0;cd zsh
+: 1624710340:0;ls
+: 1624710347:0;ls -a
+: 1624710363:0;cd .config
+: 1624710364:0;;s
+: 1624710366:0;ls
+: 1624710369:0;cd zsh
+: 1624710370:0;ls
+: 1624710373:0;ls -a 
+: 1624710394:0;clear
+: 1624710397:0;cd
+: 1624710400:0;cd .config
+: 1624710409:0;rm -rf zsh
+: 1624710414:0;clear
+: 1624710415:0;cd
+: 1624710456:0;cp -R zshdots/Machfiles/zsh/.config/zsh .config
+: 1624710457:0;clear
+: 1624710459:0;cd .config
+: 1624710460:0;ls
+: 1624710464:0;cd zsh
+: 1624710464:0;ls
+: 1624710465:0;ls -a 
+: 1624710475:0;nanp .zshrc
+: 1624710479:0;nano .zshrc
+: 1624710567:0;startx
+: 1624710689:0;cp -R zshdots/Machfiles/zsh/.config/zsh .config
+: 1624710691:0;clear
+: 1624710714:0;mv .zshrc zshrc.old
+: 1624710727:0;mv .config/zsh/.zshrc ~/
+: 1624710760:0;mv .zshrc .config/zsh
+: 1624710780:0;nano .zprofile
+: 1624710868:0;startx
+: 1624711430:0;nt
+: 1624711434:0;ntf
+: 1624711437:0;c
+: 1624711462:0;vpn c
+: 1624711513:0;ntf
+: 1624711513:0;ntl
+: 1624711514:0;s
+: 1624711641:0;nano .zshrc
+: 1624711818:0;cd dotfiles
+: 1624711821:0;clear
+: 1624711823:0;cd
+: 1624712040:0;ls -a
+: 1624712053:0;nano .xprofile
+: 1624712063:0;rm -rf .xprofile
+: 1624712072:0;cd .oh-my-zsh
+: 1624712077:0;ls
+: 1624712089:0;v oh-my-zsh.sh
+: 1624712265:0;nthg
+: 1624712621:0;cd zshdots/Machfiles/zsh/.config/zsh
+: 1624712621:0;ls
+: 1624712630:0;nano zshrc
+: 1624712635:0;clear
+: 1624712675:0;ls 
+: 1624712703:0;cd
+: 1624712705:0;clear
+: 1624712918:0;nano zshdots/Machfiles/x/.xprofile
+: 1624712938:0;nano .zprofile
+: 1624712961:0;clear
+: 1624713061:0;cp -R zshdots/Machfiles/zsh/.config/zsh .config
+: 1624713063:0;clear
+: 1624713081:0;mv .zshrc zshrc.old
+: 1624713088:0;cd .config/zsh
+: 1624713088:0;ls
+: 1624713098:0;sudo chmod +x zshrc
+: 1624713103:0;ls -a
+: 1624713124:0;mv .zshrc ~/
+: 1624713210:0;nano zshrc
+: 1624713256:0;nanp .zprofile
+: 1624713260:0;nano .zprofile
+: 1624713309:0;ls
+: 1624713327:0;nano .zshrc
+: 1624713383:0;sudo chown root .zshrc
+: 1624713479:0;ls
+: 1624713481:0;cd completion
+: 1624713481:0;ls
+: 1624713483:0;up
+: 1624713484:0;ls
+: 1624713500:0;nano zsh-functions
+: 1624713528:0;nvim zsh-functions
+: 1624713744:0;nvim zsh-aliases
+: 1624713763:0;nvim zsh-exports
+: 1624713810:0;nvim zsh-prompt
+: 1624713843:0;nvim zshrc
+: 1624714048:0;nvim zsh-functions
+: 1624714112:0;nvim zshrc
+: 1624714149:0;nvim zsh-exports
